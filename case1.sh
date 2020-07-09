@@ -31,6 +31,7 @@ esac
 #		;;
 #	"2")
 #		echo 'shenzhen is sale'
+#afasf
 #		;;
 #	"3")
 #		echo 'shanghai is sale'
