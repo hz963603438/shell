@@ -1,8 +1,0 @@
-文件系统             容量  已用  可用 已用% 挂载点
-/dev/mapper/cl-root   17G   12G  5.6G   68% /
-devtmpfs             473M     0  473M    0% /dev
-tmpfs                489M     0  489M    0% /dev/shm
-tmpfs                489M   26M  463M    6% /run
-tmpfs                489M     0  489M    0% /sys/fs/cgroup
-/dev/sda1           1014M  173M  842M   18% /boot
-tmpfs                 98M     0   98M    0% /run/user/0
