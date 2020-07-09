@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:21:06" endTime="2019-05-22 00:59:00" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="213" channelName="四川卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2131905210121060" programName="踏破硝烟(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">踏破硝烟(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210202400" programName="踏破硝烟(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">踏破硝烟(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210243350" programName="纪录时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210413350" programName="雪豹(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">雪豹(18)</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210456020" programName="雪豹(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">雪豹(19)</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210536540" programName="雪豹(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">雪豹(20)</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210618100" programName="纪录时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210641220" programName="节目欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">节目欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210700520" programName="早安四川20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">早安四川20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210731240" programName="节目欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">节目欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210749430" programName="爱上川菜20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">爱上川菜20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210758550" programName="西游记的故事(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记的故事(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210808560" programName="西游记的故事(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记的故事(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210818080" programName="节目欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">节目欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210836200" programName="狐影(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">狐影(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905210939480" programName="狐影(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">狐影(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211031140" programName="狐影(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">狐影(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211121320" programName="狐影(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">狐影(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211206340" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211213370" programName="狐影(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">狐影(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211301150" programName="游击英雄(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211354510" programName="游击英雄(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211445200" programName="游击英雄(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211524440" programName="游击英雄(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211555280" programName="特需专家号20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">特需专家号20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211629140" programName="游击英雄(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211710470" programName="游击英雄(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211759340" programName="今日视点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日视点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211829470" programName="四川新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四川新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211855410" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905211936520" programName="凉生我们可不可以不忧伤(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">凉生我们可不可以不忧伤(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212032270" programName="凉生我们可不可以不忧伤(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">凉生我们可不可以不忧伤(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212123520" programName="凉生我们可不可以不忧伤特别节目20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">凉生我们可不可以不忧伤特别节目20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212200020" programName="四川新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四川新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212228270" programName="复合大师(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">复合大师(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212308500" programName="美丽星时尚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽星时尚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212343060" programName="旅游风景区天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">旅游风景区天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905212347200" programName="复合大师(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">复合大师(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2131905220028000" programName="美丽人生20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽人生20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2131905210121060" programID="2131905210121060" channelID="213" channelName="四川卫视" startTime="2019-05-21 01:21:06" endTime="2019-05-21 02:02:40" catchedByOperator="" programName="踏破硝烟(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210202400" programID="2131905210202400" channelID="213" channelName="四川卫视" startTime="2019-05-21 02:02:40" endTime="2019-05-21 02:43:35" catchedByOperator="" programName="踏破硝烟(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210243350" programID="2131905210243350" channelID="213" channelName="四川卫视" startTime="2019-05-21 02:43:35" endTime="2019-05-21 04:13:35" catchedByOperator="" programName="纪录时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210413350" programID="2131905210413350" channelID="213" channelName="四川卫视" startTime="2019-05-21 04:13:35" endTime="2019-05-21 04:56:02" catchedByOperator="" programName="雪豹(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210456020" programID="2131905210456020" channelID="213" channelName="四川卫视" startTime="2019-05-21 04:56:02" endTime="2019-05-21 05:36:54" catchedByOperator="" programName="雪豹(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210536540" programID="2131905210536540" channelID="213" channelName="四川卫视" startTime="2019-05-21 05:36:54" endTime="2019-05-21 06:18:10" catchedByOperator="" programName="雪豹(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210618100" programID="2131905210618100" channelID="213" channelName="四川卫视" startTime="2019-05-21 06:18:10" endTime="2019-05-21 06:41:22" catchedByOperator="" programName="纪录时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210641220" programID="2131905210641220" channelID="213" channelName="四川卫视" startTime="2019-05-21 06:41:22" endTime="2019-05-21 07:00:52" catchedByOperator="" programName="节目欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210700520" programID="2131905210700520" channelID="213" channelName="四川卫视" startTime="2019-05-21 07:00:52" endTime="2019-05-21 07:31:24" catchedByOperator="" programName="早安四川20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210731240" programID="2131905210731240" channelID="213" channelName="四川卫视" startTime="2019-05-21 07:31:24" endTime="2019-05-21 07:49:43" catchedByOperator="" programName="节目欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210749430" programID="2131905210749430" channelID="213" channelName="四川卫视" startTime="2019-05-21 07:49:43" endTime="2019-05-21 07:58:55" catchedByOperator="" programName="爱上川菜20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210758550" programID="2131905210758550" channelID="213" channelName="四川卫视" startTime="2019-05-21 07:58:55" endTime="2019-05-21 08:08:56" catchedByOperator="" programName="西游记的故事(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210808560" programID="2131905210808560" channelID="213" channelName="四川卫视" startTime="2019-05-21 08:08:56" endTime="2019-05-21 08:18:08" catchedByOperator="" programName="西游记的故事(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210818080" programID="2131905210818080" channelID="213" channelName="四川卫视" startTime="2019-05-21 08:18:08" endTime="2019-05-21 08:36:20" catchedByOperator="" programName="节目欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210836200" programID="2131905210836200" channelID="213" channelName="四川卫视" startTime="2019-05-21 08:36:20" endTime="2019-05-21 09:39:48" catchedByOperator="" programName="狐影(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905210939480" programID="2131905210939480" channelID="213" channelName="四川卫视" startTime="2019-05-21 09:39:48" endTime="2019-05-21 10:31:14" catchedByOperator="" programName="狐影(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211031140" programID="2131905211031140" channelID="213" channelName="四川卫视" startTime="2019-05-21 10:31:14" endTime="2019-05-21 11:21:32" catchedByOperator="" programName="狐影(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211121320" programID="2131905211121320" channelID="213" channelName="四川卫视" startTime="2019-05-21 11:21:32" endTime="2019-05-21 12:06:34" catchedByOperator="" programName="狐影(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211206340" programID="2131905211206340" channelID="213" channelName="四川卫视" startTime="2019-05-21 12:06:34" endTime="2019-05-21 12:13:37" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211213370" programID="2131905211213370" channelID="213" channelName="四川卫视" startTime="2019-05-21 12:13:37" endTime="2019-05-21 13:01:15" catchedByOperator="" programName="狐影(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211301150" programID="2131905211301150" channelID="213" channelName="四川卫视" startTime="2019-05-21 13:01:15" endTime="2019-05-21 13:54:51" catchedByOperator="" programName="游击英雄(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211354510" programID="2131905211354510" channelID="213" channelName="四川卫视" startTime="2019-05-21 13:54:51" endTime="2019-05-21 14:45:20" catchedByOperator="" programName="游击英雄(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211445200" programID="2131905211445200" channelID="213" channelName="四川卫视" startTime="2019-05-21 14:45:20" endTime="2019-05-21 15:24:44" catchedByOperator="" programName="游击英雄(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211524440" programID="2131905211524440" channelID="213" channelName="四川卫视" startTime="2019-05-21 15:24:44" endTime="2019-05-21 15:55:28" catchedByOperator="" programName="游击英雄(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211555280" programID="2131905211555280" channelID="213" channelName="四川卫视" startTime="2019-05-21 15:55:28" endTime="2019-05-21 16:29:14" catchedByOperator="" programName="特需专家号20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211629140" programID="2131905211629140" channelID="213" channelName="四川卫视" startTime="2019-05-21 16:29:14" endTime="2019-05-21 17:10:47" catchedByOperator="" programName="游击英雄(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211710470" programID="2131905211710470" channelID="213" channelName="四川卫视" startTime="2019-05-21 17:10:47" endTime="2019-05-21 17:59:34" catchedByOperator="" programName="游击英雄(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211759340" programID="2131905211759340" channelID="213" channelName="四川卫视" startTime="2019-05-21 17:59:34" endTime="2019-05-21 18:29:47" catchedByOperator="" programName="今日视点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211829470" programID="2131905211829470" channelID="213" channelName="四川卫视" startTime="2019-05-21 18:29:47" endTime="2019-05-21 18:55:41" catchedByOperator="" programName="四川新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211855410" programID="2131905211855410" channelID="213" channelName="四川卫视" startTime="2019-05-21 18:55:41" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211900000" programID="2131905211900000" channelID="213" channelName="四川卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:36:52" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905211936520" programID="2131905211936520" channelID="213" channelName="四川卫视" startTime="2019-05-21 19:36:52" endTime="2019-05-21 20:32:27" catchedByOperator="" programName="凉生我们可不可以不忧伤(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212032270" programID="2131905212032270" channelID="213" channelName="四川卫视" startTime="2019-05-21 20:32:27" endTime="2019-05-21 21:23:52" catchedByOperator="" programName="凉生我们可不可以不忧伤(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212123520" programID="2131905212123520" channelID="213" channelName="四川卫视" startTime="2019-05-21 21:23:52" endTime="2019-05-21 22:00:02" catchedByOperator="" programName="凉生我们可不可以不忧伤特别节目20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212200020" programID="2131905212200020" channelID="213" channelName="四川卫视" startTime="2019-05-21 22:00:02" endTime="2019-05-21 22:28:27" catchedByOperator="" programName="四川新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212228270" programID="2131905212228270" channelID="213" channelName="四川卫视" startTime="2019-05-21 22:28:27" endTime="2019-05-21 23:08:50" catchedByOperator="" programName="复合大师(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212308500" programID="2131905212308500" channelID="213" channelName="四川卫视" startTime="2019-05-21 23:08:50" endTime="2019-05-21 23:43:06" catchedByOperator="" programName="美丽星时尚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212343060" programID="2131905212343060" channelID="213" channelName="四川卫视" startTime="2019-05-21 23:43:06" endTime="2019-05-21 23:47:20" catchedByOperator="" programName="旅游风景区天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905212347200" programID="2131905212347200" channelID="213" channelName="四川卫视" startTime="2019-05-21 23:47:20" endTime="2019-05-22 00:28:00" catchedByOperator="" programName="复合大师(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2131905220028000" programID="2131905220028000" channelID="213" channelName="四川卫视" startTime="2019-05-22 00:28:00" endTime="2019-05-22 00:59:00" catchedByOperator="" programName="美丽人生20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

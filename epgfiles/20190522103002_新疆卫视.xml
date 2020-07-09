@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:35:07" endTime="2019-05-22 01:33:53" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="216" channelName="新疆卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2161905210135070" programName="我的前半生(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的前半生(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210216570" programName="美好生活(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210259160" programName="美好生活(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210344350" programName="美好生活(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210429030" programName="美好生活(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210529100" programName="美好生活(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210634540" programName="美好生活(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210745080" programName="彩虹宝宝(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">彩虹宝宝(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210800280" programName="新疆新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新疆新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210834520" programName="今日聚焦20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日聚焦20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210900510" programName="真实纪录20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真实纪录20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905210928160" programName="薛平贵与王宝钏(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(14)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211032480" programName="薛平贵与王宝钏(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(15)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211113310" programName="超级美味20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级美味20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211145010" programName="薛平贵与王宝钏(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(16)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211254260" programName="薛平贵与王宝钏(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(17)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211335070" programName="晒美丽20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晒美丽20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211400020" programName="新闻午报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻午报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211421520" programName="铁齿铜牙纪晓岚续(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁齿铜牙纪晓岚续(42)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211532020" programName="铁齿铜牙纪晓岚续(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁齿铜牙纪晓岚续(43)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211644490" programName="铁齿铜牙纪晓岚(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁齿铜牙纪晓岚(1)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211804320" programName="彩虹宝宝(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">彩虹宝宝(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211816500" programName="彩虹宝宝(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">彩虹宝宝(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211832220" programName="我们都是追梦人20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们都是追梦人20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905211930280" programName="新疆新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新疆新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212004520" programName="今日聚焦20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日聚焦20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212016420" programName="好先生(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好先生(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212103110" programName="好先生(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好先生(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212150320" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212200290" programName="新疆新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新疆新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212234530" programName="我们都是追梦人20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们都是追梦人20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212256020" programName="美丽新疆40年20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽新疆40年20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212331010" programName="新闻夜班车20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻夜班车20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905212351020" programName="我的前半生(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的前半生(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2161905220053160" programName="我的前半生(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的前半生(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2161905210135070" programID="2161905210135070" channelID="216" channelName="新疆卫视" startTime="2019-05-21 01:35:07" endTime="2019-05-21 02:16:57" catchedByOperator="" programName="我的前半生(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210216570" programID="2161905210216570" channelID="216" channelName="新疆卫视" startTime="2019-05-21 02:16:57" endTime="2019-05-21 02:59:16" catchedByOperator="" programName="美好生活(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210259160" programID="2161905210259160" channelID="216" channelName="新疆卫视" startTime="2019-05-21 02:59:16" endTime="2019-05-21 03:44:35" catchedByOperator="" programName="美好生活(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210344350" programID="2161905210344350" channelID="216" channelName="新疆卫视" startTime="2019-05-21 03:44:35" endTime="2019-05-21 04:29:03" catchedByOperator="" programName="美好生活(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210429030" programID="2161905210429030" channelID="216" channelName="新疆卫视" startTime="2019-05-21 04:29:03" endTime="2019-05-21 05:29:10" catchedByOperator="" programName="美好生活(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210529100" programID="2161905210529100" channelID="216" channelName="新疆卫视" startTime="2019-05-21 05:29:10" endTime="2019-05-21 06:34:54" catchedByOperator="" programName="美好生活(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210634540" programID="2161905210634540" channelID="216" channelName="新疆卫视" startTime="2019-05-21 06:34:54" endTime="2019-05-21 07:45:08" catchedByOperator="" programName="美好生活(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210745080" programID="2161905210745080" channelID="216" channelName="新疆卫视" startTime="2019-05-21 07:45:08" endTime="2019-05-21 08:00:28" catchedByOperator="" programName="彩虹宝宝(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210800280" programID="2161905210800280" channelID="216" channelName="新疆卫视" startTime="2019-05-21 08:00:28" endTime="2019-05-21 08:34:52" catchedByOperator="" programName="新疆新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210834520" programID="2161905210834520" channelID="216" channelName="新疆卫视" startTime="2019-05-21 08:34:52" endTime="2019-05-21 09:00:51" catchedByOperator="" programName="今日聚焦20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210900510" programID="2161905210900510" channelID="216" channelName="新疆卫视" startTime="2019-05-21 09:00:51" endTime="2019-05-21 09:28:16" catchedByOperator="" programName="真实纪录20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905210928160" programID="2161905210928160" channelID="216" channelName="新疆卫视" startTime="2019-05-21 09:28:16" endTime="2019-05-21 10:32:48" catchedByOperator="" programName="薛平贵与王宝钏(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211032480" programID="2161905211032480" channelID="216" channelName="新疆卫视" startTime="2019-05-21 10:32:48" endTime="2019-05-21 11:13:31" catchedByOperator="" programName="薛平贵与王宝钏(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211113310" programID="2161905211113310" channelID="216" channelName="新疆卫视" startTime="2019-05-21 11:13:31" endTime="2019-05-21 11:45:01" catchedByOperator="" programName="超级美味20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211145010" programID="2161905211145010" channelID="216" channelName="新疆卫视" startTime="2019-05-21 11:45:01" endTime="2019-05-21 12:54:26" catchedByOperator="" programName="薛平贵与王宝钏(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211254260" programID="2161905211254260" channelID="216" channelName="新疆卫视" startTime="2019-05-21 12:54:26" endTime="2019-05-21 13:35:07" catchedByOperator="" programName="薛平贵与王宝钏(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211335070" programID="2161905211335070" channelID="216" channelName="新疆卫视" startTime="2019-05-21 13:35:07" endTime="2019-05-21 14:00:02" catchedByOperator="" programName="晒美丽20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211400020" programID="2161905211400020" channelID="216" channelName="新疆卫视" startTime="2019-05-21 14:00:02" endTime="2019-05-21 14:21:52" catchedByOperator="" programName="新闻午报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211421520" programID="2161905211421520" channelID="216" channelName="新疆卫视" startTime="2019-05-21 14:21:52" endTime="2019-05-21 15:32:02" catchedByOperator="" programName="铁齿铜牙纪晓岚续(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211532020" programID="2161905211532020" channelID="216" channelName="新疆卫视" startTime="2019-05-21 15:32:02" endTime="2019-05-21 16:44:49" catchedByOperator="" programName="铁齿铜牙纪晓岚续(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211644490" programID="2161905211644490" channelID="216" channelName="新疆卫视" startTime="2019-05-21 16:44:49" endTime="2019-05-21 18:04:32" catchedByOperator="" programName="铁齿铜牙纪晓岚(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211804320" programID="2161905211804320" channelID="216" channelName="新疆卫视" startTime="2019-05-21 18:04:32" endTime="2019-05-21 18:16:50" catchedByOperator="" programName="彩虹宝宝(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211816500" programID="2161905211816500" channelID="216" channelName="新疆卫视" startTime="2019-05-21 18:16:50" endTime="2019-05-21 18:32:22" catchedByOperator="" programName="彩虹宝宝(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211832220" programID="2161905211832220" channelID="216" channelName="新疆卫视" startTime="2019-05-21 18:32:22" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="我们都是追梦人20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211900000" programID="2161905211900000" channelID="216" channelName="新疆卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:30:28" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905211930280" programID="2161905211930280" channelID="216" channelName="新疆卫视" startTime="2019-05-21 19:30:28" endTime="2019-05-21 20:04:52" catchedByOperator="" programName="新疆新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212004520" programID="2161905212004520" channelID="216" channelName="新疆卫视" startTime="2019-05-21 20:04:52" endTime="2019-05-21 20:16:42" catchedByOperator="" programName="今日聚焦20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212016420" programID="2161905212016420" channelID="216" channelName="新疆卫视" startTime="2019-05-21 20:16:42" endTime="2019-05-21 21:03:11" catchedByOperator="" programName="好先生(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212103110" programID="2161905212103110" channelID="216" channelName="新疆卫视" startTime="2019-05-21 21:03:11" endTime="2019-05-21 21:50:32" catchedByOperator="" programName="好先生(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212150320" programID="2161905212150320" channelID="216" channelName="新疆卫视" startTime="2019-05-21 21:50:32" endTime="2019-05-21 22:00:29" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212200290" programID="2161905212200290" channelID="216" channelName="新疆卫视" startTime="2019-05-21 22:00:29" endTime="2019-05-21 22:34:53" catchedByOperator="" programName="新疆新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212234530" programID="2161905212234530" channelID="216" channelName="新疆卫视" startTime="2019-05-21 22:34:53" endTime="2019-05-21 22:56:02" catchedByOperator="" programName="我们都是追梦人20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212256020" programID="2161905212256020" channelID="216" channelName="新疆卫视" startTime="2019-05-21 22:56:02" endTime="2019-05-21 23:31:01" catchedByOperator="" programName="美丽新疆40年20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212331010" programID="2161905212331010" channelID="216" channelName="新疆卫视" startTime="2019-05-21 23:31:01" endTime="2019-05-21 23:51:02" catchedByOperator="" programName="新闻夜班车20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905212351020" programID="2161905212351020" channelID="216" channelName="新疆卫视" startTime="2019-05-21 23:51:02" endTime="2019-05-22 00:53:16" catchedByOperator="" programName="我的前半生(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2161905220053160" programID="2161905220053160" channelID="216" channelName="新疆卫视" startTime="2019-05-22 00:53:16" endTime="2019-05-22 01:33:53" catchedByOperator="" programName="我的前半生(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

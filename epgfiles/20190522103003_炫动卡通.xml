@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:28:20" endTime="2019-05-22 01:58:20" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="235" channelName="炫动卡通" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2351905210128200" programName="电视台无节目1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电视台无节目1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210343200" programName="电视台无节目2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电视台无节目2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210600020" programName="动画片:喜羊羊与灰太狼嘻哈闯世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:喜羊羊与灰太狼嘻哈闯世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210733020" programName="咿呀咿呀20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">咿呀咿呀20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210757020" programName="欢乐搜索线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐搜索线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210806020" programName="动画片:猪猪侠超星萌宠1(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210820380" programName="动画片:猪猪侠超星萌宠1(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210836020" programName="动画片:猪猪侠超星萌宠1(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210850380" programName="动画片:猪猪侠超星萌宠1(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210903020" programName="动画片:猪猪侠超星萌宠1(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210917330" programName="动画片:猪猪侠超星萌宠1(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210933020" programName="动画片:猪猪侠超星萌宠1(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905210947400" programName="动画片:猪猪侠超星萌宠1(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211003020" programName="动画片:猪猪侠超星萌宠1(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211017230" programName="动画片:猪猪侠超星萌宠1(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211033020" programName="动画片:猪猪侠超星萌宠1(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211047410" programName="动画片:猪猪侠超星萌宠1(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211100020" programName="动画片:猪猪侠超星萌宠1(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211114380" programName="动画片:猪猪侠超星萌宠1(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:猪猪侠超星萌宠1(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211130020" programName="咿呀咿呀20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">咿呀咿呀20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211154010" programName="欢乐搜索线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐搜索线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211203020" programName="炫动酷地带20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">炫动酷地带20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211218020" programName="欢乐蹦蹦跳20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐蹦蹦跳20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211230020" programName="哈哈我喜欢20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">哈哈我喜欢20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211239020" programName="动画片:熊熊乐园(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园(51)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211253320" programName="动画片:熊熊乐园(52)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园(52)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211309020" programName="动画片:熊熊乐园2(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211323320" programName="动画片:熊熊乐园2(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211336020" programName="动画片:熊熊乐园2(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211350320" programName="动画片:熊熊乐园2(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211406020" programName="动画片:熊熊乐园2(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211420320" programName="动画片:熊熊乐园2(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211436020" programName="动画片:熊熊乐园2(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211450320" programName="动画片:熊熊乐园2(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211506020" programName="动画片:熊熊乐园2(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211520320" programName="动画片:熊熊乐园2(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211536020" programName="动画片:熊熊乐园2(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211550320" programName="动画片:熊熊乐园2(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211603020" programName="动画片:熊熊乐园2(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211617320" programName="动画片:熊熊乐园2(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊熊乐园2(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211633020" programName="动画片:天才发明家20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:天才发明家20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211703020" programName="咿呀咿呀20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">咿呀咿呀20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211727020" programName="欢乐搜索线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐搜索线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211739020" programName="炫动酷地带20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">炫动酷地带20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211754020" programName="动画片:哈哈大冒险第二季20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:哈哈大冒险第二季20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211800020" programName="动画片:心奇爆龙战车之驯龙斗士(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:心奇爆龙战车之驯龙斗士(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211815110" programName="动画片:心奇爆龙战车之驯龙斗士(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:心奇爆龙战车之驯龙斗士(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211830020" programName="动画片:百变布鲁可20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:百变布鲁可20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211900020" programName="动画片:魔幻陀螺之聚能引擎(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:魔幻陀螺之聚能引擎(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905211929020" programName="动画片:炫斗小Q20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:炫斗小Q20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212000020" programName="欢乐蹦蹦跳20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐蹦蹦跳20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212015030" programName="动画片:哈哈大冒险第二季20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:哈哈大冒险第二季20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212022120" programName="航拍上海金山篇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">航拍上海金山篇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212026120" programName="动画片:熊出没之探险日记(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊出没之探险日记(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212040590" programName="动画片:熊出没之探险日记(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊出没之探险日记(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212056110" programName="动画片:熊出没之探险日记(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊出没之探险日记(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212110590" programName="动画片:熊出没之探险日记(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊出没之探险日记(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212126110" programName="动画片:熊出没之探险日记(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊出没之探险日记(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212140590" programName="动画片:熊出没之探险日记(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:熊出没之探险日记(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212153120" programName="航拍上海金山篇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">航拍上海金山篇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212159120" programName="动画片:超智能足球2世界大赛篇(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:超智能足球2世界大赛篇(29)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212229110" programName="动画片:超智能足球2世界大赛篇(30)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:超智能足球2世界大赛篇(30)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212259110" programName="动画片:超智能足球2世界大赛篇(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:超智能足球2世界大赛篇(31)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905212329120" programName="动画片:超智能足球2世界大赛篇(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:超智能足球2世界大赛篇(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220000190" programName="航拍上海金山篇20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">航拍上海金山篇20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220004200" programName="炫动酷地带20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">炫动酷地带20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220019200" programName="动画片:心奇爆龙战车之驯龙斗士(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:心奇爆龙战车之驯龙斗士(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220031280" programName="动画片:心奇爆龙战车之驯龙斗士(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:心奇爆龙战车之驯龙斗士(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220046210" programName="动画片:百变布鲁可20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:百变布鲁可20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220110210" programName="动画片:魔幻陀螺之聚能引擎(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:魔幻陀螺之聚能引擎(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2351905220133200" programName="动画片:炫斗小Q20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:炫斗小Q20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2351905210128200" programID="2351905210128200" channelID="235" channelName="炫动卡通" startTime="2019-05-21 01:28:20" endTime="2019-05-21 03:43:20" catchedByOperator="" programName="电视台无节目1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210343200" programID="2351905210343200" channelID="235" channelName="炫动卡通" startTime="2019-05-21 03:43:20" endTime="2019-05-21 06:00:02" catchedByOperator="" programName="电视台无节目2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210600020" programID="2351905210600020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 06:00:02" endTime="2019-05-21 07:33:02" catchedByOperator="" programName="动画片:喜羊羊与灰太狼嘻哈闯世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210733020" programID="2351905210733020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 07:33:02" endTime="2019-05-21 07:57:02" catchedByOperator="" programName="咿呀咿呀20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210757020" programID="2351905210757020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 07:57:02" endTime="2019-05-21 08:06:02" catchedByOperator="" programName="欢乐搜索线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210806020" programID="2351905210806020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 08:06:02" endTime="2019-05-21 08:20:38" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210820380" programID="2351905210820380" channelID="235" channelName="炫动卡通" startTime="2019-05-21 08:20:38" endTime="2019-05-21 08:36:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210836020" programID="2351905210836020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 08:36:02" endTime="2019-05-21 08:50:38" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210850380" programID="2351905210850380" channelID="235" channelName="炫动卡通" startTime="2019-05-21 08:50:38" endTime="2019-05-21 09:03:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210903020" programID="2351905210903020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 09:03:02" endTime="2019-05-21 09:17:33" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210917330" programID="2351905210917330" channelID="235" channelName="炫动卡通" startTime="2019-05-21 09:17:33" endTime="2019-05-21 09:33:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210933020" programID="2351905210933020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 09:33:02" endTime="2019-05-21 09:47:40" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905210947400" programID="2351905210947400" channelID="235" channelName="炫动卡通" startTime="2019-05-21 09:47:40" endTime="2019-05-21 10:03:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211003020" programID="2351905211003020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 10:03:02" endTime="2019-05-21 10:17:23" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211017230" programID="2351905211017230" channelID="235" channelName="炫动卡通" startTime="2019-05-21 10:17:23" endTime="2019-05-21 10:33:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211033020" programID="2351905211033020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 10:33:02" endTime="2019-05-21 10:47:41" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211047410" programID="2351905211047410" channelID="235" channelName="炫动卡通" startTime="2019-05-21 10:47:41" endTime="2019-05-21 11:00:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211100020" programID="2351905211100020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 11:00:02" endTime="2019-05-21 11:14:38" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211114380" programID="2351905211114380" channelID="235" channelName="炫动卡通" startTime="2019-05-21 11:14:38" endTime="2019-05-21 11:30:02" catchedByOperator="" programName="动画片:猪猪侠超星萌宠1(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211130020" programID="2351905211130020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 11:30:02" endTime="2019-05-21 11:54:01" catchedByOperator="" programName="咿呀咿呀20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211154010" programID="2351905211154010" channelID="235" channelName="炫动卡通" startTime="2019-05-21 11:54:01" endTime="2019-05-21 12:03:02" catchedByOperator="" programName="欢乐搜索线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211203020" programID="2351905211203020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 12:03:02" endTime="2019-05-21 12:18:02" catchedByOperator="" programName="炫动酷地带20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211218020" programID="2351905211218020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 12:18:02" endTime="2019-05-21 12:30:02" catchedByOperator="" programName="欢乐蹦蹦跳20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211230020" programID="2351905211230020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 12:30:02" endTime="2019-05-21 12:39:02" catchedByOperator="" programName="哈哈我喜欢20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211239020" programID="2351905211239020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 12:39:02" endTime="2019-05-21 12:53:32" catchedByOperator="" programName="动画片:熊熊乐园(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211253320" programID="2351905211253320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 12:53:32" endTime="2019-05-21 13:09:02" catchedByOperator="" programName="动画片:熊熊乐园(52)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211309020" programID="2351905211309020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 13:09:02" endTime="2019-05-21 13:23:32" catchedByOperator="" programName="动画片:熊熊乐园2(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211323320" programID="2351905211323320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 13:23:32" endTime="2019-05-21 13:36:02" catchedByOperator="" programName="动画片:熊熊乐园2(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211336020" programID="2351905211336020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 13:36:02" endTime="2019-05-21 13:50:32" catchedByOperator="" programName="动画片:熊熊乐园2(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211350320" programID="2351905211350320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 13:50:32" endTime="2019-05-21 14:06:02" catchedByOperator="" programName="动画片:熊熊乐园2(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211406020" programID="2351905211406020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 14:06:02" endTime="2019-05-21 14:20:32" catchedByOperator="" programName="动画片:熊熊乐园2(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211420320" programID="2351905211420320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 14:20:32" endTime="2019-05-21 14:36:02" catchedByOperator="" programName="动画片:熊熊乐园2(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211436020" programID="2351905211436020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 14:36:02" endTime="2019-05-21 14:50:32" catchedByOperator="" programName="动画片:熊熊乐园2(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211450320" programID="2351905211450320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 14:50:32" endTime="2019-05-21 15:06:02" catchedByOperator="" programName="动画片:熊熊乐园2(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211506020" programID="2351905211506020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 15:06:02" endTime="2019-05-21 15:20:32" catchedByOperator="" programName="动画片:熊熊乐园2(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211520320" programID="2351905211520320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 15:20:32" endTime="2019-05-21 15:36:02" catchedByOperator="" programName="动画片:熊熊乐园2(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211536020" programID="2351905211536020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 15:36:02" endTime="2019-05-21 15:50:32" catchedByOperator="" programName="动画片:熊熊乐园2(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211550320" programID="2351905211550320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 15:50:32" endTime="2019-05-21 16:03:02" catchedByOperator="" programName="动画片:熊熊乐园2(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211603020" programID="2351905211603020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 16:03:02" endTime="2019-05-21 16:17:32" catchedByOperator="" programName="动画片:熊熊乐园2(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211617320" programID="2351905211617320" channelID="235" channelName="炫动卡通" startTime="2019-05-21 16:17:32" endTime="2019-05-21 16:33:02" catchedByOperator="" programName="动画片:熊熊乐园2(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211633020" programID="2351905211633020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 16:33:02" endTime="2019-05-21 17:03:02" catchedByOperator="" programName="动画片:天才发明家20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211703020" programID="2351905211703020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 17:03:02" endTime="2019-05-21 17:27:02" catchedByOperator="" programName="咿呀咿呀20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211727020" programID="2351905211727020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 17:27:02" endTime="2019-05-21 17:39:02" catchedByOperator="" programName="欢乐搜索线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211739020" programID="2351905211739020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 17:39:02" endTime="2019-05-21 17:54:02" catchedByOperator="" programName="炫动酷地带20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211754020" programID="2351905211754020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 17:54:02" endTime="2019-05-21 18:00:02" catchedByOperator="" programName="动画片:哈哈大冒险第二季20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211800020" programID="2351905211800020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 18:00:02" endTime="2019-05-21 18:15:11" catchedByOperator="" programName="动画片:心奇爆龙战车之驯龙斗士(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211815110" programID="2351905211815110" channelID="235" channelName="炫动卡通" startTime="2019-05-21 18:15:11" endTime="2019-05-21 18:30:02" catchedByOperator="" programName="动画片:心奇爆龙战车之驯龙斗士(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211830020" programID="2351905211830020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 18:30:02" endTime="2019-05-21 19:00:02" catchedByOperator="" programName="动画片:百变布鲁可20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211900020" programID="2351905211900020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 19:00:02" endTime="2019-05-21 19:29:02" catchedByOperator="" programName="动画片:魔幻陀螺之聚能引擎(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905211929020" programID="2351905211929020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 19:29:02" endTime="2019-05-21 20:00:02" catchedByOperator="" programName="动画片:炫斗小Q20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212000020" programID="2351905212000020" channelID="235" channelName="炫动卡通" startTime="2019-05-21 20:00:02" endTime="2019-05-21 20:15:03" catchedByOperator="" programName="欢乐蹦蹦跳20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212015030" programID="2351905212015030" channelID="235" channelName="炫动卡通" startTime="2019-05-21 20:15:03" endTime="2019-05-21 20:22:12" catchedByOperator="" programName="动画片:哈哈大冒险第二季20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212022120" programID="2351905212022120" channelID="235" channelName="炫动卡通" startTime="2019-05-21 20:22:12" endTime="2019-05-21 20:26:12" catchedByOperator="" programName="航拍上海金山篇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212026120" programID="2351905212026120" channelID="235" channelName="炫动卡通" startTime="2019-05-21 20:26:12" endTime="2019-05-21 20:40:59" catchedByOperator="" programName="动画片:熊出没之探险日记(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212040590" programID="2351905212040590" channelID="235" channelName="炫动卡通" startTime="2019-05-21 20:40:59" endTime="2019-05-21 20:56:11" catchedByOperator="" programName="动画片:熊出没之探险日记(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212056110" programID="2351905212056110" channelID="235" channelName="炫动卡通" startTime="2019-05-21 20:56:11" endTime="2019-05-21 21:10:59" catchedByOperator="" programName="动画片:熊出没之探险日记(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212110590" programID="2351905212110590" channelID="235" channelName="炫动卡通" startTime="2019-05-21 21:10:59" endTime="2019-05-21 21:26:11" catchedByOperator="" programName="动画片:熊出没之探险日记(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212126110" programID="2351905212126110" channelID="235" channelName="炫动卡通" startTime="2019-05-21 21:26:11" endTime="2019-05-21 21:40:59" catchedByOperator="" programName="动画片:熊出没之探险日记(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212140590" programID="2351905212140590" channelID="235" channelName="炫动卡通" startTime="2019-05-21 21:40:59" endTime="2019-05-21 21:53:12" catchedByOperator="" programName="动画片:熊出没之探险日记(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212153120" programID="2351905212153120" channelID="235" channelName="炫动卡通" startTime="2019-05-21 21:53:12" endTime="2019-05-21 21:59:12" catchedByOperator="" programName="航拍上海金山篇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212159120" programID="2351905212159120" channelID="235" channelName="炫动卡通" startTime="2019-05-21 21:59:12" endTime="2019-05-21 22:29:11" catchedByOperator="" programName="动画片:超智能足球2世界大赛篇(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212229110" programID="2351905212229110" channelID="235" channelName="炫动卡通" startTime="2019-05-21 22:29:11" endTime="2019-05-21 22:59:11" catchedByOperator="" programName="动画片:超智能足球2世界大赛篇(30)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212259110" programID="2351905212259110" channelID="235" channelName="炫动卡通" startTime="2019-05-21 22:59:11" endTime="2019-05-21 23:29:12" catchedByOperator="" programName="动画片:超智能足球2世界大赛篇(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905212329120" programID="2351905212329120" channelID="235" channelName="炫动卡通" startTime="2019-05-21 23:29:12" endTime="2019-05-22 00:00:19" catchedByOperator="" programName="动画片:超智能足球2世界大赛篇(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220000190" programID="2351905220000190" channelID="235" channelName="炫动卡通" startTime="2019-05-22 00:00:19" endTime="2019-05-22 00:04:20" catchedByOperator="" programName="航拍上海金山篇20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220004200" programID="2351905220004200" channelID="235" channelName="炫动卡通" startTime="2019-05-22 00:04:20" endTime="2019-05-22 00:19:20" catchedByOperator="" programName="炫动酷地带20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220019200" programID="2351905220019200" channelID="235" channelName="炫动卡通" startTime="2019-05-22 00:19:20" endTime="2019-05-22 00:31:28" catchedByOperator="" programName="动画片:心奇爆龙战车之驯龙斗士(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220031280" programID="2351905220031280" channelID="235" channelName="炫动卡通" startTime="2019-05-22 00:31:28" endTime="2019-05-22 00:46:21" catchedByOperator="" programName="动画片:心奇爆龙战车之驯龙斗士(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220046210" programID="2351905220046210" channelID="235" channelName="炫动卡通" startTime="2019-05-22 00:46:21" endTime="2019-05-22 01:10:21" catchedByOperator="" programName="动画片:百变布鲁可20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220110210" programID="2351905220110210" channelID="235" channelName="炫动卡通" startTime="2019-05-22 01:10:21" endTime="2019-05-22 01:33:20" catchedByOperator="" programName="动画片:魔幻陀螺之聚能引擎(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2351905220133200" programID="2351905220133200" channelID="235" channelName="炫动卡通" startTime="2019-05-22 01:33:20" endTime="2019-05-22 01:58:20" catchedByOperator="" programName="动画片:炫斗小Q20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

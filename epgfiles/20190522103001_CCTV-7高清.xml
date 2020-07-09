@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 00:58:56" endTime="2019-05-22 00:58:57" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="317" channelName="CCTV-7高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3171905210058560" programName="停机检修1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210328560" programName="停机检修2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210600020" programName="农业气象20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农业气象20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210605380" programName="农广天地20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农广天地20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210635220" programName="聚焦三农20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">聚焦三农20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210705020" programName="动物世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动物世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210910320" programName="军事纪实20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军事纪实20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905210944260" programName="军旅人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军旅人生20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211023320" programName="讲武堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">讲武堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211120020" programName="美食大冒险文明之旅20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美食大冒险文明之旅20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211227180" programName="乡土20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">乡土20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211257220" programName="聚焦三农20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">聚焦三农20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211321570" programName="每日农经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">每日农经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211342180" programName="致富经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">致富经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211413380" programName="乡土20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">乡土20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211443180" programName="农广天地20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农广天地20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211512570" programName="农业气象20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农业气象20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211520040" programName="人与自然20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人与自然20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211557340" programName="军事纪实20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军事纪实20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211632340" programName="讲武堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">讲武堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211734270" programName="军旅人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军旅人生20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211807230" programName="美丽中国乡村行20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽中国乡村行20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211830420" programName="科技苑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">科技苑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211900390" programName="农广天地20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农广天地20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905211933320" programName="军事报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军事报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212000470" programName="军事纪实20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军事纪实20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212035030" programName="动物世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动物世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212112020" programName="农业气象20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农业气象20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212117020" programName="致富经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">致富经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212147040" programName="每日农经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">每日农经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212207230" programName="聚焦三农20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">聚焦三农20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212244300" programName="军旅人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军旅人生20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212319330" programName="美丽中国乡村行20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽中国乡村行20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905212342430" programName="科技苑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">科技苑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3171905220012040" programName="农广天地20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">农广天地20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3171905210058560" programID="3171905210058560" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 00:58:56" endTime="2019-05-21 03:28:56" catchedByOperator="" programName="停机检修1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210328560" programID="3171905210328560" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 03:28:56" endTime="2019-05-21 06:00:02" catchedByOperator="" programName="停机检修2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210600020" programID="3171905210600020" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 06:00:02" endTime="2019-05-21 06:05:38" catchedByOperator="" programName="农业气象20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210605380" programID="3171905210605380" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 06:05:38" endTime="2019-05-21 06:35:22" catchedByOperator="" programName="农广天地20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210635220" programID="3171905210635220" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 06:35:22" endTime="2019-05-21 07:05:02" catchedByOperator="" programName="聚焦三农20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210705020" programID="3171905210705020" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 07:05:02" endTime="2019-05-21 09:10:32" catchedByOperator="" programName="动物世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210910320" programID="3171905210910320" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 09:10:32" endTime="2019-05-21 09:44:26" catchedByOperator="" programName="军事纪实20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905210944260" programID="3171905210944260" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 09:44:26" endTime="2019-05-21 10:23:32" catchedByOperator="" programName="军旅人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211023320" programID="3171905211023320" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 10:23:32" endTime="2019-05-21 11:20:02" catchedByOperator="" programName="讲武堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211120020" programID="3171905211120020" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 11:20:02" endTime="2019-05-21 12:27:18" catchedByOperator="" programName="美食大冒险文明之旅20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211227180" programID="3171905211227180" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 12:27:18" endTime="2019-05-21 12:57:22" catchedByOperator="" programName="乡土20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211257220" programID="3171905211257220" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 12:57:22" endTime="2019-05-21 13:21:57" catchedByOperator="" programName="聚焦三农20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211321570" programID="3171905211321570" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 13:21:57" endTime="2019-05-21 13:42:18" catchedByOperator="" programName="每日农经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211342180" programID="3171905211342180" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 13:42:18" endTime="2019-05-21 14:13:38" catchedByOperator="" programName="致富经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211413380" programID="3171905211413380" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 14:13:38" endTime="2019-05-21 14:43:18" catchedByOperator="" programName="乡土20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211443180" programID="3171905211443180" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 14:43:18" endTime="2019-05-21 15:12:57" catchedByOperator="" programName="农广天地20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211512570" programID="3171905211512570" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 15:12:57" endTime="2019-05-21 15:20:04" catchedByOperator="" programName="农业气象20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211520040" programID="3171905211520040" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 15:20:04" endTime="2019-05-21 15:57:34" catchedByOperator="" programName="人与自然20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211557340" programID="3171905211557340" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 15:57:34" endTime="2019-05-21 16:32:34" catchedByOperator="" programName="军事纪实20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211632340" programID="3171905211632340" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 16:32:34" endTime="2019-05-21 17:34:27" catchedByOperator="" programName="讲武堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211734270" programID="3171905211734270" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 17:34:27" endTime="2019-05-21 18:07:23" catchedByOperator="" programName="军旅人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211807230" programID="3171905211807230" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 18:07:23" endTime="2019-05-21 18:30:42" catchedByOperator="" programName="美丽中国乡村行20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211830420" programID="3171905211830420" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 18:30:42" endTime="2019-05-21 19:00:39" catchedByOperator="" programName="科技苑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211900390" programID="3171905211900390" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 19:00:39" endTime="2019-05-21 19:33:32" catchedByOperator="" programName="农广天地20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905211933320" programID="3171905211933320" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 19:33:32" endTime="2019-05-21 20:00:47" catchedByOperator="" programName="军事报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212000470" programID="3171905212000470" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 20:00:47" endTime="2019-05-21 20:35:03" catchedByOperator="" programName="军事纪实20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212035030" programID="3171905212035030" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 20:35:03" endTime="2019-05-21 21:12:02" catchedByOperator="" programName="动物世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212112020" programID="3171905212112020" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 21:12:02" endTime="2019-05-21 21:17:02" catchedByOperator="" programName="农业气象20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212117020" programID="3171905212117020" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 21:17:02" endTime="2019-05-21 21:47:04" catchedByOperator="" programName="致富经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212147040" programID="3171905212147040" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 21:47:04" endTime="2019-05-21 22:07:23" catchedByOperator="" programName="每日农经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212207230" programID="3171905212207230" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 22:07:23" endTime="2019-05-21 22:44:30" catchedByOperator="" programName="聚焦三农20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212244300" programID="3171905212244300" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 22:44:30" endTime="2019-05-21 23:19:33" catchedByOperator="" programName="军旅人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212319330" programID="3171905212319330" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 23:19:33" endTime="2019-05-21 23:42:43" catchedByOperator="" programName="美丽中国乡村行20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905212342430" programID="3171905212342430" channelID="317" channelName="CCTV-7高清" startTime="2019-05-21 23:42:43" endTime="2019-05-22 00:12:04" catchedByOperator="" programName="科技苑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3171905220012040" programID="3171905220012040" channelID="317" channelName="CCTV-7高清" startTime="2019-05-22 00:12:04" endTime="2019-05-22 00:58:57" catchedByOperator="" programName="农广天地20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:19:18" endTime="2019-05-22 01:19:54" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="312" channelName="CCTV-3高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3121905210119180" programName="九九(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">九九(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210203180" programName="九九(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">九九(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210247180" programName="九九(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">九九(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210330530" programName="九九(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">九九(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210412530" programName="旋转吧假期20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">旋转吧假期20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210514290" programName="星光大道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星光大道20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210649040" programName="综艺喜乐汇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">综艺喜乐汇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210845290" programName="文化十分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化十分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905210900140" programName="幸福账单20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福账单20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211152140" programName="CCTV著名企业音乐电视展播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">CCTV著名企业音乐电视展播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211157140" programName="文化十分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化十分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211212540" programName="开门大吉20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">开门大吉20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211337480" programName="非常6+120190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">非常6+120190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211503280" programName="旋转吧假期20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">旋转吧假期20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211609580" programName="星光大道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星光大道20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211752280" programName="天天把歌唱20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天天把歌唱20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211828440" programName="群英汇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">群英汇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905211930040" programName="向幸福出发20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">向幸福出发20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905212100140" programName="幸福账单20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福账单20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905212229480" programName="CCTV著名企业音乐电视展播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">CCTV著名企业音乐电视展播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905212234490" programName="回声嘹亮20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">回声嘹亮20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3121905220000180" programName="开门大吉20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">开门大吉20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3121905210119180" programID="3121905210119180" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 01:19:18" endTime="2019-05-21 02:03:18" catchedByOperator="" programName="九九(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210203180" programID="3121905210203180" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 02:03:18" endTime="2019-05-21 02:47:18" catchedByOperator="" programName="九九(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210247180" programID="3121905210247180" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 02:47:18" endTime="2019-05-21 03:30:53" catchedByOperator="" programName="九九(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210330530" programID="3121905210330530" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 03:30:53" endTime="2019-05-21 04:12:53" catchedByOperator="" programName="九九(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210412530" programID="3121905210412530" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 04:12:53" endTime="2019-05-21 05:14:29" catchedByOperator="" programName="旋转吧假期20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210514290" programID="3121905210514290" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 05:14:29" endTime="2019-05-21 06:49:04" catchedByOperator="" programName="星光大道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210649040" programID="3121905210649040" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 06:49:04" endTime="2019-05-21 08:45:29" catchedByOperator="" programName="综艺喜乐汇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210845290" programID="3121905210845290" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 08:45:29" endTime="2019-05-21 09:00:14" catchedByOperator="" programName="文化十分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905210900140" programID="3121905210900140" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 09:00:14" endTime="2019-05-21 11:52:14" catchedByOperator="" programName="幸福账单20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211152140" programID="3121905211152140" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 11:52:14" endTime="2019-05-21 11:57:14" catchedByOperator="" programName="CCTV著名企业音乐电视展播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211157140" programID="3121905211157140" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 11:57:14" endTime="2019-05-21 12:12:54" catchedByOperator="" programName="文化十分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211212540" programID="3121905211212540" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 12:12:54" endTime="2019-05-21 13:37:48" catchedByOperator="" programName="开门大吉20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211337480" programID="3121905211337480" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 13:37:48" endTime="2019-05-21 15:03:28" catchedByOperator="" programName="非常6+120190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211503280" programID="3121905211503280" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 15:03:28" endTime="2019-05-21 16:09:58" catchedByOperator="" programName="旋转吧假期20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211609580" programID="3121905211609580" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 16:09:58" endTime="2019-05-21 17:52:28" catchedByOperator="" programName="星光大道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211752280" programID="3121905211752280" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 17:52:28" endTime="2019-05-21 18:28:44" catchedByOperator="" programName="天天把歌唱20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211828440" programID="3121905211828440" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 18:28:44" endTime="2019-05-21 19:30:04" catchedByOperator="" programName="群英汇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905211930040" programID="3121905211930040" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 19:30:04" endTime="2019-05-21 21:00:14" catchedByOperator="" programName="向幸福出发20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905212100140" programID="3121905212100140" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 21:00:14" endTime="2019-05-21 22:29:48" catchedByOperator="" programName="幸福账单20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905212229480" programID="3121905212229480" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 22:29:48" endTime="2019-05-21 22:34:49" catchedByOperator="" programName="CCTV著名企业音乐电视展播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905212234490" programID="3121905212234490" channelID="312" channelName="CCTV-3高清" startTime="2019-05-21 22:34:49" endTime="2019-05-22 00:00:18" catchedByOperator="" programName="回声嘹亮20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3121905220000180" programID="3121905220000180" channelID="312" channelName="CCTV-3高清" startTime="2019-05-22 00:00:18" endTime="2019-05-22 01:19:54" catchedByOperator="" programName="开门大吉20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

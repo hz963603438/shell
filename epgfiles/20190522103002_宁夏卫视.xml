@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:11:21" endTime="2019-05-22 01:21:58" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="225" channelName="宁夏卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2251905210111210" programName="精忠岳飞(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精忠岳飞(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210200010" programName="电视台无节目1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电视台无节目1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210400010" programName="电视台无节目2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电视台无节目2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210600460" programName="塞上江南神奇宁夏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">塞上江南神奇宁夏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210608310" programName="感动20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">感动20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210623540" programName="自然守望者:山北有大猫20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">自然守望者:山北有大猫20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210700560" programName="宁夏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宁夏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210732530" programName="说宋朝20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">说宋朝20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210745180" programName="野山鹰(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210843390" programName="野山鹰(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905210945360" programName="野山鹰(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211052160" programName="野山鹰(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211200010" programName="午间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211222310" programName="黄河流过的村庄(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黄河流过的村庄(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211246020" programName="薛平贵与王宝钏(48)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(48)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211345050" programName="薛平贵与王宝钏(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(49)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211444210" programName="薛平贵与王宝钏(50)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(50)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211544360" programName="薛平贵与王宝钏(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(51)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211643400" programName="薛平贵与王宝钏(52)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(52)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211741000" programName="动画片:宇宙护卫队20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:宇宙护卫队20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211806490" programName="创富宁夏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">创富宁夏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211822250" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211830080" programName="宁夏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宁夏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905211933250" programName="灵与肉(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">灵与肉(31)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212032550" programName="灵与肉(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">灵与肉(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212125070" programName="宁夏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宁夏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212150160" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212200120" programName="解码一带一路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">解码一带一路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212238380" programName="宁夏故事:一盏明心灯20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宁夏故事:一盏明心灯20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212245120" programName="宁夏故事:纸醉芳华20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宁夏故事:纸醉芳华20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905212250370" programName="你是我的姐妹(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">你是我的姐妹(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905220007170" programName="你是我的姐妹(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">你是我的姐妹(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2251905220104320" programName="创富宁夏20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">创富宁夏20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2251905210111210" programID="2251905210111210" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 01:11:21" endTime="2019-05-21 02:00:01" catchedByOperator="" programName="精忠岳飞(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210200010" programID="2251905210200010" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 02:00:01" endTime="2019-05-21 04:00:01" catchedByOperator="" programName="电视台无节目1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210400010" programID="2251905210400010" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 04:00:01" endTime="2019-05-21 06:00:46" catchedByOperator="" programName="电视台无节目2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210600460" programID="2251905210600460" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 06:00:46" endTime="2019-05-21 06:08:31" catchedByOperator="" programName="塞上江南神奇宁夏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210608310" programID="2251905210608310" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 06:08:31" endTime="2019-05-21 06:23:54" catchedByOperator="" programName="感动20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210623540" programID="2251905210623540" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 06:23:54" endTime="2019-05-21 07:00:56" catchedByOperator="" programName="自然守望者:山北有大猫20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210700560" programID="2251905210700560" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 07:00:56" endTime="2019-05-21 07:32:53" catchedByOperator="" programName="宁夏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210732530" programID="2251905210732530" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 07:32:53" endTime="2019-05-21 07:45:18" catchedByOperator="" programName="说宋朝20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210745180" programID="2251905210745180" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 07:45:18" endTime="2019-05-21 08:43:39" catchedByOperator="" programName="野山鹰(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210843390" programID="2251905210843390" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 08:43:39" endTime="2019-05-21 09:45:36" catchedByOperator="" programName="野山鹰(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905210945360" programID="2251905210945360" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 09:45:36" endTime="2019-05-21 10:52:16" catchedByOperator="" programName="野山鹰(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211052160" programID="2251905211052160" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 10:52:16" endTime="2019-05-21 12:00:01" catchedByOperator="" programName="野山鹰(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211200010" programID="2251905211200010" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 12:00:01" endTime="2019-05-21 12:22:31" catchedByOperator="" programName="午间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211222310" programID="2251905211222310" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 12:22:31" endTime="2019-05-21 12:46:02" catchedByOperator="" programName="黄河流过的村庄(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211246020" programID="2251905211246020" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 12:46:02" endTime="2019-05-21 13:45:05" catchedByOperator="" programName="薛平贵与王宝钏(48)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211345050" programID="2251905211345050" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 13:45:05" endTime="2019-05-21 14:44:21" catchedByOperator="" programName="薛平贵与王宝钏(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211444210" programID="2251905211444210" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 14:44:21" endTime="2019-05-21 15:44:36" catchedByOperator="" programName="薛平贵与王宝钏(50)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211544360" programID="2251905211544360" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 15:44:36" endTime="2019-05-21 16:43:40" catchedByOperator="" programName="薛平贵与王宝钏(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211643400" programID="2251905211643400" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 16:43:40" endTime="2019-05-21 17:41:00" catchedByOperator="" programName="薛平贵与王宝钏(52)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211741000" programID="2251905211741000" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 17:41:00" endTime="2019-05-21 18:06:49" catchedByOperator="" programName="动画片:宇宙护卫队20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211806490" programID="2251905211806490" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 18:06:49" endTime="2019-05-21 18:22:25" catchedByOperator="" programName="创富宁夏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211822250" programID="2251905211822250" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 18:22:25" endTime="2019-05-21 18:30:08" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211830080" programID="2251905211830080" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 18:30:08" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="宁夏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211900000" programID="2251905211900000" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:33:25" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905211933250" programID="2251905211933250" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 19:33:25" endTime="2019-05-21 20:32:55" catchedByOperator="" programName="灵与肉(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212032550" programID="2251905212032550" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 20:32:55" endTime="2019-05-21 21:25:07" catchedByOperator="" programName="灵与肉(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212125070" programID="2251905212125070" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 21:25:07" endTime="2019-05-21 21:50:16" catchedByOperator="" programName="宁夏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212150160" programID="2251905212150160" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 21:50:16" endTime="2019-05-21 22:00:12" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212200120" programID="2251905212200120" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 22:00:12" endTime="2019-05-21 22:38:38" catchedByOperator="" programName="解码一带一路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212238380" programID="2251905212238380" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 22:38:38" endTime="2019-05-21 22:45:12" catchedByOperator="" programName="宁夏故事:一盏明心灯20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212245120" programID="2251905212245120" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 22:45:12" endTime="2019-05-21 22:50:37" catchedByOperator="" programName="宁夏故事:纸醉芳华20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905212250370" programID="2251905212250370" channelID="225" channelName="宁夏卫视" startTime="2019-05-21 22:50:37" endTime="2019-05-22 00:07:17" catchedByOperator="" programName="你是我的姐妹(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905220007170" programID="2251905220007170" channelID="225" channelName="宁夏卫视" startTime="2019-05-22 00:07:17" endTime="2019-05-22 01:04:32" catchedByOperator="" programName="你是我的姐妹(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2251905220104320" programID="2251905220104320" channelID="225" channelName="宁夏卫视" startTime="2019-05-22 01:04:32" endTime="2019-05-22 01:21:58" catchedByOperator="" programName="创富宁夏20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

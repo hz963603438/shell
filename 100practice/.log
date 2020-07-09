@@ -1,0 +1,8 @@
+文件系统               1K-块     已用    可用 已用% 挂载点
+/dev/mapper/cl-root 17811456 15904400 1907056   90% /
+devtmpfs              484120        0  484120    0% /dev
+tmpfs                 499968        0  499968    0% /dev/shm
+tmpfs                 499968    13452  486516    3% /run
+tmpfs                 499968        0  499968    0% /sys/fs/cgroup
+/dev/sda1            1038336   176544  861792   18% /boot
+tmpfs                  99996        0   99996    0% /run/user/0

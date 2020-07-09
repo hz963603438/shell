@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:57:26" endTime="2019-05-22 01:37:37" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="321" channelName="安徽卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3211905210157260" programName="天龙八部(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(26)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210243510" programName="天龙八部(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(27)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210330200" programName="天龙八部(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(28)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210417390" programName="天龙八部(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(29)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210503030" programName="每日新闻报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">每日新闻报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210532020" programName="超级新闻场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级新闻场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210730030" programName="安徽新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">安徽新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210758580" programName="小岗纪事(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">小岗纪事(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210824330" programName="社会主义核心价值观主题微电影征集展示活动20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">社会主义核心价值观主题微电影征集展示活动20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210834490" programName="动画片:洛宝贝20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:洛宝贝20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210910260" programName="海豚剧精彩20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海豚剧精彩20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905210913410" programName="新白娘子传奇(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新白娘子传奇(13)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211004180" programName="新白娘子传奇(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新白娘子传奇(14)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211058290" programName="新白娘子传奇(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新白娘子传奇(15)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211145030" programName="男生女生闯天涯第五季20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">男生女生闯天涯第五季20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211343130" programName="大宅门(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大宅门(17)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211438200" programName="大宅门(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大宅门(18)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211534470" programName="大宅门(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大宅门(19)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211625320" programName="海豚剧精彩20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海豚剧精彩20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211632560" programName="大宅门(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大宅门(20)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211719170" programName="大宅门(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大宅门(21)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211800020" programName="每日新闻报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">每日新闻报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211830020" programName="安徽新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">安徽新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905211935070" programName="我们的生活充满阳光(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们的生活充满阳光(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905212034220" programName="我们的生活充满阳光(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们的生活充满阳光(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905212125390" programName="健康大问诊20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健康大问诊20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905212201010" programName="超级巨星一(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级巨星一(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905212236500" programName="超级巨星一(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级巨星一(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905212313500" programName="美丽俏佳人20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽俏佳人20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905220009090" programName="新安夜空20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新安夜空20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905220026190" programName="自然守望者20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">自然守望者20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3211905220052040" programName="天龙八部(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(29)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3211905210157260" programID="3211905210157260" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 01:57:26" endTime="2019-05-21 02:43:51" catchedByOperator="" programName="天龙八部(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210243510" programID="3211905210243510" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 02:43:51" endTime="2019-05-21 03:30:20" catchedByOperator="" programName="天龙八部(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210330200" programID="3211905210330200" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 03:30:20" endTime="2019-05-21 04:17:39" catchedByOperator="" programName="天龙八部(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210417390" programID="3211905210417390" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 04:17:39" endTime="2019-05-21 05:03:03" catchedByOperator="" programName="天龙八部(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210503030" programID="3211905210503030" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 05:03:03" endTime="2019-05-21 05:32:02" catchedByOperator="" programName="每日新闻报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210532020" programID="3211905210532020" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 05:32:02" endTime="2019-05-21 07:30:03" catchedByOperator="" programName="超级新闻场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210730030" programID="3211905210730030" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 07:30:03" endTime="2019-05-21 07:58:58" catchedByOperator="" programName="安徽新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210758580" programID="3211905210758580" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 07:58:58" endTime="2019-05-21 08:24:33" catchedByOperator="" programName="小岗纪事(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210824330" programID="3211905210824330" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 08:24:33" endTime="2019-05-21 08:34:49" catchedByOperator="" programName="社会主义核心价值观主题微电影征集展示活动20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210834490" programID="3211905210834490" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 08:34:49" endTime="2019-05-21 09:10:26" catchedByOperator="" programName="动画片:洛宝贝20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210910260" programID="3211905210910260" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 09:10:26" endTime="2019-05-21 09:13:41" catchedByOperator="" programName="海豚剧精彩20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905210913410" programID="3211905210913410" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 09:13:41" endTime="2019-05-21 10:04:18" catchedByOperator="" programName="新白娘子传奇(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211004180" programID="3211905211004180" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 10:04:18" endTime="2019-05-21 10:58:29" catchedByOperator="" programName="新白娘子传奇(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211058290" programID="3211905211058290" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 10:58:29" endTime="2019-05-21 11:45:03" catchedByOperator="" programName="新白娘子传奇(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211145030" programID="3211905211145030" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 11:45:03" endTime="2019-05-21 13:43:13" catchedByOperator="" programName="男生女生闯天涯第五季20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211343130" programID="3211905211343130" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 13:43:13" endTime="2019-05-21 14:38:20" catchedByOperator="" programName="大宅门(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211438200" programID="3211905211438200" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 14:38:20" endTime="2019-05-21 15:34:47" catchedByOperator="" programName="大宅门(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211534470" programID="3211905211534470" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 15:34:47" endTime="2019-05-21 16:25:32" catchedByOperator="" programName="大宅门(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211625320" programID="3211905211625320" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 16:25:32" endTime="2019-05-21 16:32:56" catchedByOperator="" programName="海豚剧精彩20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211632560" programID="3211905211632560" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 16:32:56" endTime="2019-05-21 17:19:17" catchedByOperator="" programName="大宅门(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211719170" programID="3211905211719170" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 17:19:17" endTime="2019-05-21 18:00:02" catchedByOperator="" programName="大宅门(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211800020" programID="3211905211800020" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 18:00:02" endTime="2019-05-21 18:30:02" catchedByOperator="" programName="每日新闻报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211830020" programID="3211905211830020" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 18:30:02" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="安徽新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211900000" programID="3211905211900000" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:35:07" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905211935070" programID="3211905211935070" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 19:35:07" endTime="2019-05-21 20:34:22" catchedByOperator="" programName="我们的生活充满阳光(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905212034220" programID="3211905212034220" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 20:34:22" endTime="2019-05-21 21:25:39" catchedByOperator="" programName="我们的生活充满阳光(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905212125390" programID="3211905212125390" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 21:25:39" endTime="2019-05-21 22:01:01" catchedByOperator="" programName="健康大问诊20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905212201010" programID="3211905212201010" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 22:01:01" endTime="2019-05-21 22:36:50" catchedByOperator="" programName="超级巨星一(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905212236500" programID="3211905212236500" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 22:36:50" endTime="2019-05-21 23:13:50" catchedByOperator="" programName="超级巨星一(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905212313500" programID="3211905212313500" channelID="321" channelName="安徽卫视高清" startTime="2019-05-21 23:13:50" endTime="2019-05-22 00:09:09" catchedByOperator="" programName="美丽俏佳人20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905220009090" programID="3211905220009090" channelID="321" channelName="安徽卫视高清" startTime="2019-05-22 00:09:09" endTime="2019-05-22 00:26:19" catchedByOperator="" programName="新安夜空20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905220026190" programID="3211905220026190" channelID="321" channelName="安徽卫视高清" startTime="2019-05-22 00:26:19" endTime="2019-05-22 00:52:04" catchedByOperator="" programName="自然守望者20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3211905220052040" programID="3211905220052040" channelID="321" channelName="安徽卫视高清" startTime="2019-05-22 00:52:04" endTime="2019-05-22 01:37:37" catchedByOperator="" programName="天龙八部(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

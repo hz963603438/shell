@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 00:45:36" endTime="2019-05-22 01:07:20" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="303" channelName="湖南卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3031905210045360" programName="向往的生活湘西篇" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">向往的生活湘西篇</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210213450" programName="平民英雄" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">平民英雄</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210243280" programName="我的纪录片" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的纪录片</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210307320" programName="放学后" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">放学后</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210332140" programName="新闻大求真" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻大求真</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210529120" programName="平民英雄" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">平民英雄</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210559140" programName="宝贝妈妈宝贝女(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宝贝妈妈宝贝女(1)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210700480" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210732550" programName="宝贝妈妈宝贝女(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宝贝妈妈宝贝女(2)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210801200" programName="中华文明之美" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华文明之美</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210839000" programName="情谜睡美人(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905210931100" programName="情谜睡美人(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211023510" programName="情谜睡美人(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211116440" programName="情谜睡美人(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211210010" programName="午间新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211231160" programName="卫视气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卫视气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211234450" programName="情谜睡美人(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211349360" programName="情谜睡美人(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(43)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211449010" programName="情谜睡美人(44)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(44)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211539220" programName="情谜睡美人(45)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情谜睡美人(45)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211618080" programName="向往的生活湘西篇" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">向往的生活湘西篇</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211755560" programName="新闻大求真" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻大求真</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211830010" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211900000" programName="转播中央台新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905211930280" programName="放学后" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">放学后</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905212007190" programName="筑梦情缘(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">筑梦情缘(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905212104550" programName="筑梦情缘(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">筑梦情缘(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905212202210" programName="封神演义:琴外玄机(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">封神演义:琴外玄机(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905212304560" programName="封神演义:琴外玄机(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">封神演义:琴外玄机(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3031905212348350" programName="阿拉伯达人秀" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">阿拉伯达人秀</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3031905210045360" programID="3031905210045360" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 00:45:36" endTime="2019-05-21 02:13:45" catchedByOperator="" programName="向往的生活湘西篇" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210213450" programID="3031905210213450" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 02:13:45" endTime="2019-05-21 02:43:28" catchedByOperator="" programName="平民英雄" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210243280" programID="3031905210243280" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 02:43:28" endTime="2019-05-21 03:07:32" catchedByOperator="" programName="我的纪录片" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210307320" programID="3031905210307320" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 03:07:32" endTime="2019-05-21 03:32:14" catchedByOperator="" programName="放学后" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210332140" programID="3031905210332140" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 03:32:14" endTime="2019-05-21 05:29:12" catchedByOperator="" programName="新闻大求真" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210529120" programID="3031905210529120" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 05:29:12" endTime="2019-05-21 05:59:14" catchedByOperator="" programName="平民英雄" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210559140" programID="3031905210559140" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 05:59:14" endTime="2019-05-21 07:00:48" catchedByOperator="" programName="宝贝妈妈宝贝女(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210700480" programID="3031905210700480" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 07:00:48" endTime="2019-05-21 07:32:55" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210732550" programID="3031905210732550" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 07:32:55" endTime="2019-05-21 08:01:20" catchedByOperator="" programName="宝贝妈妈宝贝女(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210801200" programID="3031905210801200" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 08:01:20" endTime="2019-05-21 08:39:00" catchedByOperator="" programName="中华文明之美" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210839000" programID="3031905210839000" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 08:39:00" endTime="2019-05-21 09:31:10" catchedByOperator="" programName="情谜睡美人(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905210931100" programID="3031905210931100" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 09:31:10" endTime="2019-05-21 10:23:51" catchedByOperator="" programName="情谜睡美人(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211023510" programID="3031905211023510" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 10:23:51" endTime="2019-05-21 11:16:44" catchedByOperator="" programName="情谜睡美人(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211116440" programID="3031905211116440" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 11:16:44" endTime="2019-05-21 12:10:01" catchedByOperator="" programName="情谜睡美人(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211210010" programID="3031905211210010" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 12:10:01" endTime="2019-05-21 12:31:16" catchedByOperator="" programName="午间新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211231160" programID="3031905211231160" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 12:31:16" endTime="2019-05-21 12:34:45" catchedByOperator="" programName="卫视气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211234450" programID="3031905211234450" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 12:34:45" endTime="2019-05-21 13:49:36" catchedByOperator="" programName="情谜睡美人(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211349360" programID="3031905211349360" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 13:49:36" endTime="2019-05-21 14:49:01" catchedByOperator="" programName="情谜睡美人(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211449010" programID="3031905211449010" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 14:49:01" endTime="2019-05-21 15:39:22" catchedByOperator="" programName="情谜睡美人(44)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211539220" programID="3031905211539220" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 15:39:22" endTime="2019-05-21 16:18:08" catchedByOperator="" programName="情谜睡美人(45)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211618080" programID="3031905211618080" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 16:18:08" endTime="2019-05-21 17:55:56" catchedByOperator="" programName="向往的生活湘西篇" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211755560" programID="3031905211755560" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 17:55:56" endTime="2019-05-21 18:30:01" catchedByOperator="" programName="新闻大求真" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211830010" programID="3031905211830010" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 18:30:01" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211900000" programID="3031905211900000" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:30:28" catchedByOperator="" programName="转播中央台新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905211930280" programID="3031905211930280" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 19:30:28" endTime="2019-05-21 20:07:19" catchedByOperator="" programName="放学后" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905212007190" programID="3031905212007190" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 20:07:19" endTime="2019-05-21 21:04:55" catchedByOperator="" programName="筑梦情缘(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905212104550" programID="3031905212104550" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 21:04:55" endTime="2019-05-21 22:02:21" catchedByOperator="" programName="筑梦情缘(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905212202210" programID="3031905212202210" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 22:02:21" endTime="2019-05-21 23:04:56" catchedByOperator="" programName="封神演义:琴外玄机(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905212304560" programID="3031905212304560" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 23:04:56" endTime="2019-05-21 23:48:35" catchedByOperator="" programName="封神演义:琴外玄机(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3031905212348350" programID="3031905212348350" channelID="303" channelName="湖南卫视高清" startTime="2019-05-21 23:48:35" endTime="2019-05-22 01:07:20" catchedByOperator="" programName="阿拉伯达人秀" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

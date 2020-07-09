@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-20 23:55:40" endTime="2019-05-21 23:55:41" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="324" channelName="山东卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3241905202355400" programName="警花与警犬20190520" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬20190520</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210329210" programName="中国刑警803第二季英雄本色20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国刑警803第二季英雄本色20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210540000" programName="记住乡愁第二季(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210623150" programName="记住乡愁第二季(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(29)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210656000" programName="早安山东20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">早安山东20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210731410" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210735310" programName="林海雪原20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">林海雪原20190521</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210907010" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210910540" programName="林海雪原20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">林海雪原20190521</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905210954020" programName="大医本草堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大医本草堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211044460" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211129350" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211136460" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211224100" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211229510" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211236210" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211324550" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211335370" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211422060" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211435110" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211523510" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211534310" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211621300" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211634150" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211724300" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211733300" programName="都挺好20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211743350" programName="最炫国剧风20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">最炫国剧风20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211819110" programName="齐鲁先锋20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">齐鲁先锋20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211830010" programName="山东新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">山东新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211931190" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905211935210" programName="亮剑(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亮剑(3)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212021510" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212037410" programName="亮剑(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亮剑(4)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212126460" programName="最炫国剧风20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">最炫国剧风20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212136100" programName="调查20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">调查20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212201010" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212205410" programName="美好生活(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212230010" programName="晚间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212244410" programName="微剧透20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微剧透20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3241905212252410" programName="美好生活(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美好生活(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3241905202355400" programID="3241905202355400" channelID="324" channelName="山东卫视高清" startTime="2019-05-20 23:55:40" endTime="2019-05-21 03:29:21" catchedByOperator="" programName="警花与警犬20190520" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210329210" programID="3241905210329210" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 03:29:21" endTime="2019-05-21 05:40:00" catchedByOperator="" programName="中国刑警803第二季英雄本色20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210540000" programID="3241905210540000" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 05:40:00" endTime="2019-05-21 06:23:15" catchedByOperator="" programName="记住乡愁第二季(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210623150" programID="3241905210623150" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 06:23:15" endTime="2019-05-21 06:56:00" catchedByOperator="" programName="记住乡愁第二季(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210656000" programID="3241905210656000" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 06:56:00" endTime="2019-05-21 07:31:41" catchedByOperator="" programName="早安山东20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210731410" programID="3241905210731410" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 07:31:41" endTime="2019-05-21 07:35:31" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210735310" programID="3241905210735310" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 07:35:31" endTime="2019-05-21 09:07:01" catchedByOperator="" programName="林海雪原20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210907010" programID="3241905210907010" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 09:07:01" endTime="2019-05-21 09:10:54" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210910540" programID="3241905210910540" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 09:10:54" endTime="2019-05-21 09:54:02" catchedByOperator="" programName="林海雪原20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905210954020" programID="3241905210954020" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 09:54:02" endTime="2019-05-21 10:44:46" catchedByOperator="" programName="大医本草堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211044460" programID="3241905211044460" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 10:44:46" endTime="2019-05-21 11:29:35" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211129350" programID="3241905211129350" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 11:29:35" endTime="2019-05-21 11:36:46" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211136460" programID="3241905211136460" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 11:36:46" endTime="2019-05-21 12:24:10" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211224100" programID="3241905211224100" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 12:24:10" endTime="2019-05-21 12:29:51" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211229510" programID="3241905211229510" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 12:29:51" endTime="2019-05-21 12:36:21" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211236210" programID="3241905211236210" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 12:36:21" endTime="2019-05-21 13:24:55" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211324550" programID="3241905211324550" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 13:24:55" endTime="2019-05-21 13:35:37" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211335370" programID="3241905211335370" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 13:35:37" endTime="2019-05-21 14:22:06" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211422060" programID="3241905211422060" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 14:22:06" endTime="2019-05-21 14:35:11" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211435110" programID="3241905211435110" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 14:35:11" endTime="2019-05-21 15:23:51" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211523510" programID="3241905211523510" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 15:23:51" endTime="2019-05-21 15:34:31" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211534310" programID="3241905211534310" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 15:34:31" endTime="2019-05-21 16:21:30" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211621300" programID="3241905211621300" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 16:21:30" endTime="2019-05-21 16:34:15" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211634150" programID="3241905211634150" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 16:34:15" endTime="2019-05-21 17:24:30" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211724300" programID="3241905211724300" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 17:24:30" endTime="2019-05-21 17:33:30" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211733300" programID="3241905211733300" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 17:33:30" endTime="2019-05-21 17:43:35" catchedByOperator="" programName="都挺好20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211743350" programID="3241905211743350" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 17:43:35" endTime="2019-05-21 18:19:11" catchedByOperator="" programName="最炫国剧风20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211819110" programID="3241905211819110" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 18:19:11" endTime="2019-05-21 18:30:01" catchedByOperator="" programName="齐鲁先锋20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211830010" programID="3241905211830010" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 18:30:01" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="山东新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211900000" programID="3241905211900000" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:31:19" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211931190" programID="3241905211931190" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 19:31:19" endTime="2019-05-21 19:35:21" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905211935210" programID="3241905211935210" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 19:35:21" endTime="2019-05-21 20:21:51" catchedByOperator="" programName="亮剑(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212021510" programID="3241905212021510" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 20:21:51" endTime="2019-05-21 20:37:41" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212037410" programID="3241905212037410" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 20:37:41" endTime="2019-05-21 21:26:46" catchedByOperator="" programName="亮剑(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212126460" programID="3241905212126460" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 21:26:46" endTime="2019-05-21 21:36:10" catchedByOperator="" programName="最炫国剧风20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212136100" programID="3241905212136100" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 21:36:10" endTime="2019-05-21 22:01:01" catchedByOperator="" programName="调查20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212201010" programID="3241905212201010" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 22:01:01" endTime="2019-05-21 22:05:41" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212205410" programID="3241905212205410" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 22:05:41" endTime="2019-05-21 22:30:01" catchedByOperator="" programName="美好生活(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212230010" programID="3241905212230010" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 22:30:01" endTime="2019-05-21 22:44:41" catchedByOperator="" programName="晚间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212244410" programID="3241905212244410" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 22:44:41" endTime="2019-05-21 22:52:41" catchedByOperator="" programName="微剧透20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3241905212252410" programID="3241905212252410" channelID="324" channelName="山东卫视高清" startTime="2019-05-21 22:52:41" endTime="2019-05-21 23:55:41" catchedByOperator="" programName="美好生活(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

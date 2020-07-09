@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:12:07" endTime="2019-05-22 01:53:08" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="302" channelName="CCTV-1高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3021905210112070" programName="我有传家宝20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我有传家宝20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210204070" programName="正大综艺动物来啦20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">正大综艺动物来啦20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210256070" programName="等着我20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">等着我20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210429080" programName="今日说法20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日说法20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210457070" programName="新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210527070" programName="人与自然20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人与自然20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210600080" programName="朝闻天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">朝闻天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210834070" programName="秘境之眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">秘境之眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210838070" programName="生活圈20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生活圈20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210924520" programName="手创中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">手创中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905210928330" programName="星火云雾街(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星火云雾街(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211016320" programName="星火云雾街(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星火云雾街(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211104370" programName="星火云雾街(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星火云雾街(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211153230" programName="秘境之眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">秘境之眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211200070" programName="新闻30分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻30分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211239370" programName="今日说法20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日说法20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211312530" programName="瞬间中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">瞬间中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211318230" programName="姥姥的饺子馆(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">姥姥的饺子馆(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211406220" programName="手创中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">手创中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211412170" programName="姥姥的饺子馆(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">姥姥的饺子馆(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211459470" programName="秘境之眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">秘境之眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211504230" programName="姥姥的饺子馆(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">姥姥的饺子馆(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211553220" programName="姥姥的饺子馆(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">姥姥的饺子馆(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211641070" programName="手创中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">手创中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211647220" programName="第1动画乐园:棉花糖和云朵妈妈20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">第1动画乐园:棉花糖和云朵妈妈20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211751530" programName="第1动画乐园:熊出没探险日记2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">第1动画乐园:熊出没探险日记2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211840120" programName="第1动画乐园20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">第1动画乐园20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211853070" programName="秘境之眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">秘境之眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211900000" programName="新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211932400" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905211940580" programName="焦点访谈20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">焦点访谈20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905212006070" programName="麦香(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">麦香(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905212100420" programName="麦香(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">麦香(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905212151120" programName="手创中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">手创中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905212154270" programName="秘境之眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">秘境之眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905212200080" programName="晚间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905212236220" programName="等着我20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">等着我20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905220014170" programName="CCTV著名企业故事展播20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">CCTV著名企业故事展播20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905220018170" programName="国际艺苑20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国际艺苑20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905220115070" programName="生活提示20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生活提示20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3021905220121070" programName="晚间新闻20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间新闻20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3021905210112070" programID="3021905210112070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 01:12:07" endTime="2019-05-21 02:04:07" catchedByOperator="" programName="我有传家宝20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210204070" programID="3021905210204070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 02:04:07" endTime="2019-05-21 02:56:07" catchedByOperator="" programName="正大综艺动物来啦20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210256070" programID="3021905210256070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 02:56:07" endTime="2019-05-21 04:29:08" catchedByOperator="" programName="等着我20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210429080" programID="3021905210429080" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 04:29:08" endTime="2019-05-21 04:57:07" catchedByOperator="" programName="今日说法20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210457070" programID="3021905210457070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 04:57:07" endTime="2019-05-21 05:27:07" catchedByOperator="" programName="新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210527070" programID="3021905210527070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 05:27:07" endTime="2019-05-21 06:00:08" catchedByOperator="" programName="人与自然20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210600080" programID="3021905210600080" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 06:00:08" endTime="2019-05-21 08:34:07" catchedByOperator="" programName="朝闻天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210834070" programID="3021905210834070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 08:34:07" endTime="2019-05-21 08:38:07" catchedByOperator="" programName="秘境之眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210838070" programID="3021905210838070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 08:38:07" endTime="2019-05-21 09:24:52" catchedByOperator="" programName="生活圈20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210924520" programID="3021905210924520" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 09:24:52" endTime="2019-05-21 09:28:33" catchedByOperator="" programName="手创中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905210928330" programID="3021905210928330" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 09:28:33" endTime="2019-05-21 10:16:32" catchedByOperator="" programName="星火云雾街(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211016320" programID="3021905211016320" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 10:16:32" endTime="2019-05-21 11:04:37" catchedByOperator="" programName="星火云雾街(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211104370" programID="3021905211104370" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 11:04:37" endTime="2019-05-21 11:53:23" catchedByOperator="" programName="星火云雾街(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211153230" programID="3021905211153230" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 11:53:23" endTime="2019-05-21 12:00:07" catchedByOperator="" programName="秘境之眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211200070" programID="3021905211200070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 12:00:07" endTime="2019-05-21 12:39:37" catchedByOperator="" programName="新闻30分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211239370" programID="3021905211239370" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 12:39:37" endTime="2019-05-21 13:12:53" catchedByOperator="" programName="今日说法20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211312530" programID="3021905211312530" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 13:12:53" endTime="2019-05-21 13:18:23" catchedByOperator="" programName="瞬间中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211318230" programID="3021905211318230" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 13:18:23" endTime="2019-05-21 14:06:22" catchedByOperator="" programName="姥姥的饺子馆(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211406220" programID="3021905211406220" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 14:06:22" endTime="2019-05-21 14:12:17" catchedByOperator="" programName="手创中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211412170" programID="3021905211412170" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 14:12:17" endTime="2019-05-21 14:59:47" catchedByOperator="" programName="姥姥的饺子馆(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211459470" programID="3021905211459470" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 14:59:47" endTime="2019-05-21 15:04:23" catchedByOperator="" programName="秘境之眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211504230" programID="3021905211504230" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 15:04:23" endTime="2019-05-21 15:53:22" catchedByOperator="" programName="姥姥的饺子馆(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211553220" programID="3021905211553220" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 15:53:22" endTime="2019-05-21 16:41:07" catchedByOperator="" programName="姥姥的饺子馆(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211641070" programID="3021905211641070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 16:41:07" endTime="2019-05-21 16:47:22" catchedByOperator="" programName="手创中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211647220" programID="3021905211647220" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 16:47:22" endTime="2019-05-21 17:51:53" catchedByOperator="" programName="第1动画乐园:棉花糖和云朵妈妈20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211751530" programID="3021905211751530" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 17:51:53" endTime="2019-05-21 18:40:12" catchedByOperator="" programName="第1动画乐园:熊出没探险日记2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211840120" programID="3021905211840120" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 18:40:12" endTime="2019-05-21 18:53:07" catchedByOperator="" programName="第1动画乐园20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211853070" programID="3021905211853070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 18:53:07" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="秘境之眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211900000" programID="3021905211900000" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:32:40" catchedByOperator="" programName="新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211932400" programID="3021905211932400" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 19:32:40" endTime="2019-05-21 19:40:58" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905211940580" programID="3021905211940580" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 19:40:58" endTime="2019-05-21 20:06:07" catchedByOperator="" programName="焦点访谈20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905212006070" programID="3021905212006070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 20:06:07" endTime="2019-05-21 21:00:42" catchedByOperator="" programName="麦香(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905212100420" programID="3021905212100420" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 21:00:42" endTime="2019-05-21 21:51:12" catchedByOperator="" programName="麦香(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905212151120" programID="3021905212151120" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 21:51:12" endTime="2019-05-21 21:54:27" catchedByOperator="" programName="手创中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905212154270" programID="3021905212154270" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 21:54:27" endTime="2019-05-21 22:00:08" catchedByOperator="" programName="秘境之眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905212200080" programID="3021905212200080" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 22:00:08" endTime="2019-05-21 22:36:22" catchedByOperator="" programName="晚间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905212236220" programID="3021905212236220" channelID="302" channelName="CCTV-1高清" startTime="2019-05-21 22:36:22" endTime="2019-05-22 00:14:17" catchedByOperator="" programName="等着我20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905220014170" programID="3021905220014170" channelID="302" channelName="CCTV-1高清" startTime="2019-05-22 00:14:17" endTime="2019-05-22 00:18:17" catchedByOperator="" programName="CCTV著名企业故事展播20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905220018170" programID="3021905220018170" channelID="302" channelName="CCTV-1高清" startTime="2019-05-22 00:18:17" endTime="2019-05-22 01:15:07" catchedByOperator="" programName="国际艺苑20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905220115070" programID="3021905220115070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-22 01:15:07" endTime="2019-05-22 01:21:07" catchedByOperator="" programName="生活提示20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3021905220121070" programID="3021905220121070" channelID="302" channelName="CCTV-1高清" startTime="2019-05-22 01:21:07" endTime="2019-05-22 01:53:08" catchedByOperator="" programName="晚间新闻20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:41:56" endTime="2019-05-22 01:41:55" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="4" channelName="CCTV-4中文国际" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="0041905210141560" programName="国宝档案20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国宝档案20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210200050" programName="新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210231130" programName="走遍中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">走遍中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210300060" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210311400" programName="远方的家特别节目一带一路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">远方的家特别节目一带一路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210400060" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210431400" programName="今日关注20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日关注20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210500110" programName="中国文艺20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国文艺20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210530060" programName="国宝档案20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国宝档案20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210545050" programName="&lt;记住乡愁&gt;片段展播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">&lt;记住乡愁&gt;片段展播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210601150" programName="海峡两岸20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海峡两岸20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210629550" programName="今日亚洲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日亚洲20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210700050" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210734070" programName="今日关注20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日关注20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210800060" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210902100" programName="国家记忆20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国家记忆20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905210930050" programName="外国人在中国:安娜的东北情缘20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">外国人在中国:安娜的东北情缘20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211000060" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211014400" programName="远方的家特别节目一带一路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">远方的家特别节目一带一路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211100050" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211110050" programName="国宝档案20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国宝档案20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211127050" programName="今日导视20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日导视20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211131160" programName="海峡两岸20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海峡两岸20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211159550" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211300060" programName="华人世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">华人世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211331380" programName="走遍中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">走遍中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211400050" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211410060" programName="&lt;记住乡愁&gt;片段展播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">&lt;记住乡愁&gt;片段展播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211416350" programName="淬火成钢(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">淬火成钢(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211500040" programName="淬火成钢(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">淬火成钢(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211545050" programName="淬火成钢(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">淬火成钢(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211628360" programName="淬火成钢(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">淬火成钢(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211716440" programName="远方的家特别节目一带一路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">远方的家特别节目一带一路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211800050" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211814590" programName="中国文艺20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国文艺20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211845050" programName="国宝档案20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国宝档案20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211900050" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905211930060" programName="今日亚洲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日亚洲20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212001500" programName="国家记忆20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国家记忆20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212031060" programName="海峡两岸20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海峡两岸20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212059550" programName="中国新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212132230" programName="今日关注20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日关注20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212157350" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212201080" programName="走遍中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">走遍中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212230060" programName="新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212301060" programName="刀锋下的替身(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">刀锋下的替身(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905212344050" programName="刀锋下的替身(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">刀锋下的替身(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905220027060" programName="刀锋下的替身(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">刀锋下的替身(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0041905220112060" programName="华人世界20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">华人世界20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="0041905210141560" programID="0041905210141560" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 01:41:56" endTime="2019-05-21 02:00:05" catchedByOperator="" programName="国宝档案20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210200050" programID="0041905210200050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 02:00:05" endTime="2019-05-21 02:31:13" catchedByOperator="" programName="新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210231130" programID="0041905210231130" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 02:31:13" endTime="2019-05-21 03:00:06" catchedByOperator="" programName="走遍中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210300060" programID="0041905210300060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 03:00:06" endTime="2019-05-21 03:11:40" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210311400" programID="0041905210311400" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 03:11:40" endTime="2019-05-21 04:00:06" catchedByOperator="" programName="远方的家特别节目一带一路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210400060" programID="0041905210400060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 04:00:06" endTime="2019-05-21 04:31:40" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210431400" programID="0041905210431400" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 04:31:40" endTime="2019-05-21 05:00:11" catchedByOperator="" programName="今日关注20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210500110" programID="0041905210500110" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 05:00:11" endTime="2019-05-21 05:30:06" catchedByOperator="" programName="中国文艺20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210530060" programID="0041905210530060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 05:30:06" endTime="2019-05-21 05:45:05" catchedByOperator="" programName="国宝档案20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210545050" programID="0041905210545050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 05:45:05" endTime="2019-05-21 06:01:15" catchedByOperator="" programName="&lt;记住乡愁&gt;片段展播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210601150" programID="0041905210601150" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 06:01:15" endTime="2019-05-21 06:29:55" catchedByOperator="" programName="海峡两岸20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210629550" programID="0041905210629550" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 06:29:55" endTime="2019-05-21 07:00:05" catchedByOperator="" programName="今日亚洲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210700050" programID="0041905210700050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 07:00:05" endTime="2019-05-21 07:34:07" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210734070" programID="0041905210734070" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 07:34:07" endTime="2019-05-21 08:00:06" catchedByOperator="" programName="今日关注20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210800060" programID="0041905210800060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 08:00:06" endTime="2019-05-21 09:02:10" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210902100" programID="0041905210902100" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 09:02:10" endTime="2019-05-21 09:30:05" catchedByOperator="" programName="国家记忆20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905210930050" programID="0041905210930050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 09:30:05" endTime="2019-05-21 10:00:06" catchedByOperator="" programName="外国人在中国:安娜的东北情缘20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211000060" programID="0041905211000060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 10:00:06" endTime="2019-05-21 10:14:40" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211014400" programID="0041905211014400" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 10:14:40" endTime="2019-05-21 11:00:05" catchedByOperator="" programName="远方的家特别节目一带一路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211100050" programID="0041905211100050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 11:00:05" endTime="2019-05-21 11:10:05" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211110050" programID="0041905211110050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 11:10:05" endTime="2019-05-21 11:27:05" catchedByOperator="" programName="国宝档案20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211127050" programID="0041905211127050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 11:27:05" endTime="2019-05-21 11:31:16" catchedByOperator="" programName="今日导视20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211131160" programID="0041905211131160" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 11:31:16" endTime="2019-05-21 11:59:55" catchedByOperator="" programName="海峡两岸20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211159550" programID="0041905211159550" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 11:59:55" endTime="2019-05-21 13:00:06" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211300060" programID="0041905211300060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 13:00:06" endTime="2019-05-21 13:31:38" catchedByOperator="" programName="华人世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211331380" programID="0041905211331380" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 13:31:38" endTime="2019-05-21 14:00:05" catchedByOperator="" programName="走遍中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211400050" programID="0041905211400050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 14:00:05" endTime="2019-05-21 14:10:06" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211410060" programID="0041905211410060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 14:10:06" endTime="2019-05-21 14:16:35" catchedByOperator="" programName="&lt;记住乡愁&gt;片段展播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211416350" programID="0041905211416350" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 14:16:35" endTime="2019-05-21 15:00:04" catchedByOperator="" programName="淬火成钢(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211500040" programID="0041905211500040" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 15:00:04" endTime="2019-05-21 15:45:05" catchedByOperator="" programName="淬火成钢(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211545050" programID="0041905211545050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 15:45:05" endTime="2019-05-21 16:28:36" catchedByOperator="" programName="淬火成钢(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211628360" programID="0041905211628360" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 16:28:36" endTime="2019-05-21 17:16:44" catchedByOperator="" programName="淬火成钢(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211716440" programID="0041905211716440" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 17:16:44" endTime="2019-05-21 18:00:05" catchedByOperator="" programName="远方的家特别节目一带一路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211800050" programID="0041905211800050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 18:00:05" endTime="2019-05-21 18:14:59" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211814590" programID="0041905211814590" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 18:14:59" endTime="2019-05-21 18:45:05" catchedByOperator="" programName="中国文艺20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211845050" programID="0041905211845050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 18:45:05" endTime="2019-05-21 19:00:05" catchedByOperator="" programName="国宝档案20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211900050" programID="0041905211900050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 19:00:05" endTime="2019-05-21 19:30:06" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905211930060" programID="0041905211930060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 19:30:06" endTime="2019-05-21 20:01:50" catchedByOperator="" programName="今日亚洲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212001500" programID="0041905212001500" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 20:01:50" endTime="2019-05-21 20:31:06" catchedByOperator="" programName="国家记忆20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212031060" programID="0041905212031060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 20:31:06" endTime="2019-05-21 20:59:55" catchedByOperator="" programName="海峡两岸20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212059550" programID="0041905212059550" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 20:59:55" endTime="2019-05-21 21:32:23" catchedByOperator="" programName="中国新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212132230" programID="0041905212132230" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 21:32:23" endTime="2019-05-21 21:57:35" catchedByOperator="" programName="今日关注20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212157350" programID="0041905212157350" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 21:57:35" endTime="2019-05-21 22:01:08" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212201080" programID="0041905212201080" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 22:01:08" endTime="2019-05-21 22:30:06" catchedByOperator="" programName="走遍中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212230060" programID="0041905212230060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 22:30:06" endTime="2019-05-21 23:01:06" catchedByOperator="" programName="新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212301060" programID="0041905212301060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 23:01:06" endTime="2019-05-21 23:44:05" catchedByOperator="" programName="刀锋下的替身(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905212344050" programID="0041905212344050" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-21 23:44:05" endTime="2019-05-22 00:27:06" catchedByOperator="" programName="刀锋下的替身(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905220027060" programID="0041905220027060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-22 00:27:06" endTime="2019-05-22 01:12:06" catchedByOperator="" programName="刀锋下的替身(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0041905220112060" programID="0041905220112060" channelID="4" channelName="CCTV-4中文国际" startTime="2019-05-22 01:12:06" endTime="2019-05-22 01:41:55" catchedByOperator="" programName="华人世界20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

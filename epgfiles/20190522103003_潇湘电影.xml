@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:38:26" endTime="2019-05-22 01:42:56" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="105" channelName="湖南电影" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1051905210138260" programName="金枝玉叶(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">金枝玉叶(下)</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210231270" programName="电影报道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电影报道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210240380" programName="神探传奇四" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探传奇四</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210402420" programName="恩格里喜朗读者" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">恩格里喜朗读者</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210414210" programName="电影报道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电影报道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210422200" programName="南宋猎人五" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">南宋猎人五</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210622190" programName="金枝玉叶" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">金枝玉叶</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210758300" programName="使命1915" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">使命1915</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210931350" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905210937300" programName="使命1915" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">使命1915</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211128030" programName="电影报道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电影报道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211140230" programName="神探传奇五(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探传奇五(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211244370" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211251230" programName="神探传奇五(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探传奇五(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211411230" programName="风云潇湘" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">风云潇湘</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211413290" programName="超时空救兵(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超时空救兵(上)</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211450510" programName="超时空救兵(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超时空救兵(下)</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211528420" programName="校墓处(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">校墓处(上)</MetaData>
+                <MetaData mdUID="3">恐怖</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211633050" programName="校墓处(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">校墓处(下)</MetaData>
+                <MetaData mdUID="3">恐怖</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211735350" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211743590" programName="南宋猎人六(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">南宋猎人六(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211820160" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211828150" programName="南宋猎人六(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">南宋猎人六(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211920070" programName="潇湘身边事" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘身边事</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211925410" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905211929390" programName="使命1915(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">使命1915(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212039440" programName="使命1915(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">使命1915(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212141460" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212147560" programName="使命1915(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">使命1915(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212152040" programName="使命1915(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">使命1915(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212248260" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212255150" programName="风云潇湘" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">风云潇湘</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212258480" programName="龙在江湖(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">龙在江湖(上)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905212348160" programName="龙在江湖(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">龙在江湖(下)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905220034320" programName="潇湘惠生活" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潇湘惠生活</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905220040310" programName="电影报道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">电影报道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1051905220051100" programName="赌王出山(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">赌王出山(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1051905210138260" programID="1051905210138260" channelID="105" channelName="湖南电影" startTime="2019-05-21 01:38:26" endTime="2019-05-21 02:31:27" catchedByOperator="" programName="金枝玉叶(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210231270" programID="1051905210231270" channelID="105" channelName="湖南电影" startTime="2019-05-21 02:31:27" endTime="2019-05-21 02:40:38" catchedByOperator="" programName="电影报道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210240380" programID="1051905210240380" channelID="105" channelName="湖南电影" startTime="2019-05-21 02:40:38" endTime="2019-05-21 04:02:42" catchedByOperator="" programName="神探传奇四" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210402420" programID="1051905210402420" channelID="105" channelName="湖南电影" startTime="2019-05-21 04:02:42" endTime="2019-05-21 04:14:21" catchedByOperator="" programName="恩格里喜朗读者" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210414210" programID="1051905210414210" channelID="105" channelName="湖南电影" startTime="2019-05-21 04:14:21" endTime="2019-05-21 04:22:20" catchedByOperator="" programName="电影报道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210422200" programID="1051905210422200" channelID="105" channelName="湖南电影" startTime="2019-05-21 04:22:20" endTime="2019-05-21 06:22:19" catchedByOperator="" programName="南宋猎人五" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210622190" programID="1051905210622190" channelID="105" channelName="湖南电影" startTime="2019-05-21 06:22:19" endTime="2019-05-21 07:58:30" catchedByOperator="" programName="金枝玉叶" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210758300" programID="1051905210758300" channelID="105" channelName="湖南电影" startTime="2019-05-21 07:58:30" endTime="2019-05-21 09:31:35" catchedByOperator="" programName="使命1915" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210931350" programID="1051905210931350" channelID="105" channelName="湖南电影" startTime="2019-05-21 09:31:35" endTime="2019-05-21 09:37:30" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905210937300" programID="1051905210937300" channelID="105" channelName="湖南电影" startTime="2019-05-21 09:37:30" endTime="2019-05-21 11:28:03" catchedByOperator="" programName="使命1915" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211128030" programID="1051905211128030" channelID="105" channelName="湖南电影" startTime="2019-05-21 11:28:03" endTime="2019-05-21 11:40:23" catchedByOperator="" programName="电影报道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211140230" programID="1051905211140230" channelID="105" channelName="湖南电影" startTime="2019-05-21 11:40:23" endTime="2019-05-21 12:44:37" catchedByOperator="" programName="神探传奇五(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211244370" programID="1051905211244370" channelID="105" channelName="湖南电影" startTime="2019-05-21 12:44:37" endTime="2019-05-21 12:51:23" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211251230" programID="1051905211251230" channelID="105" channelName="湖南电影" startTime="2019-05-21 12:51:23" endTime="2019-05-21 14:11:23" catchedByOperator="" programName="神探传奇五(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211411230" programID="1051905211411230" channelID="105" channelName="湖南电影" startTime="2019-05-21 14:11:23" endTime="2019-05-21 14:13:29" catchedByOperator="" programName="风云潇湘" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211413290" programID="1051905211413290" channelID="105" channelName="湖南电影" startTime="2019-05-21 14:13:29" endTime="2019-05-21 14:50:51" catchedByOperator="" programName="超时空救兵(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211450510" programID="1051905211450510" channelID="105" channelName="湖南电影" startTime="2019-05-21 14:50:51" endTime="2019-05-21 15:28:42" catchedByOperator="" programName="超时空救兵(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211528420" programID="1051905211528420" channelID="105" channelName="湖南电影" startTime="2019-05-21 15:28:42" endTime="2019-05-21 16:33:05" catchedByOperator="" programName="校墓处(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211633050" programID="1051905211633050" channelID="105" channelName="湖南电影" startTime="2019-05-21 16:33:05" endTime="2019-05-21 17:35:35" catchedByOperator="" programName="校墓处(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211735350" programID="1051905211735350" channelID="105" channelName="湖南电影" startTime="2019-05-21 17:35:35" endTime="2019-05-21 17:43:59" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211743590" programID="1051905211743590" channelID="105" channelName="湖南电影" startTime="2019-05-21 17:43:59" endTime="2019-05-21 18:20:16" catchedByOperator="" programName="南宋猎人六(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211820160" programID="1051905211820160" channelID="105" channelName="湖南电影" startTime="2019-05-21 18:20:16" endTime="2019-05-21 18:28:15" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211828150" programID="1051905211828150" channelID="105" channelName="湖南电影" startTime="2019-05-21 18:28:15" endTime="2019-05-21 19:20:07" catchedByOperator="" programName="南宋猎人六(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211920070" programID="1051905211920070" channelID="105" channelName="湖南电影" startTime="2019-05-21 19:20:07" endTime="2019-05-21 19:25:41" catchedByOperator="" programName="潇湘身边事" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211925410" programID="1051905211925410" channelID="105" channelName="湖南电影" startTime="2019-05-21 19:25:41" endTime="2019-05-21 19:29:39" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905211929390" programID="1051905211929390" channelID="105" channelName="湖南电影" startTime="2019-05-21 19:29:39" endTime="2019-05-21 20:39:44" catchedByOperator="" programName="使命1915(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212039440" programID="1051905212039440" channelID="105" channelName="湖南电影" startTime="2019-05-21 20:39:44" endTime="2019-05-21 21:41:46" catchedByOperator="" programName="使命1915(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212141460" programID="1051905212141460" channelID="105" channelName="湖南电影" startTime="2019-05-21 21:41:46" endTime="2019-05-21 21:47:56" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212147560" programID="1051905212147560" channelID="105" channelName="湖南电影" startTime="2019-05-21 21:47:56" endTime="2019-05-21 21:52:04" catchedByOperator="" programName="使命1915(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212152040" programID="1051905212152040" channelID="105" channelName="湖南电影" startTime="2019-05-21 21:52:04" endTime="2019-05-21 22:48:26" catchedByOperator="" programName="使命1915(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212248260" programID="1051905212248260" channelID="105" channelName="湖南电影" startTime="2019-05-21 22:48:26" endTime="2019-05-21 22:55:15" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212255150" programID="1051905212255150" channelID="105" channelName="湖南电影" startTime="2019-05-21 22:55:15" endTime="2019-05-21 22:58:48" catchedByOperator="" programName="风云潇湘" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212258480" programID="1051905212258480" channelID="105" channelName="湖南电影" startTime="2019-05-21 22:58:48" endTime="2019-05-21 23:48:16" catchedByOperator="" programName="龙在江湖(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905212348160" programID="1051905212348160" channelID="105" channelName="湖南电影" startTime="2019-05-21 23:48:16" endTime="2019-05-22 00:34:32" catchedByOperator="" programName="龙在江湖(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905220034320" programID="1051905220034320" channelID="105" channelName="湖南电影" startTime="2019-05-22 00:34:32" endTime="2019-05-22 00:40:31" catchedByOperator="" programName="潇湘惠生活" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905220040310" programID="1051905220040310" channelID="105" channelName="湖南电影" startTime="2019-05-22 00:40:31" endTime="2019-05-22 00:51:10" catchedByOperator="" programName="电影报道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1051905220051100" programID="1051905220051100" channelID="105" channelName="湖南电影" startTime="2019-05-22 00:51:10" endTime="2019-05-22 01:42:56" catchedByOperator="" programName="赌王出山(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

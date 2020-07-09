@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:48:57" endTime="2019-05-22 01:45:34" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="108" channelName="湖南国际频道" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1081905210148570" programName="文化中国青春湖南2019·520湖南国际频道上星十周年全新起航式" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化中国青春湖南2019·520湖南国际频道上星十周年全新起航式</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210243370" programName="开心芒果" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">开心芒果</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210340020" programName="选择长沙" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">选择长沙</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210435510" programName="恰同学少年(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">恰同学少年(1)</MetaData>
+                <MetaData mdUID="3">历史</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210523030" programName="夜隼(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">夜隼(28)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210605160" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210632030" programName="青春湖南" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青春湖南</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210641460" programName="特警力量(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">特警力量(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210747170" programName="特警力量(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">特警力量(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210852580" programName="第十七届汉语桥世界大学生中文比赛" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">第十七届汉语桥世界大学生中文比赛</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905210930020" programName="文化中国青春湖南2019·520湖南国际频道上星十周年全新起航式" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化中国青春湖南2019·520湖南国际频道上星十周年全新起航式</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211052240" programName="特警力量(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">特警力量(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211157200" programName="青春湖南" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青春湖南</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211208110" programName="特警力量(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">特警力量(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211310560" programName="故园长歌中国出了个毛泽东(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">故园长歌中国出了个毛泽东(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211343450" programName="孤战(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">孤战(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211447080" programName="孤战(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">孤战(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211552390" programName="孤战(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">孤战(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211655490" programName="孤战(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">孤战(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211803330" programName="一家老小向前冲:老有所乐(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一家老小向前冲:老有所乐(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211829440" programName="一家老小向前冲:老有所乐(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一家老小向前冲:老有所乐(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211856420" programName="幸福生活在招手(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福生活在招手(9)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905211944210" programName="幸福生活在招手(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福生活在招手(10)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905212031070" programName="开心芒果" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">开心芒果</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905212129320" programName="共和国湖湘人物传奇共产党人:贺龙与新中国体育" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">共和国湖湘人物传奇共产党人:贺龙与新中国体育</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905212204170" programName="恰同学少年(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">恰同学少年(2)</MetaData>
+                <MetaData mdUID="3">历史</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905212252220" programName="恰同学少年(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">恰同学少年(3)</MetaData>
+                <MetaData mdUID="3">历史</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905212338460" programName="幸福生活在招手(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福生活在招手(9)</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1081905220043090" programName="幸福生活在招手(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福生活在招手(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1081905210148570" programID="1081905210148570" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 01:48:57" endTime="2019-05-21 02:43:37" catchedByOperator="" programName="文化中国青春湖南2019·520湖南国际频道上星十周年全新起航式" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210243370" programID="1081905210243370" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 02:43:37" endTime="2019-05-21 03:40:02" catchedByOperator="" programName="开心芒果" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210340020" programID="1081905210340020" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 03:40:02" endTime="2019-05-21 04:35:51" catchedByOperator="" programName="选择长沙" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210435510" programID="1081905210435510" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 04:35:51" endTime="2019-05-21 05:23:03" catchedByOperator="" programName="恰同学少年(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210523030" programID="1081905210523030" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 05:23:03" endTime="2019-05-21 06:05:16" catchedByOperator="" programName="夜隼(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210605160" programID="1081905210605160" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 06:05:16" endTime="2019-05-21 06:32:03" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210632030" programID="1081905210632030" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 06:32:03" endTime="2019-05-21 06:41:46" catchedByOperator="" programName="青春湖南" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210641460" programID="1081905210641460" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 06:41:46" endTime="2019-05-21 07:47:17" catchedByOperator="" programName="特警力量(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210747170" programID="1081905210747170" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 07:47:17" endTime="2019-05-21 08:52:58" catchedByOperator="" programName="特警力量(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210852580" programID="1081905210852580" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 08:52:58" endTime="2019-05-21 09:30:02" catchedByOperator="" programName="第十七届汉语桥世界大学生中文比赛" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905210930020" programID="1081905210930020" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 09:30:02" endTime="2019-05-21 10:52:24" catchedByOperator="" programName="文化中国青春湖南2019·520湖南国际频道上星十周年全新起航式" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211052240" programID="1081905211052240" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 10:52:24" endTime="2019-05-21 11:57:20" catchedByOperator="" programName="特警力量(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211157200" programID="1081905211157200" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 11:57:20" endTime="2019-05-21 12:08:11" catchedByOperator="" programName="青春湖南" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211208110" programID="1081905211208110" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 12:08:11" endTime="2019-05-21 13:10:56" catchedByOperator="" programName="特警力量(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211310560" programID="1081905211310560" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 13:10:56" endTime="2019-05-21 13:43:45" catchedByOperator="" programName="故园长歌中国出了个毛泽东(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211343450" programID="1081905211343450" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 13:43:45" endTime="2019-05-21 14:47:08" catchedByOperator="" programName="孤战(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211447080" programID="1081905211447080" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 14:47:08" endTime="2019-05-21 15:52:39" catchedByOperator="" programName="孤战(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211552390" programID="1081905211552390" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 15:52:39" endTime="2019-05-21 16:55:49" catchedByOperator="" programName="孤战(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211655490" programID="1081905211655490" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 16:55:49" endTime="2019-05-21 18:03:33" catchedByOperator="" programName="孤战(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211803330" programID="1081905211803330" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 18:03:33" endTime="2019-05-21 18:29:44" catchedByOperator="" programName="一家老小向前冲:老有所乐(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211829440" programID="1081905211829440" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 18:29:44" endTime="2019-05-21 18:56:42" catchedByOperator="" programName="一家老小向前冲:老有所乐(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211856420" programID="1081905211856420" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 18:56:42" endTime="2019-05-21 19:44:21" catchedByOperator="" programName="幸福生活在招手(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905211944210" programID="1081905211944210" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 19:44:21" endTime="2019-05-21 20:31:07" catchedByOperator="" programName="幸福生活在招手(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905212031070" programID="1081905212031070" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 20:31:07" endTime="2019-05-21 21:29:32" catchedByOperator="" programName="开心芒果" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905212129320" programID="1081905212129320" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 21:29:32" endTime="2019-05-21 22:04:17" catchedByOperator="" programName="共和国湖湘人物传奇共产党人:贺龙与新中国体育" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905212204170" programID="1081905212204170" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 22:04:17" endTime="2019-05-21 22:52:22" catchedByOperator="" programName="恰同学少年(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905212252220" programID="1081905212252220" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 22:52:22" endTime="2019-05-21 23:38:46" catchedByOperator="" programName="恰同学少年(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905212338460" programID="1081905212338460" channelID="108" channelName="湖南国际频道" startTime="2019-05-21 23:38:46" endTime="2019-05-22 00:43:09" catchedByOperator="" programName="幸福生活在招手(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1081905220043090" programID="1081905220043090" channelID="108" channelName="湖南国际频道" startTime="2019-05-22 00:43:09" endTime="2019-05-22 01:45:34" catchedByOperator="" programName="幸福生活在招手(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

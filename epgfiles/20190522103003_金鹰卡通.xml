@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:57:02" endTime="2019-05-22 01:53:45" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="107" channelName="金鹰卡通" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1071905210157020" programName="星星月亮剧场:熊出没森林奇遇记(55)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(55)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210206310" programName="星星月亮剧场:熊出没森林奇遇记(56)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(56)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210216110" programName="星星月亮剧场:熊出没森林奇遇记(57)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(57)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210234530" programName="星星月亮剧场:熊出没森林奇遇记(59)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(59)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210244360" programName="星星月亮剧场:熊出没森林奇遇记(60)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(60)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210253440" programName="星星月亮剧场:熊出没森林奇遇记(61)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(61)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210303240" programName="星星月亮剧场:熊出没森林奇遇记(62)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(62)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210313200" programName="星星月亮剧场:熊出没森林奇遇记(63)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(63)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210323230" programName="星星月亮剧场:熊出没森林奇遇记(64)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(64)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210333200" programName="星星月亮剧场:熊出没森林奇遇记(65)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(65)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210343080" programName="星星月亮剧场:熊出没森林奇遇记(66)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(66)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210353050" programName="星星月亮剧场:熊出没森林奇遇记(67)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(67)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210403050" programName="星星月亮剧场:熊出没森林奇遇记(68)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(68)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210412450" programName="星星月亮剧场:熊出没森林奇遇记(69)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(69)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210422340" programName="星星月亮剧场:熊出没森林奇遇记(70)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(70)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210432170" programName="星星月亮剧场:熊出没森林奇遇记(71)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(71)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210442200" programName="星星月亮剧场:熊出没森林奇遇记(72)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(72)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210452230" programName="星星月亮剧场:熊出没森林奇遇记(73)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(73)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210501590" programName="星星月亮剧场:熊出没森林奇遇记(74)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(74)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210511280" programName="星星月亮剧场:熊出没森林奇遇记(75)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(75)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210538190" programName="星星月亮剧场:熊出没森林奇遇记(78)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(78)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210548030" programName="星星月亮剧场:熊出没森林奇遇记(79)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(79)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210557570" programName="星星月亮剧场:熊出没森林奇遇记(80)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(80)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210607240" programName="星星月亮剧场:熊出没森林奇遇记(81)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(81)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210617000" programName="星星月亮剧场:熊出没森林奇遇记(82)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(82)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210630450" programName="熊出没森林奇遇记(83)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熊出没森林奇遇记(83)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210640180" programName="熊出没森林奇遇记(84)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熊出没森林奇遇记(84)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210650130" programName="熊出没森林奇遇记(85)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熊出没森林奇遇记(85)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210700100" programName="艾米最早到:海底小纵队20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">艾米最早到:海底小纵队20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905210804120" programName="宾果连连看:海底小纵队20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:海底小纵队20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211000210" programName="宾果连连看:熊出没丛林守护者(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211015060" programName="宾果连连看:熊出没丛林守护者(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211029490" programName="宾果连连看:熊出没丛林守护者(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211044480" programName="宾果连连看:熊出没丛林守护者(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211059460" programName="宾果连连看:熊出没丛林守护者(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211110040" programName="麦咭天天看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">麦咭天天看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211114070" programName="宾果连连看:熊出没丛林守护者(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211128440" programName="宾果连连看:熊出没丛林守护者(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211138580" programName="宾果连连看:熊出没丛林守护者(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宾果连连看:熊出没丛林守护者(43)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211149460" programName="玩名堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">玩名堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211200020" programName="叽哩咕噜午间剧场:汪汪队立大功20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">叽哩咕噜午间剧场:汪汪队立大功20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211403200" programName="人气暴暴牙20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人气暴暴牙20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211408100" programName="人气暴暴牙:汪汪队立大功20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人气暴暴牙:汪汪队立大功20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211506320" programName="人气暴暴牙:猪猪侠恐龙日记1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人气暴暴牙:猪猪侠恐龙日记1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211632490" programName="人气暴暴牙:百变布鲁可20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人气暴暴牙:百变布鲁可20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211657000" programName="飞行幼乐园20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞行幼乐园20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211725010" programName="玩名堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">玩名堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211730260" programName="麦咭首播剧场:炫斗小Q(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">麦咭首播剧场:炫斗小Q(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211747420" programName="麦咭首播剧场:超级飞侠6" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">麦咭首播剧场:超级飞侠6</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211858230" programName="布布奇趣剧场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">布布奇趣剧场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211903280" programName="布布奇趣剧场:超级飞侠6" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">布布奇趣剧场:超级飞侠6</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905211958510" programName="亲亲大D剧场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亲亲大D剧场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212003460" programName="亲亲大D剧场:魔幻陀螺之聚能引擎(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亲亲大D剧场:魔幻陀螺之聚能引擎(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212024300" programName="玩名堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">玩名堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212030090" programName="亲亲大D剧场:心奇爆龙战车之驯龙斗士(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亲亲大D剧场:心奇爆龙战车之驯龙斗士(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212047370" programName="亲亲大D剧场:新百变马丁20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亲亲大D剧场:新百变马丁20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212134260" programName="爱宝贝晒一晒20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">爱宝贝晒一晒20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212157170" programName="美美家庭剧场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美美家庭剧场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905212200370" programName="美美家庭剧场:新百变马丁20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美美家庭剧场:新百变马丁20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220002290" programName="爱宝贝晒一晒20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">爱宝贝晒一晒20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220022500" programName="星星月亮剧场:熊出没森林奇遇记(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220033220" programName="星星月亮剧场:熊出没森林奇遇记(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220043250" programName="星星月亮剧场:熊出没森林奇遇记(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220053280" programName="星星月亮剧场:熊出没森林奇遇记(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220103310" programName="星星月亮剧场:熊出没森林奇遇记(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220113330" programName="星星月亮剧场:熊出没森林奇遇记(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220123370" programName="星星月亮剧场:熊出没森林奇遇记(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220133400" programName="星星月亮剧场:熊出没森林奇遇记(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1071905220143420" programName="星星月亮剧场:熊出没森林奇遇记(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">星星月亮剧场:熊出没森林奇遇记(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1071905210157020" programID="1071905210157020" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 01:57:02" endTime="2019-05-21 02:06:31" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(55)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210206310" programID="1071905210206310" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 02:06:31" endTime="2019-05-21 02:16:11" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(56)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210216110" programID="1071905210216110" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 02:16:11" endTime="2019-05-21 02:34:53" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(57)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210234530" programID="1071905210234530" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 02:34:53" endTime="2019-05-21 02:44:36" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(59)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210244360" programID="1071905210244360" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 02:44:36" endTime="2019-05-21 02:53:44" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(60)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210253440" programID="1071905210253440" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 02:53:44" endTime="2019-05-21 03:03:24" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(61)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210303240" programID="1071905210303240" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 03:03:24" endTime="2019-05-21 03:13:20" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(62)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210313200" programID="1071905210313200" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 03:13:20" endTime="2019-05-21 03:23:23" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(63)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210323230" programID="1071905210323230" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 03:23:23" endTime="2019-05-21 03:33:20" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(64)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210333200" programID="1071905210333200" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 03:33:20" endTime="2019-05-21 03:43:08" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(65)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210343080" programID="1071905210343080" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 03:43:08" endTime="2019-05-21 03:53:05" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(66)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210353050" programID="1071905210353050" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 03:53:05" endTime="2019-05-21 04:03:05" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(67)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210403050" programID="1071905210403050" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 04:03:05" endTime="2019-05-21 04:12:45" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(68)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210412450" programID="1071905210412450" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 04:12:45" endTime="2019-05-21 04:22:34" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(69)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210422340" programID="1071905210422340" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 04:22:34" endTime="2019-05-21 04:32:17" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(70)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210432170" programID="1071905210432170" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 04:32:17" endTime="2019-05-21 04:42:20" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(71)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210442200" programID="1071905210442200" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 04:42:20" endTime="2019-05-21 04:52:23" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(72)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210452230" programID="1071905210452230" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 04:52:23" endTime="2019-05-21 05:01:59" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(73)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210501590" programID="1071905210501590" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 05:01:59" endTime="2019-05-21 05:11:28" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(74)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210511280" programID="1071905210511280" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 05:11:28" endTime="2019-05-21 05:38:19" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(75)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210538190" programID="1071905210538190" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 05:38:19" endTime="2019-05-21 05:48:03" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(78)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210548030" programID="1071905210548030" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 05:48:03" endTime="2019-05-21 05:57:57" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(79)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210557570" programID="1071905210557570" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 05:57:57" endTime="2019-05-21 06:07:24" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(80)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210607240" programID="1071905210607240" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 06:07:24" endTime="2019-05-21 06:17:00" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(81)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210617000" programID="1071905210617000" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 06:17:00" endTime="2019-05-21 06:30:45" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(82)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210630450" programID="1071905210630450" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 06:30:45" endTime="2019-05-21 06:40:18" catchedByOperator="" programName="熊出没森林奇遇记(83)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210640180" programID="1071905210640180" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 06:40:18" endTime="2019-05-21 06:50:13" catchedByOperator="" programName="熊出没森林奇遇记(84)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210650130" programID="1071905210650130" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 06:50:13" endTime="2019-05-21 07:00:10" catchedByOperator="" programName="熊出没森林奇遇记(85)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210700100" programID="1071905210700100" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 07:00:10" endTime="2019-05-21 08:04:12" catchedByOperator="" programName="艾米最早到:海底小纵队20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905210804120" programID="1071905210804120" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 08:04:12" endTime="2019-05-21 10:00:21" catchedByOperator="" programName="宾果连连看:海底小纵队20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211000210" programID="1071905211000210" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 10:00:21" endTime="2019-05-21 10:15:06" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211015060" programID="1071905211015060" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 10:15:06" endTime="2019-05-21 10:29:49" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211029490" programID="1071905211029490" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 10:29:49" endTime="2019-05-21 10:44:48" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211044480" programID="1071905211044480" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 10:44:48" endTime="2019-05-21 10:59:46" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211059460" programID="1071905211059460" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 10:59:46" endTime="2019-05-21 11:10:04" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211110040" programID="1071905211110040" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 11:10:04" endTime="2019-05-21 11:14:07" catchedByOperator="" programName="麦咭天天看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211114070" programID="1071905211114070" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 11:14:07" endTime="2019-05-21 11:28:44" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211128440" programID="1071905211128440" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 11:28:44" endTime="2019-05-21 11:38:58" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211138580" programID="1071905211138580" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 11:38:58" endTime="2019-05-21 11:49:46" catchedByOperator="" programName="宾果连连看:熊出没丛林守护者(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211149460" programID="1071905211149460" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 11:49:46" endTime="2019-05-21 12:00:02" catchedByOperator="" programName="玩名堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211200020" programID="1071905211200020" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 12:00:02" endTime="2019-05-21 14:03:20" catchedByOperator="" programName="叽哩咕噜午间剧场:汪汪队立大功20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211403200" programID="1071905211403200" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 14:03:20" endTime="2019-05-21 14:08:10" catchedByOperator="" programName="人气暴暴牙20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211408100" programID="1071905211408100" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 14:08:10" endTime="2019-05-21 15:06:32" catchedByOperator="" programName="人气暴暴牙:汪汪队立大功20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211506320" programID="1071905211506320" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 15:06:32" endTime="2019-05-21 16:32:49" catchedByOperator="" programName="人气暴暴牙:猪猪侠恐龙日记1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211632490" programID="1071905211632490" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 16:32:49" endTime="2019-05-21 16:57:00" catchedByOperator="" programName="人气暴暴牙:百变布鲁可20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211657000" programID="1071905211657000" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 16:57:00" endTime="2019-05-21 17:25:01" catchedByOperator="" programName="飞行幼乐园20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211725010" programID="1071905211725010" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 17:25:01" endTime="2019-05-21 17:30:26" catchedByOperator="" programName="玩名堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211730260" programID="1071905211730260" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 17:30:26" endTime="2019-05-21 17:47:42" catchedByOperator="" programName="麦咭首播剧场:炫斗小Q(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211747420" programID="1071905211747420" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 17:47:42" endTime="2019-05-21 18:58:23" catchedByOperator="" programName="麦咭首播剧场:超级飞侠6" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211858230" programID="1071905211858230" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 18:58:23" endTime="2019-05-21 19:03:28" catchedByOperator="" programName="布布奇趣剧场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211903280" programID="1071905211903280" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 19:03:28" endTime="2019-05-21 19:58:51" catchedByOperator="" programName="布布奇趣剧场:超级飞侠6" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905211958510" programID="1071905211958510" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 19:58:51" endTime="2019-05-21 20:03:46" catchedByOperator="" programName="亲亲大D剧场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212003460" programID="1071905212003460" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 20:03:46" endTime="2019-05-21 20:24:30" catchedByOperator="" programName="亲亲大D剧场:魔幻陀螺之聚能引擎(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212024300" programID="1071905212024300" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 20:24:30" endTime="2019-05-21 20:30:09" catchedByOperator="" programName="玩名堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212030090" programID="1071905212030090" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 20:30:09" endTime="2019-05-21 20:47:37" catchedByOperator="" programName="亲亲大D剧场:心奇爆龙战车之驯龙斗士(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212047370" programID="1071905212047370" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 20:47:37" endTime="2019-05-21 21:34:26" catchedByOperator="" programName="亲亲大D剧场:新百变马丁20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212134260" programID="1071905212134260" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 21:34:26" endTime="2019-05-21 21:57:17" catchedByOperator="" programName="爱宝贝晒一晒20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212157170" programID="1071905212157170" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 21:57:17" endTime="2019-05-21 22:00:37" catchedByOperator="" programName="美美家庭剧场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905212200370" programID="1071905212200370" channelID="107" channelName="金鹰卡通" startTime="2019-05-21 22:00:37" endTime="2019-05-22 00:02:29" catchedByOperator="" programName="美美家庭剧场:新百变马丁20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220002290" programID="1071905220002290" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 00:02:29" endTime="2019-05-22 00:22:50" catchedByOperator="" programName="爱宝贝晒一晒20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220022500" programID="1071905220022500" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 00:22:50" endTime="2019-05-22 00:33:22" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220033220" programID="1071905220033220" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 00:33:22" endTime="2019-05-22 00:43:25" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220043250" programID="1071905220043250" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 00:43:25" endTime="2019-05-22 00:53:28" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220053280" programID="1071905220053280" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 00:53:28" endTime="2019-05-22 01:03:31" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220103310" programID="1071905220103310" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 01:03:31" endTime="2019-05-22 01:13:33" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220113330" programID="1071905220113330" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 01:13:33" endTime="2019-05-22 01:23:37" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220123370" programID="1071905220123370" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 01:23:37" endTime="2019-05-22 01:33:40" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220133400" programID="1071905220133400" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 01:33:40" endTime="2019-05-22 01:43:42" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1071905220143420" programID="1071905220143420" channelID="107" channelName="金鹰卡通" startTime="2019-05-22 01:43:42" endTime="2019-05-22 01:53:45" catchedByOperator="" programName="星星月亮剧场:熊出没森林奇遇记(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

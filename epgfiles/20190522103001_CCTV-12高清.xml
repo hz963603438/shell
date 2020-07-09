@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:32:02" endTime="2019-05-22 01:32:01" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="319" channelName="CCTV-12高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3191905210132020" programName="夜线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">夜线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210216320" programName="停机检修20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210555010" programName="中华人民共和国国歌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华人民共和国国歌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210600010" programName="夕阳红20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">夕阳红20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210624020" programName="道德观察20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">道德观察20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210646010" programName="法律讲堂文史版20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法律讲堂文史版20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210720020" programName="平安365" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">平安365</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210744020" programName="夕阳红20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">夕阳红20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210809400" programName="普法栏目剧:真相边缘(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧:真相边缘(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210902370" programName="普法栏目剧:真相边缘(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧:真相边缘(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905210956410" programName="普法栏目剧:一枚戒指(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧:一枚戒指(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211050440" programName="普法栏目剧:一枚戒指(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧:一枚戒指(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211140010" programName="平安365" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">平安365</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211200010" programName="热线12" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">热线12</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211244020" programName="缉毒先锋(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">缉毒先锋(24)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211331010" programName="缉毒先锋(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">缉毒先锋(25)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211418020" programName="缉毒先锋(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">缉毒先锋(26)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211503020" programName="缉毒先锋(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">缉毒先锋(27)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211547470" programName="夕阳红20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">夕阳红20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211608020" programName="法律讲堂生活版20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法律讲堂生活版20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211640010" programName="热线12" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">热线12</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211720020" programName="天网20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天网20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211803440" programName="普法栏目剧迷你剧集:直到尽头(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧迷你剧集:直到尽头(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211852010" programName="法律讲堂生活版20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法律讲堂生活版20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905211924010" programName="一线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212007010" programName="天网20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天网20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212051410" programName="普法栏目剧迷你剧集:直到尽头(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧迷你剧集:直到尽头(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212139020" programName="中国体育彩票20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国体育彩票20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212142020" programName="道德观察20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">道德观察20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212202460" programName="夜线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">夜线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212243020" programName="法律讲堂文史版20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法律讲堂文史版20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212313020" programName="天网20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天网20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905212357410" programName="普法栏目剧迷你剧集:直到尽头(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">普法栏目剧迷你剧集:直到尽头(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3191905220048020" programName="一线20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一线20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3191905210132020" programID="3191905210132020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 01:32:02" endTime="2019-05-21 02:16:32" catchedByOperator="" programName="夜线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210216320" programID="3191905210216320" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 02:16:32" endTime="2019-05-21 05:55:01" catchedByOperator="" programName="停机检修20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210555010" programID="3191905210555010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 05:55:01" endTime="2019-05-21 06:00:01" catchedByOperator="" programName="中华人民共和国国歌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210600010" programID="3191905210600010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 06:00:01" endTime="2019-05-21 06:24:02" catchedByOperator="" programName="夕阳红20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210624020" programID="3191905210624020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 06:24:02" endTime="2019-05-21 06:46:01" catchedByOperator="" programName="道德观察20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210646010" programID="3191905210646010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 06:46:01" endTime="2019-05-21 07:20:02" catchedByOperator="" programName="法律讲堂文史版20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210720020" programID="3191905210720020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 07:20:02" endTime="2019-05-21 07:44:02" catchedByOperator="" programName="平安365" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210744020" programID="3191905210744020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 07:44:02" endTime="2019-05-21 08:09:40" catchedByOperator="" programName="夕阳红20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210809400" programID="3191905210809400" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 08:09:40" endTime="2019-05-21 09:02:37" catchedByOperator="" programName="普法栏目剧:真相边缘(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210902370" programID="3191905210902370" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 09:02:37" endTime="2019-05-21 09:56:41" catchedByOperator="" programName="普法栏目剧:真相边缘(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905210956410" programID="3191905210956410" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 09:56:41" endTime="2019-05-21 10:50:44" catchedByOperator="" programName="普法栏目剧:一枚戒指(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211050440" programID="3191905211050440" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 10:50:44" endTime="2019-05-21 11:40:01" catchedByOperator="" programName="普法栏目剧:一枚戒指(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211140010" programID="3191905211140010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 11:40:01" endTime="2019-05-21 12:00:01" catchedByOperator="" programName="平安365" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211200010" programID="3191905211200010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 12:00:01" endTime="2019-05-21 12:44:02" catchedByOperator="" programName="热线12" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211244020" programID="3191905211244020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 12:44:02" endTime="2019-05-21 13:31:01" catchedByOperator="" programName="缉毒先锋(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211331010" programID="3191905211331010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 13:31:01" endTime="2019-05-21 14:18:02" catchedByOperator="" programName="缉毒先锋(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211418020" programID="3191905211418020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 14:18:02" endTime="2019-05-21 15:03:02" catchedByOperator="" programName="缉毒先锋(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211503020" programID="3191905211503020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 15:03:02" endTime="2019-05-21 15:47:47" catchedByOperator="" programName="缉毒先锋(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211547470" programID="3191905211547470" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 15:47:47" endTime="2019-05-21 16:08:02" catchedByOperator="" programName="夕阳红20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211608020" programID="3191905211608020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 16:08:02" endTime="2019-05-21 16:40:01" catchedByOperator="" programName="法律讲堂生活版20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211640010" programID="3191905211640010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 16:40:01" endTime="2019-05-21 17:20:02" catchedByOperator="" programName="热线12" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211720020" programID="3191905211720020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 17:20:02" endTime="2019-05-21 18:03:44" catchedByOperator="" programName="天网20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211803440" programID="3191905211803440" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 18:03:44" endTime="2019-05-21 18:52:01" catchedByOperator="" programName="普法栏目剧迷你剧集:直到尽头(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211852010" programID="3191905211852010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 18:52:01" endTime="2019-05-21 19:24:01" catchedByOperator="" programName="法律讲堂生活版20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905211924010" programID="3191905211924010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 19:24:01" endTime="2019-05-21 20:07:01" catchedByOperator="" programName="一线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212007010" programID="3191905212007010" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 20:07:01" endTime="2019-05-21 20:51:41" catchedByOperator="" programName="天网20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212051410" programID="3191905212051410" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 20:51:41" endTime="2019-05-21 21:39:02" catchedByOperator="" programName="普法栏目剧迷你剧集:直到尽头(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212139020" programID="3191905212139020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 21:39:02" endTime="2019-05-21 21:42:02" catchedByOperator="" programName="中国体育彩票20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212142020" programID="3191905212142020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 21:42:02" endTime="2019-05-21 22:02:46" catchedByOperator="" programName="道德观察20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212202460" programID="3191905212202460" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 22:02:46" endTime="2019-05-21 22:43:02" catchedByOperator="" programName="夜线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212243020" programID="3191905212243020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 22:43:02" endTime="2019-05-21 23:13:02" catchedByOperator="" programName="法律讲堂文史版20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212313020" programID="3191905212313020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 23:13:02" endTime="2019-05-21 23:57:41" catchedByOperator="" programName="天网20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905212357410" programID="3191905212357410" channelID="319" channelName="CCTV-12高清" startTime="2019-05-21 23:57:41" endTime="2019-05-22 00:48:02" catchedByOperator="" programName="普法栏目剧迷你剧集:直到尽头(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3191905220048020" programID="3191905220048020" channelID="319" channelName="CCTV-12高清" startTime="2019-05-22 00:48:02" endTime="2019-05-22 01:32:01" catchedByOperator="" programName="一线20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

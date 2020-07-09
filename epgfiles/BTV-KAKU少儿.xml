@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:00" startTime="2019-05-21 01:45:07" endTime="2019-05-22 01:44:07" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="234" channelName="BTV-KAKU少儿" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2341905210145070" programName="西游记(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(5)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210208020" programName="无敌小鹿20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">无敌小鹿20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210211080" programName="百变马丁20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">百变马丁20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210341020" programName="无敌小鹿20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">无敌小鹿20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210344070" programName="猪猪侠五灵守卫者下部20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猪猪侠五灵守卫者下部20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210429020" programName="无敌小鹿20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">无敌小鹿20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210432070" programName="大耳朵图图20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大耳朵图图20190521</MetaData>
+                <MetaData mdUID="3">卡通</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210600070" programName="大耳朵图图之小小欢乐魔法师20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大耳朵图图之小小欢乐魔法师20190521</MetaData>
+                <MetaData mdUID="3">动画</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210624020" programName="无敌小鹿20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">无敌小鹿20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210630070" programName="大耳朵图图之小小欢乐魔法师20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大耳朵图图之小小欢乐魔法师20190521</MetaData>
+                <MetaData mdUID="3">动画</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210650470" programName="无敌小鹿20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">无敌小鹿20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210700020" programName="KAKU幼儿园20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">KAKU幼儿园20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210717020" programName="新大头儿子和小头爸爸第五季(475)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(475)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210727100" programName="新大头儿子和小头爸爸第五季(476)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(476)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210739020" programName="新大头儿子和小头爸爸第五季(477)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(477)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210749050" programName="新大头儿子和小头爸爸第五季(478)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(478)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210801070" programName="新大头儿子和小头爸爸第五季(479)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(479)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210811070" programName="新大头儿子和小头爸爸第五季(480)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(480)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210831070" programName="新大头儿子和小头爸爸第五季(481)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(481)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210841090" programName="新大头儿子和小头爸爸第五季(482)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(482)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210853070" programName="新大头儿子和小头爸爸第五季(483)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(483)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210903040" programName="新大头儿子和小头爸爸第五季(484)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(484)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905210923070" programName="熊出没之探险日记20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熊出没之探险日记20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211135070" programName="猪猪侠恐龙日记1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猪猪侠恐龙日记1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211351070" programName="喜羊羊与灰太狼发明大作战2羊村守护者(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211355210" programName="喜羊羊与灰太狼发明大作战2羊村守护者(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211407260" programName="喜羊羊与灰太狼发明大作战2羊村守护者(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211421340" programName="喜羊羊与灰太狼发明大作战2羊村守护者(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211443070" programName="喜羊羊与灰太狼发明大作战2羊村守护者(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211455140" programName="喜羊羊与灰太狼发明大作战2羊村守护者(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211509190" programName="喜羊羊与灰太狼发明大作战2羊村守护者(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211521200" programName="喜羊羊与灰太狼发明大作战2羊村守护者(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211535250" programName="喜羊羊与灰太狼发明大作战2羊村守护者(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211548070" programName="喜羊羊与灰太狼发明大作战2羊村守护者(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211600160" programName="喜羊羊与灰太狼发明大作战2羊村守护者(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211614240" programName="喜羊羊与灰太狼发明大作战2羊村守护者(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211626290" programName="喜羊羊与灰太狼发明大作战2羊村守护者(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">喜羊羊与灰太狼发明大作战2羊村守护者(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211632070" programName="探探猫奇妙世界(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探探猫奇妙世界(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211642140" programName="探探猫奇妙世界(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探探猫奇妙世界(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211654020" programName="探探猫奇妙世界(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探探猫奇妙世界(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211704370" programName="探探猫奇妙世界(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探探猫奇妙世界(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211715070" programName="大玩家20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大玩家20190521</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211720480" programName="熊熊乐园20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熊熊乐园20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211728020" programName="猪猪侠恐龙日记1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猪猪侠恐龙日记1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211938070" programName="卡小酷剧场:萌宝战警(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卡小酷剧场:萌宝战警(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905211948330" programName="卡小酷剧场:炫斗小Q(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卡小酷剧场:炫斗小Q(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212001420" programName="卡小酷剧场:爆裂飞车3兽神合体下部(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卡小酷剧场:爆裂飞车3兽神合体下部(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212021420" programName="卡小酷剧场:心奇爆龙战车之驯龙斗士(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卡小酷剧场:心奇爆龙战车之驯龙斗士(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212031180" programName="卡小酷剧场:新大头儿子和小头爸爸第五季(431)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卡小酷剧场:新大头儿子和小头爸爸第五季(431)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212042070" programName="新大头儿子和小头爸爸第五季(411)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(411)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212052080" programName="新大头儿子和小头爸爸第五季(412)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(412)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212104020" programName="新大头儿子和小头爸爸第五季(413)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(413)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212114070" programName="新大头儿子和小头爸爸第五季(414)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(414)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212125020" programName="新大头儿子和小头爸爸第五季(415)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(415)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212135090" programName="新大头儿子和小头爸爸第五季(416)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(416)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212146070" programName="新大头儿子和小头爸爸第五季(417)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(417)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212156090" programName="新大头儿子和小头爸爸第五季(418)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第五季(418)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212206080" programName="熊出没开心大冒险20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熊出没开心大冒险20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905212350070" programName="西游记(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(6)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905220012070" programName="西游记(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905220034070" programName="西游记(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905220057020" programName="无敌小鹿20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">无敌小鹿20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905220100070" programName="西游记(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2341905220122070" programName="西游记(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2341905210145070" programID="2341905210145070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 01:45:07" endTime="2019-05-21 02:08:02" catchedByOperator="" programName="西游记(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210208020" programID="2341905210208020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 02:08:02" endTime="2019-05-21 02:11:08" catchedByOperator="" programName="无敌小鹿20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210211080" programID="2341905210211080" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 02:11:08" endTime="2019-05-21 03:41:02" catchedByOperator="" programName="百变马丁20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210341020" programID="2341905210341020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 03:41:02" endTime="2019-05-21 03:44:07" catchedByOperator="" programName="无敌小鹿20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210344070" programID="2341905210344070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 03:44:07" endTime="2019-05-21 04:29:02" catchedByOperator="" programName="猪猪侠五灵守卫者下部20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210429020" programID="2341905210429020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 04:29:02" endTime="2019-05-21 04:32:07" catchedByOperator="" programName="无敌小鹿20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210432070" programID="2341905210432070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 04:32:07" endTime="2019-05-21 06:00:07" catchedByOperator="" programName="大耳朵图图20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210600070" programID="2341905210600070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 06:00:07" endTime="2019-05-21 06:24:02" catchedByOperator="" programName="大耳朵图图之小小欢乐魔法师20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210624020" programID="2341905210624020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 06:24:02" endTime="2019-05-21 06:30:07" catchedByOperator="" programName="无敌小鹿20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210630070" programID="2341905210630070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 06:30:07" endTime="2019-05-21 06:50:47" catchedByOperator="" programName="大耳朵图图之小小欢乐魔法师20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210650470" programID="2341905210650470" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 06:50:47" endTime="2019-05-21 07:00:02" catchedByOperator="" programName="无敌小鹿20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210700020" programID="2341905210700020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 07:00:02" endTime="2019-05-21 07:17:02" catchedByOperator="" programName="KAKU幼儿园20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210717020" programID="2341905210717020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 07:17:02" endTime="2019-05-21 07:27:10" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(475)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210727100" programID="2341905210727100" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 07:27:10" endTime="2019-05-21 07:39:02" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(476)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210739020" programID="2341905210739020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 07:39:02" endTime="2019-05-21 07:49:05" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(477)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210749050" programID="2341905210749050" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 07:49:05" endTime="2019-05-21 08:01:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(478)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210801070" programID="2341905210801070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 08:01:07" endTime="2019-05-21 08:11:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(479)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210811070" programID="2341905210811070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 08:11:07" endTime="2019-05-21 08:31:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(480)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210831070" programID="2341905210831070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 08:31:07" endTime="2019-05-21 08:41:09" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(481)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210841090" programID="2341905210841090" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 08:41:09" endTime="2019-05-21 08:53:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(482)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210853070" programID="2341905210853070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 08:53:07" endTime="2019-05-21 09:03:04" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(483)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210903040" programID="2341905210903040" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 09:03:04" endTime="2019-05-21 09:23:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(484)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905210923070" programID="2341905210923070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 09:23:07" endTime="2019-05-21 11:35:07" catchedByOperator="" programName="熊出没之探险日记20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211135070" programID="2341905211135070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 11:35:07" endTime="2019-05-21 13:51:07" catchedByOperator="" programName="猪猪侠恐龙日记1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211351070" programID="2341905211351070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 13:51:07" endTime="2019-05-21 13:55:21" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211355210" programID="2341905211355210" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 13:55:21" endTime="2019-05-21 14:07:26" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211407260" programID="2341905211407260" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 14:07:26" endTime="2019-05-21 14:21:34" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211421340" programID="2341905211421340" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 14:21:34" endTime="2019-05-21 14:43:07" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211443070" programID="2341905211443070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 14:43:07" endTime="2019-05-21 14:55:14" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211455140" programID="2341905211455140" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 14:55:14" endTime="2019-05-21 15:09:19" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211509190" programID="2341905211509190" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 15:09:19" endTime="2019-05-21 15:21:20" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211521200" programID="2341905211521200" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 15:21:20" endTime="2019-05-21 15:35:25" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211535250" programID="2341905211535250" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 15:35:25" endTime="2019-05-21 15:48:07" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211548070" programID="2341905211548070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 15:48:07" endTime="2019-05-21 16:00:16" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211600160" programID="2341905211600160" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 16:00:16" endTime="2019-05-21 16:14:24" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211614240" programID="2341905211614240" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 16:14:24" endTime="2019-05-21 16:26:29" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211626290" programID="2341905211626290" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 16:26:29" endTime="2019-05-21 16:32:07" catchedByOperator="" programName="喜羊羊与灰太狼发明大作战2羊村守护者(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211632070" programID="2341905211632070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 16:32:07" endTime="2019-05-21 16:42:14" catchedByOperator="" programName="探探猫奇妙世界(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211642140" programID="2341905211642140" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 16:42:14" endTime="2019-05-21 16:54:02" catchedByOperator="" programName="探探猫奇妙世界(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211654020" programID="2341905211654020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 16:54:02" endTime="2019-05-21 17:04:37" catchedByOperator="" programName="探探猫奇妙世界(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211704370" programID="2341905211704370" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 17:04:37" endTime="2019-05-21 17:15:07" catchedByOperator="" programName="探探猫奇妙世界(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211715070" programID="2341905211715070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 17:15:07" endTime="2019-05-21 17:20:48" catchedByOperator="" programName="大玩家20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211720480" programID="2341905211720480" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 17:20:48" endTime="2019-05-21 17:28:02" catchedByOperator="" programName="熊熊乐园20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211728020" programID="2341905211728020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 17:28:02" endTime="2019-05-21 19:38:07" catchedByOperator="" programName="猪猪侠恐龙日记1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211938070" programID="2341905211938070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 19:38:07" endTime="2019-05-21 19:48:33" catchedByOperator="" programName="卡小酷剧场:萌宝战警(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905211948330" programID="2341905211948330" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 19:48:33" endTime="2019-05-21 20:01:42" catchedByOperator="" programName="卡小酷剧场:炫斗小Q(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212001420" programID="2341905212001420" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 20:01:42" endTime="2019-05-21 20:21:42" catchedByOperator="" programName="卡小酷剧场:爆裂飞车3兽神合体下部(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212021420" programID="2341905212021420" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 20:21:42" endTime="2019-05-21 20:31:18" catchedByOperator="" programName="卡小酷剧场:心奇爆龙战车之驯龙斗士(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212031180" programID="2341905212031180" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 20:31:18" endTime="2019-05-21 20:42:07" catchedByOperator="" programName="卡小酷剧场:新大头儿子和小头爸爸第五季(431)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212042070" programID="2341905212042070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 20:42:07" endTime="2019-05-21 20:52:08" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(411)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212052080" programID="2341905212052080" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 20:52:08" endTime="2019-05-21 21:04:02" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(412)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212104020" programID="2341905212104020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 21:04:02" endTime="2019-05-21 21:14:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(413)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212114070" programID="2341905212114070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 21:14:07" endTime="2019-05-21 21:25:02" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(414)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212125020" programID="2341905212125020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 21:25:02" endTime="2019-05-21 21:35:09" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(415)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212135090" programID="2341905212135090" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 21:35:09" endTime="2019-05-21 21:46:07" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(416)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212146070" programID="2341905212146070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 21:46:07" endTime="2019-05-21 21:56:09" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(417)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212156090" programID="2341905212156090" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 21:56:09" endTime="2019-05-21 22:06:08" catchedByOperator="" programName="新大头儿子和小头爸爸第五季(418)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212206080" programID="2341905212206080" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 22:06:08" endTime="2019-05-21 23:50:07" catchedByOperator="" programName="熊出没开心大冒险20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905212350070" programID="2341905212350070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-21 23:50:07" endTime="2019-05-22 00:12:07" catchedByOperator="" programName="西游记(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905220012070" programID="2341905220012070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-22 00:12:07" endTime="2019-05-22 00:34:07" catchedByOperator="" programName="西游记(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905220034070" programID="2341905220034070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-22 00:34:07" endTime="2019-05-22 00:57:02" catchedByOperator="" programName="西游记(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905220057020" programID="2341905220057020" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-22 00:57:02" endTime="2019-05-22 01:00:07" catchedByOperator="" programName="无敌小鹿20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905220100070" programID="2341905220100070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-22 01:00:07" endTime="2019-05-22 01:22:07" catchedByOperator="" programName="西游记(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2341905220122070" programID="2341905220122070" channelID="234" channelName="BTV-KAKU少儿" startTime="2019-05-22 01:22:07" endTime="2019-05-22 01:44:07" catchedByOperator="" programName="西游记(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

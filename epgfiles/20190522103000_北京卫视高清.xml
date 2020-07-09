@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:00" startTime="2019-05-21 01:33:07" endTime="2019-05-22 01:57:27" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="306" channelName="北京卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3061905210133070" programName="欢乐颂(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐颂(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210216050" programName="欢乐颂(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐颂(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210258370" programName="欢乐颂(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐颂(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210341110" programName="欢乐颂(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐颂(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210425070" programName="养生堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">养生堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210601070" programName="法治进行时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治进行时20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210620070" programName="养生堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">养生堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210655080" programName="早间气象服务20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">早间气象服务20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210700550" programName="北京您早20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">北京您早20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210907070" programName="北京评书大会20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">北京评书大会20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905210925070" programName="音乐大师课20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">音乐大师课20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211017080" programName="我们都要好好的(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们都要好好的(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211108590" programName="我们都要好好的(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们都要好好的(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211200070" programName="特别关注20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">特别关注20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211258080" programName="午间气象服务20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间气象服务20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211308080" programName="都挺好(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211358360" programName="都挺好(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211450470" programName="都挺好(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好(29)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211542510" programName="都挺好(30)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都挺好(30)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211635080" programName="暖暖的味道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">暖暖的味道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211725070" programName="养生堂20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">养生堂20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211830070" programName="北京新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">北京新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211855290" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905211933430" programName="我们都要好好的(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们都要好好的(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905212029220" programName="我们都要好好的(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我们都要好好的(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905212116070" programName="大戏看北京20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大戏看北京20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905212126080" programName="档案20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">档案20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905212230080" programName="首都晚间报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">首都晚间报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905212303070" programName="档案20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">档案20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905220055270" programName="晚间气象服务20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间气象服务20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3061905220057270" programName="档案20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">档案20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3061905210133070" programID="3061905210133070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 01:33:07" endTime="2019-05-21 02:16:05" catchedByOperator="" programName="欢乐颂(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210216050" programID="3061905210216050" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 02:16:05" endTime="2019-05-21 02:58:37" catchedByOperator="" programName="欢乐颂(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210258370" programID="3061905210258370" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 02:58:37" endTime="2019-05-21 03:41:11" catchedByOperator="" programName="欢乐颂(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210341110" programID="3061905210341110" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 03:41:11" endTime="2019-05-21 04:25:07" catchedByOperator="" programName="欢乐颂(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210425070" programID="3061905210425070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 04:25:07" endTime="2019-05-21 06:01:07" catchedByOperator="" programName="养生堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210601070" programID="3061905210601070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 06:01:07" endTime="2019-05-21 06:20:07" catchedByOperator="" programName="法治进行时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210620070" programID="3061905210620070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 06:20:07" endTime="2019-05-21 06:55:08" catchedByOperator="" programName="养生堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210655080" programID="3061905210655080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 06:55:08" endTime="2019-05-21 07:00:55" catchedByOperator="" programName="早间气象服务20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210700550" programID="3061905210700550" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 07:00:55" endTime="2019-05-21 09:07:07" catchedByOperator="" programName="北京您早20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210907070" programID="3061905210907070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 09:07:07" endTime="2019-05-21 09:25:07" catchedByOperator="" programName="北京评书大会20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905210925070" programID="3061905210925070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 09:25:07" endTime="2019-05-21 10:17:08" catchedByOperator="" programName="音乐大师课20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211017080" programID="3061905211017080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 10:17:08" endTime="2019-05-21 11:08:59" catchedByOperator="" programName="我们都要好好的(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211108590" programID="3061905211108590" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 11:08:59" endTime="2019-05-21 12:00:07" catchedByOperator="" programName="我们都要好好的(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211200070" programID="3061905211200070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 12:00:07" endTime="2019-05-21 12:58:08" catchedByOperator="" programName="特别关注20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211258080" programID="3061905211258080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 12:58:08" endTime="2019-05-21 13:08:08" catchedByOperator="" programName="午间气象服务20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211308080" programID="3061905211308080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 13:08:08" endTime="2019-05-21 13:58:36" catchedByOperator="" programName="都挺好(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211358360" programID="3061905211358360" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 13:58:36" endTime="2019-05-21 14:50:47" catchedByOperator="" programName="都挺好(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211450470" programID="3061905211450470" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 14:50:47" endTime="2019-05-21 15:42:51" catchedByOperator="" programName="都挺好(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211542510" programID="3061905211542510" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 15:42:51" endTime="2019-05-21 16:35:08" catchedByOperator="" programName="都挺好(30)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211635080" programID="3061905211635080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 16:35:08" endTime="2019-05-21 17:25:07" catchedByOperator="" programName="暖暖的味道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211725070" programID="3061905211725070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 17:25:07" endTime="2019-05-21 18:30:07" catchedByOperator="" programName="养生堂20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211830070" programID="3061905211830070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 18:30:07" endTime="2019-05-21 18:55:29" catchedByOperator="" programName="北京新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211855290" programID="3061905211855290" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 18:55:29" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211900000" programID="3061905211900000" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:33:43" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905211933430" programID="3061905211933430" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 19:33:43" endTime="2019-05-21 20:29:22" catchedByOperator="" programName="我们都要好好的(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905212029220" programID="3061905212029220" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 20:29:22" endTime="2019-05-21 21:16:07" catchedByOperator="" programName="我们都要好好的(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905212116070" programID="3061905212116070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 21:16:07" endTime="2019-05-21 21:26:08" catchedByOperator="" programName="大戏看北京20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905212126080" programID="3061905212126080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 21:26:08" endTime="2019-05-21 22:30:08" catchedByOperator="" programName="档案20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905212230080" programID="3061905212230080" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 22:30:08" endTime="2019-05-21 23:03:07" catchedByOperator="" programName="首都晚间报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905212303070" programID="3061905212303070" channelID="306" channelName="北京卫视高清" startTime="2019-05-21 23:03:07" endTime="2019-05-22 00:55:27" catchedByOperator="" programName="档案20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905220055270" programID="3061905220055270" channelID="306" channelName="北京卫视高清" startTime="2019-05-22 00:55:27" endTime="2019-05-22 00:57:27" catchedByOperator="" programName="晚间气象服务20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3061905220057270" programID="3061905220057270" channelID="306" channelName="北京卫视高清" startTime="2019-05-22 00:57:27" endTime="2019-05-22 01:57:27" catchedByOperator="" programName="档案20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

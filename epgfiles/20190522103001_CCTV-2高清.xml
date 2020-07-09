@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:27:48" endTime="2019-05-22 01:28:47" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="316" channelName="CCTV-2高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3161905210127480" programName="深度财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">深度财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210226020" programName="生财有道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生财有道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210254480" programName="对话20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">对话20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210347030" programName="回家吃饭20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">回家吃饭20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210411580" programName="消费主张20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">消费主张20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210445580" programName="生财有道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生财有道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210512580" programName="是真的吗20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">是真的吗20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210611480" programName="中华人民共和国国歌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华人民共和国国歌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210615070" programName="经济信息联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经济信息联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210701090" programName="第1时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">第1时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905210901540" programName="交易时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">交易时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211000230" programName="中国财经报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国财经报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211015070" programName="财经人物周刊20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">财经人物周刊20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211100230" programName="中国财经报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国财经报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211115070" programName="是真的吗20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">是真的吗20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211125220" programName="回家吃饭20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">回家吃饭20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211151290" programName="国际财经报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国际财经报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211233170" programName="生财有道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生财有道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211300220" programName="魅力中国城之名片篇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">魅力中国城之名片篇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211315170" programName="精品财经纪录20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精品财经纪录20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211400220" programName="交易时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">交易时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211500230" programName="中国财经报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国财经报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211517070" programName="回家吃饭20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">回家吃饭20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211529230" programName="经济半小时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经济半小时20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211600070" programName="中国财经报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国财经报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211615380" programName="一槌定音20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一槌定音20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211630170" programName="消费主张20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">消费主张20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211700230" programName="中国财经报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国财经报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211717070" programName="精品财经纪录20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精品财经纪录20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211829230" programName="回家吃饭20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">回家吃饭20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211857550" programName="生财有道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生财有道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905211928070" programName="消费主张20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">消费主张20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212000070" programName="经济半小时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经济半小时20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212030230" programName="经济信息联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经济信息联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212117380" programName="央视财经评论20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">央视财经评论20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212145080" programName="福彩开奖20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">福彩开奖20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212150070" programName="亚洲文明之光(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">亚洲文明之光(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212235120" programName="职场健康课20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">职场健康课20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905212320370" programName="精品财经纪录20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精品财经纪录20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905220010070" programName="经济半小时20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经济半小时20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3161905220043420" programName="职场健康课20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">职场健康课20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3161905210127480" programID="3161905210127480" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 01:27:48" endTime="2019-05-21 02:26:02" catchedByOperator="" programName="深度财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210226020" programID="3161905210226020" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 02:26:02" endTime="2019-05-21 02:54:48" catchedByOperator="" programName="生财有道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210254480" programID="3161905210254480" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 02:54:48" endTime="2019-05-21 03:47:03" catchedByOperator="" programName="对话20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210347030" programID="3161905210347030" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 03:47:03" endTime="2019-05-21 04:11:58" catchedByOperator="" programName="回家吃饭20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210411580" programID="3161905210411580" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 04:11:58" endTime="2019-05-21 04:45:58" catchedByOperator="" programName="消费主张20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210445580" programID="3161905210445580" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 04:45:58" endTime="2019-05-21 05:12:58" catchedByOperator="" programName="生财有道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210512580" programID="3161905210512580" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 05:12:58" endTime="2019-05-21 06:11:48" catchedByOperator="" programName="是真的吗20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210611480" programID="3161905210611480" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 06:11:48" endTime="2019-05-21 06:15:07" catchedByOperator="" programName="中华人民共和国国歌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210615070" programID="3161905210615070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 06:15:07" endTime="2019-05-21 07:01:09" catchedByOperator="" programName="经济信息联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210701090" programID="3161905210701090" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 07:01:09" endTime="2019-05-21 09:01:54" catchedByOperator="" programName="第1时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905210901540" programID="3161905210901540" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 09:01:54" endTime="2019-05-21 10:00:23" catchedByOperator="" programName="交易时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211000230" programID="3161905211000230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 10:00:23" endTime="2019-05-21 10:15:07" catchedByOperator="" programName="中国财经报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211015070" programID="3161905211015070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 10:15:07" endTime="2019-05-21 11:00:23" catchedByOperator="" programName="财经人物周刊20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211100230" programID="3161905211100230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 11:00:23" endTime="2019-05-21 11:15:07" catchedByOperator="" programName="中国财经报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211115070" programID="3161905211115070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 11:15:07" endTime="2019-05-21 11:25:22" catchedByOperator="" programName="是真的吗20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211125220" programID="3161905211125220" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 11:25:22" endTime="2019-05-21 11:51:29" catchedByOperator="" programName="回家吃饭20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211151290" programID="3161905211151290" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 11:51:29" endTime="2019-05-21 12:33:17" catchedByOperator="" programName="国际财经报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211233170" programID="3161905211233170" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 12:33:17" endTime="2019-05-21 13:00:22" catchedByOperator="" programName="生财有道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211300220" programID="3161905211300220" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 13:00:22" endTime="2019-05-21 13:15:17" catchedByOperator="" programName="魅力中国城之名片篇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211315170" programID="3161905211315170" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 13:15:17" endTime="2019-05-21 14:00:22" catchedByOperator="" programName="精品财经纪录20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211400220" programID="3161905211400220" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 14:00:22" endTime="2019-05-21 15:00:23" catchedByOperator="" programName="交易时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211500230" programID="3161905211500230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 15:00:23" endTime="2019-05-21 15:17:07" catchedByOperator="" programName="中国财经报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211517070" programID="3161905211517070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 15:17:07" endTime="2019-05-21 15:29:23" catchedByOperator="" programName="回家吃饭20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211529230" programID="3161905211529230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 15:29:23" endTime="2019-05-21 16:00:07" catchedByOperator="" programName="经济半小时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211600070" programID="3161905211600070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 16:00:07" endTime="2019-05-21 16:15:38" catchedByOperator="" programName="中国财经报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211615380" programID="3161905211615380" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 16:15:38" endTime="2019-05-21 16:30:17" catchedByOperator="" programName="一槌定音20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211630170" programID="3161905211630170" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 16:30:17" endTime="2019-05-21 17:00:23" catchedByOperator="" programName="消费主张20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211700230" programID="3161905211700230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 17:00:23" endTime="2019-05-21 17:17:07" catchedByOperator="" programName="中国财经报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211717070" programID="3161905211717070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 17:17:07" endTime="2019-05-21 18:29:23" catchedByOperator="" programName="精品财经纪录20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211829230" programID="3161905211829230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 18:29:23" endTime="2019-05-21 18:57:55" catchedByOperator="" programName="回家吃饭20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211857550" programID="3161905211857550" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 18:57:55" endTime="2019-05-21 19:28:07" catchedByOperator="" programName="生财有道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905211928070" programID="3161905211928070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 19:28:07" endTime="2019-05-21 20:00:07" catchedByOperator="" programName="消费主张20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212000070" programID="3161905212000070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 20:00:07" endTime="2019-05-21 20:30:23" catchedByOperator="" programName="经济半小时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212030230" programID="3161905212030230" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 20:30:23" endTime="2019-05-21 21:17:38" catchedByOperator="" programName="经济信息联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212117380" programID="3161905212117380" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 21:17:38" endTime="2019-05-21 21:45:08" catchedByOperator="" programName="央视财经评论20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212145080" programID="3161905212145080" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 21:45:08" endTime="2019-05-21 21:50:07" catchedByOperator="" programName="福彩开奖20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212150070" programID="3161905212150070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 21:50:07" endTime="2019-05-21 22:35:12" catchedByOperator="" programName="亚洲文明之光(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212235120" programID="3161905212235120" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 22:35:12" endTime="2019-05-21 23:20:37" catchedByOperator="" programName="职场健康课20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905212320370" programID="3161905212320370" channelID="316" channelName="CCTV-2高清" startTime="2019-05-21 23:20:37" endTime="2019-05-22 00:10:07" catchedByOperator="" programName="精品财经纪录20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905220010070" programID="3161905220010070" channelID="316" channelName="CCTV-2高清" startTime="2019-05-22 00:10:07" endTime="2019-05-22 00:43:42" catchedByOperator="" programName="经济半小时20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3161905220043420" programID="3161905220043420" channelID="316" channelName="CCTV-2高清" startTime="2019-05-22 00:43:42" endTime="2019-05-22 01:28:47" catchedByOperator="" programName="职场健康课20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>
