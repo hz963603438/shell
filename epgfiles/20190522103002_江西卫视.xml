@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:45:38" endTime="2019-05-22 01:58:49" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="223" channelName="江西卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2231905210145380" programName="记住乡愁第二季(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210215370" programName="记住乡愁第二季(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210245360" programName="记住乡愁第二季(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210317110" programName="飞哥大英雄之飞哥战队(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210358540" programName="飞哥大英雄之飞哥战队(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210440370" programName="飞哥大英雄之飞哥战队(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210522200" programName="飞哥大英雄之飞哥战队(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210604030" programName="飞哥大英雄之飞哥战队(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210640010" programName="江西新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江西新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210700000" programName="中华人民共和国国歌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华人民共和国国歌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210704150" programName="晨光新视界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晨光新视界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210734150" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210738150" programName="动画片:可爱的中国(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:可爱的中国(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210752020" programName="动画片:可爱的中国(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:可爱的中国(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210804020" programName="动画片:可爱的中国(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:可爱的中国(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210821110" programName="西游记(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(9)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210857310" programName="西游记(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(10)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905210940570" programName="西游记(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(11)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211026230" programName="西游记(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(12)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211110470" programName="西游记(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西游记(13)</MetaData>
+                <MetaData mdUID="3">神秘/悬疑</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211156150" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211200010" programName="跨越时空的回信20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跨越时空的回信20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211243330" programName="杂志天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杂志天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211315430" programName="金牌调解20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">金牌调解20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211353590" programName="剧好看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧好看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211357130" programName="光影(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211441180" programName="光影(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211526110" programName="光影(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211610120" programName="光影(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211651190" programName="光影(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211735270" programName="光影(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211818010" programName="社会传真20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">社会传真20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211830010" programName="江西新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江西新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211851060" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905211934590" programName="台湾往事(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">台湾往事(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905212034050" programName="台湾往事(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">台湾往事(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905212120010" programName="跨越时空的回信20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跨越时空的回信20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905212206120" programName="金牌调解20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">金牌调解20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905212250420" programName="新闻夜航20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻夜航20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905212302320" programName="跨越时空的回信20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跨越时空的回信20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905212344110" programName="天龙八部(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(17)</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905220026330" programName="天龙八部(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2231905220108590" programName="天龙八部(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天龙八部(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2231905210145380" programID="2231905210145380" channelID="223" channelName="江西卫视" startTime="2019-05-21 01:45:38" endTime="2019-05-21 02:15:37" catchedByOperator="" programName="记住乡愁第二季(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210215370" programID="2231905210215370" channelID="223" channelName="江西卫视" startTime="2019-05-21 02:15:37" endTime="2019-05-21 02:45:36" catchedByOperator="" programName="记住乡愁第二季(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210245360" programID="2231905210245360" channelID="223" channelName="江西卫视" startTime="2019-05-21 02:45:36" endTime="2019-05-21 03:17:11" catchedByOperator="" programName="记住乡愁第二季(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210317110" programID="2231905210317110" channelID="223" channelName="江西卫视" startTime="2019-05-21 03:17:11" endTime="2019-05-21 03:58:54" catchedByOperator="" programName="飞哥大英雄之飞哥战队(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210358540" programID="2231905210358540" channelID="223" channelName="江西卫视" startTime="2019-05-21 03:58:54" endTime="2019-05-21 04:40:37" catchedByOperator="" programName="飞哥大英雄之飞哥战队(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210440370" programID="2231905210440370" channelID="223" channelName="江西卫视" startTime="2019-05-21 04:40:37" endTime="2019-05-21 05:22:20" catchedByOperator="" programName="飞哥大英雄之飞哥战队(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210522200" programID="2231905210522200" channelID="223" channelName="江西卫视" startTime="2019-05-21 05:22:20" endTime="2019-05-21 06:04:03" catchedByOperator="" programName="飞哥大英雄之飞哥战队(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210604030" programID="2231905210604030" channelID="223" channelName="江西卫视" startTime="2019-05-21 06:04:03" endTime="2019-05-21 06:40:01" catchedByOperator="" programName="飞哥大英雄之飞哥战队(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210640010" programID="2231905210640010" channelID="223" channelName="江西卫视" startTime="2019-05-21 06:40:01" endTime="2019-05-21 07:00:00" catchedByOperator="" programName="江西新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210700000" programID="2231905210700000" channelID="223" channelName="江西卫视" startTime="2019-05-21 07:00:00" endTime="2019-05-21 07:04:15" catchedByOperator="" programName="中华人民共和国国歌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210704150" programID="2231905210704150" channelID="223" channelName="江西卫视" startTime="2019-05-21 07:04:15" endTime="2019-05-21 07:34:15" catchedByOperator="" programName="晨光新视界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210734150" programID="2231905210734150" channelID="223" channelName="江西卫视" startTime="2019-05-21 07:34:15" endTime="2019-05-21 07:38:15" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210738150" programID="2231905210738150" channelID="223" channelName="江西卫视" startTime="2019-05-21 07:38:15" endTime="2019-05-21 07:52:02" catchedByOperator="" programName="动画片:可爱的中国(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210752020" programID="2231905210752020" channelID="223" channelName="江西卫视" startTime="2019-05-21 07:52:02" endTime="2019-05-21 08:04:02" catchedByOperator="" programName="动画片:可爱的中国(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210804020" programID="2231905210804020" channelID="223" channelName="江西卫视" startTime="2019-05-21 08:04:02" endTime="2019-05-21 08:21:11" catchedByOperator="" programName="动画片:可爱的中国(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210821110" programID="2231905210821110" channelID="223" channelName="江西卫视" startTime="2019-05-21 08:21:11" endTime="2019-05-21 08:57:31" catchedByOperator="" programName="西游记(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210857310" programID="2231905210857310" channelID="223" channelName="江西卫视" startTime="2019-05-21 08:57:31" endTime="2019-05-21 09:40:57" catchedByOperator="" programName="西游记(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905210940570" programID="2231905210940570" channelID="223" channelName="江西卫视" startTime="2019-05-21 09:40:57" endTime="2019-05-21 10:26:23" catchedByOperator="" programName="西游记(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211026230" programID="2231905211026230" channelID="223" channelName="江西卫视" startTime="2019-05-21 10:26:23" endTime="2019-05-21 11:10:47" catchedByOperator="" programName="西游记(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211110470" programID="2231905211110470" channelID="223" channelName="江西卫视" startTime="2019-05-21 11:10:47" endTime="2019-05-21 11:56:15" catchedByOperator="" programName="西游记(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211156150" programID="2231905211156150" channelID="223" channelName="江西卫视" startTime="2019-05-21 11:56:15" endTime="2019-05-21 12:00:01" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211200010" programID="2231905211200010" channelID="223" channelName="江西卫视" startTime="2019-05-21 12:00:01" endTime="2019-05-21 12:43:33" catchedByOperator="" programName="跨越时空的回信20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211243330" programID="2231905211243330" channelID="223" channelName="江西卫视" startTime="2019-05-21 12:43:33" endTime="2019-05-21 13:15:43" catchedByOperator="" programName="杂志天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211315430" programID="2231905211315430" channelID="223" channelName="江西卫视" startTime="2019-05-21 13:15:43" endTime="2019-05-21 13:53:59" catchedByOperator="" programName="金牌调解20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211353590" programID="2231905211353590" channelID="223" channelName="江西卫视" startTime="2019-05-21 13:53:59" endTime="2019-05-21 13:57:13" catchedByOperator="" programName="剧好看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211357130" programID="2231905211357130" channelID="223" channelName="江西卫视" startTime="2019-05-21 13:57:13" endTime="2019-05-21 14:41:18" catchedByOperator="" programName="光影(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211441180" programID="2231905211441180" channelID="223" channelName="江西卫视" startTime="2019-05-21 14:41:18" endTime="2019-05-21 15:26:11" catchedByOperator="" programName="光影(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211526110" programID="2231905211526110" channelID="223" channelName="江西卫视" startTime="2019-05-21 15:26:11" endTime="2019-05-21 16:10:12" catchedByOperator="" programName="光影(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211610120" programID="2231905211610120" channelID="223" channelName="江西卫视" startTime="2019-05-21 16:10:12" endTime="2019-05-21 16:51:19" catchedByOperator="" programName="光影(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211651190" programID="2231905211651190" channelID="223" channelName="江西卫视" startTime="2019-05-21 16:51:19" endTime="2019-05-21 17:35:27" catchedByOperator="" programName="光影(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211735270" programID="2231905211735270" channelID="223" channelName="江西卫视" startTime="2019-05-21 17:35:27" endTime="2019-05-21 18:18:01" catchedByOperator="" programName="光影(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211818010" programID="2231905211818010" channelID="223" channelName="江西卫视" startTime="2019-05-21 18:18:01" endTime="2019-05-21 18:30:01" catchedByOperator="" programName="社会传真20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211830010" programID="2231905211830010" channelID="223" channelName="江西卫视" startTime="2019-05-21 18:30:01" endTime="2019-05-21 18:51:06" catchedByOperator="" programName="江西新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211851060" programID="2231905211851060" channelID="223" channelName="江西卫视" startTime="2019-05-21 18:51:06" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211900000" programID="2231905211900000" channelID="223" channelName="江西卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:34:59" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905211934590" programID="2231905211934590" channelID="223" channelName="江西卫视" startTime="2019-05-21 19:34:59" endTime="2019-05-21 20:34:05" catchedByOperator="" programName="台湾往事(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905212034050" programID="2231905212034050" channelID="223" channelName="江西卫视" startTime="2019-05-21 20:34:05" endTime="2019-05-21 21:20:01" catchedByOperator="" programName="台湾往事(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905212120010" programID="2231905212120010" channelID="223" channelName="江西卫视" startTime="2019-05-21 21:20:01" endTime="2019-05-21 22:06:12" catchedByOperator="" programName="跨越时空的回信20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905212206120" programID="2231905212206120" channelID="223" channelName="江西卫视" startTime="2019-05-21 22:06:12" endTime="2019-05-21 22:50:42" catchedByOperator="" programName="金牌调解20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905212250420" programID="2231905212250420" channelID="223" channelName="江西卫视" startTime="2019-05-21 22:50:42" endTime="2019-05-21 23:02:32" catchedByOperator="" programName="新闻夜航20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905212302320" programID="2231905212302320" channelID="223" channelName="江西卫视" startTime="2019-05-21 23:02:32" endTime="2019-05-21 23:44:11" catchedByOperator="" programName="跨越时空的回信20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905212344110" programID="2231905212344110" channelID="223" channelName="江西卫视" startTime="2019-05-21 23:44:11" endTime="2019-05-22 00:26:33" catchedByOperator="" programName="天龙八部(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905220026330" programID="2231905220026330" channelID="223" channelName="江西卫视" startTime="2019-05-22 00:26:33" endTime="2019-05-22 01:08:59" catchedByOperator="" programName="天龙八部(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2231905220108590" programID="2231905220108590" channelID="223" channelName="江西卫视" startTime="2019-05-22 01:08:59" endTime="2019-05-22 01:58:49" catchedByOperator="" programName="天龙八部(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

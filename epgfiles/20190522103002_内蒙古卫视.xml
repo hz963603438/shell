@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:28:43" endTime="2019-05-22 01:26:37" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="224" channelName="内蒙古卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2241905210128430" programName="勇敢的心(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(49)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210211160" programName="马兰花开20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">马兰花开20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210500210" programName="欢乐驿站20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐驿站20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210530360" programName="重案六组(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重案六组(25)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210626400" programName="重案六组(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重案六组(26)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210730050" programName="内蒙古新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">内蒙古新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210755100" programName="草原音画20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">草原音画20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210800100" programName="动画剧场:洛宝贝20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画剧场:洛宝贝20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210830400" programName="济公外传(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">济公外传(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905210925330" programName="济公外传(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">济公外传(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211021040" programName="济公游记:戏惩刁奴20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">济公游记:戏惩刁奴20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211118450" programName="济公游记:罗汉应世20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">济公游记:罗汉应世20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211205010" programName="济公游记:移石情缘20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">济公游记:移石情缘20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211300050" programName="午间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211329500" programName="父母爱情(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(7)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211426130" programName="父母爱情(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(8)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211522530" programName="父母爱情(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(9)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211616020" programName="父母爱情(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(10)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211702370" programName="父母爱情(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(11)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211757310" programName="欢乐驿站20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐驿站20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211830050" programName="内蒙古新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">内蒙古新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905211937380" programName="正阳门下(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">正阳门下(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905212030570" programName="正阳门下(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">正阳门下(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905212120100" programName="晚间报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905212140040" programName="新闻再观察20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻再观察20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905212159550" programName="金牌律师团20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">金牌律师团20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905212301000" programName="勇敢的心(50)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(50)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905212342580" programName="勇敢的心(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(51)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2241905220034470" programName="勇敢的心(52)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(52)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2241905210128430" programID="2241905210128430" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 01:28:43" endTime="2019-05-21 02:11:16" catchedByOperator="" programName="勇敢的心(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210211160" programID="2241905210211160" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 02:11:16" endTime="2019-05-21 05:00:21" catchedByOperator="" programName="马兰花开20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210500210" programID="2241905210500210" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 05:00:21" endTime="2019-05-21 05:30:36" catchedByOperator="" programName="欢乐驿站20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210530360" programID="2241905210530360" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 05:30:36" endTime="2019-05-21 06:26:40" catchedByOperator="" programName="重案六组(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210626400" programID="2241905210626400" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 06:26:40" endTime="2019-05-21 07:30:05" catchedByOperator="" programName="重案六组(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210730050" programID="2241905210730050" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 07:30:05" endTime="2019-05-21 07:55:10" catchedByOperator="" programName="内蒙古新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210755100" programID="2241905210755100" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 07:55:10" endTime="2019-05-21 08:00:10" catchedByOperator="" programName="草原音画20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210800100" programID="2241905210800100" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 08:00:10" endTime="2019-05-21 08:30:40" catchedByOperator="" programName="动画剧场:洛宝贝20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210830400" programID="2241905210830400" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 08:30:40" endTime="2019-05-21 09:25:33" catchedByOperator="" programName="济公外传(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905210925330" programID="2241905210925330" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 09:25:33" endTime="2019-05-21 10:21:04" catchedByOperator="" programName="济公外传(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211021040" programID="2241905211021040" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 10:21:04" endTime="2019-05-21 11:18:45" catchedByOperator="" programName="济公游记:戏惩刁奴20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211118450" programID="2241905211118450" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 11:18:45" endTime="2019-05-21 12:05:01" catchedByOperator="" programName="济公游记:罗汉应世20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211205010" programID="2241905211205010" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 12:05:01" endTime="2019-05-21 13:00:05" catchedByOperator="" programName="济公游记:移石情缘20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211300050" programID="2241905211300050" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 13:00:05" endTime="2019-05-21 13:29:50" catchedByOperator="" programName="午间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211329500" programID="2241905211329500" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 13:29:50" endTime="2019-05-21 14:26:13" catchedByOperator="" programName="父母爱情(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211426130" programID="2241905211426130" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 14:26:13" endTime="2019-05-21 15:22:53" catchedByOperator="" programName="父母爱情(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211522530" programID="2241905211522530" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 15:22:53" endTime="2019-05-21 16:16:02" catchedByOperator="" programName="父母爱情(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211616020" programID="2241905211616020" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 16:16:02" endTime="2019-05-21 17:02:37" catchedByOperator="" programName="父母爱情(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211702370" programID="2241905211702370" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 17:02:37" endTime="2019-05-21 17:57:31" catchedByOperator="" programName="父母爱情(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211757310" programID="2241905211757310" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 17:57:31" endTime="2019-05-21 18:30:05" catchedByOperator="" programName="欢乐驿站20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211830050" programID="2241905211830050" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 18:30:05" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="内蒙古新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211900000" programID="2241905211900000" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:37:38" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905211937380" programID="2241905211937380" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 19:37:38" endTime="2019-05-21 20:30:57" catchedByOperator="" programName="正阳门下(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905212030570" programID="2241905212030570" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 20:30:57" endTime="2019-05-21 21:20:10" catchedByOperator="" programName="正阳门下(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905212120100" programID="2241905212120100" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 21:20:10" endTime="2019-05-21 21:40:04" catchedByOperator="" programName="晚间报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905212140040" programID="2241905212140040" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 21:40:04" endTime="2019-05-21 21:59:55" catchedByOperator="" programName="新闻再观察20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905212159550" programID="2241905212159550" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 21:59:55" endTime="2019-05-21 23:01:00" catchedByOperator="" programName="金牌律师团20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905212301000" programID="2241905212301000" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 23:01:00" endTime="2019-05-21 23:42:58" catchedByOperator="" programName="勇敢的心(50)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905212342580" programID="2241905212342580" channelID="224" channelName="内蒙古卫视" startTime="2019-05-21 23:42:58" endTime="2019-05-22 00:34:47" catchedByOperator="" programName="勇敢的心(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2241905220034470" programID="2241905220034470" channelID="224" channelName="内蒙古卫视" startTime="2019-05-22 00:34:47" endTime="2019-05-22 01:26:37" catchedByOperator="" programName="勇敢的心(52)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

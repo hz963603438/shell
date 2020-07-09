@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 02:00:00" endTime="2019-05-22 02:00:00" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="16" channelName="CCTV-NEWS" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="0161905210200000" programName="全球财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全球财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210300000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210330000" programName="对话杨锐20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">对话杨锐20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210400000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210415000" programName="薇观世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薇观世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210500000" programName="全球财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全球财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210530000" programName="欣视点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欣视点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210600000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210615000" programName="全景20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全景20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210700000" programName="热点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">热点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210730000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210800000" programName="全球财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全球财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210900000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905210930000" programName="中国24小时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国24小时20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211000000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211030000" programName="欣视点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欣视点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211100000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211115000" programName="体育报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体育报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211130000" programName="对话杨锐20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">对话杨锐20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211200000" programName="环球瞭望20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">环球瞭望20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211300000" programName="全球财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全球财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211400000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211430000" programName="热点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">热点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211500000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211530000" programName="体育报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体育报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211600000" programName="全球财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全球财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211700000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211730000" programName="文化报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211800000" programName="非洲直播室20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">非洲直播室20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211900000" programName="今日亚洲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日亚洲20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905211930000" programName="对话杨锐20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">对话杨锐20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212000000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212015000" programName="中国24小时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国24小时20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212100000" programName="全球财经20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全球财经20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212130000" programName="欣视点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欣视点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212200000" programName="今日世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212215000" programName="薇观世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薇观世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212300000" programName="链接天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">链接天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905212330000" programName="文化报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905220000000" programName="今日世界20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日世界20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905220015000" programName="中国24小时20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国24小时20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0161905220100000" programName="非洲直播室20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">非洲直播室20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="0161905210200000" programID="0161905210200000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 02:00:00" endTime="2019-05-21 03:00:00" catchedByOperator="" programName="全球财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210300000" programID="0161905210300000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 03:00:00" endTime="2019-05-21 03:30:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210330000" programID="0161905210330000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 03:30:00" endTime="2019-05-21 04:00:00" catchedByOperator="" programName="对话杨锐20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210400000" programID="0161905210400000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 04:00:00" endTime="2019-05-21 04:15:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210415000" programID="0161905210415000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 04:15:00" endTime="2019-05-21 05:00:00" catchedByOperator="" programName="薇观世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210500000" programID="0161905210500000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 05:00:00" endTime="2019-05-21 05:30:00" catchedByOperator="" programName="全球财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210530000" programID="0161905210530000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 05:30:00" endTime="2019-05-21 06:00:00" catchedByOperator="" programName="欣视点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210600000" programID="0161905210600000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 06:00:00" endTime="2019-05-21 06:15:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210615000" programID="0161905210615000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 06:15:00" endTime="2019-05-21 07:00:00" catchedByOperator="" programName="全景20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210700000" programID="0161905210700000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 07:00:00" endTime="2019-05-21 07:30:00" catchedByOperator="" programName="热点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210730000" programID="0161905210730000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 07:30:00" endTime="2019-05-21 08:00:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210800000" programID="0161905210800000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 08:00:00" endTime="2019-05-21 09:00:00" catchedByOperator="" programName="全球财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210900000" programID="0161905210900000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 09:00:00" endTime="2019-05-21 09:30:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905210930000" programID="0161905210930000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 09:30:00" endTime="2019-05-21 10:00:00" catchedByOperator="" programName="中国24小时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211000000" programID="0161905211000000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 10:00:00" endTime="2019-05-21 10:30:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211030000" programID="0161905211030000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 10:30:00" endTime="2019-05-21 11:00:00" catchedByOperator="" programName="欣视点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211100000" programID="0161905211100000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 11:00:00" endTime="2019-05-21 11:15:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211115000" programID="0161905211115000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 11:15:00" endTime="2019-05-21 11:30:00" catchedByOperator="" programName="体育报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211130000" programID="0161905211130000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 11:30:00" endTime="2019-05-21 12:00:00" catchedByOperator="" programName="对话杨锐20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211200000" programID="0161905211200000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 12:00:00" endTime="2019-05-21 13:00:00" catchedByOperator="" programName="环球瞭望20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211300000" programID="0161905211300000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 13:00:00" endTime="2019-05-21 14:00:00" catchedByOperator="" programName="全球财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211400000" programID="0161905211400000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 14:00:00" endTime="2019-05-21 14:30:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211430000" programID="0161905211430000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 14:30:00" endTime="2019-05-21 15:00:00" catchedByOperator="" programName="热点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211500000" programID="0161905211500000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 15:00:00" endTime="2019-05-21 15:30:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211530000" programID="0161905211530000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 15:30:00" endTime="2019-05-21 16:00:00" catchedByOperator="" programName="体育报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211600000" programID="0161905211600000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 16:00:00" endTime="2019-05-21 17:00:00" catchedByOperator="" programName="全球财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211700000" programID="0161905211700000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 17:00:00" endTime="2019-05-21 17:30:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211730000" programID="0161905211730000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 17:30:00" endTime="2019-05-21 18:00:00" catchedByOperator="" programName="文化报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211800000" programID="0161905211800000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 18:00:00" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="非洲直播室20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211900000" programID="0161905211900000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:30:00" catchedByOperator="" programName="今日亚洲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905211930000" programID="0161905211930000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 19:30:00" endTime="2019-05-21 20:00:00" catchedByOperator="" programName="对话杨锐20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212000000" programID="0161905212000000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 20:00:00" endTime="2019-05-21 20:15:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212015000" programID="0161905212015000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 20:15:00" endTime="2019-05-21 21:00:00" catchedByOperator="" programName="中国24小时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212100000" programID="0161905212100000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 21:00:00" endTime="2019-05-21 21:30:00" catchedByOperator="" programName="全球财经20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212130000" programID="0161905212130000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 21:30:00" endTime="2019-05-21 22:00:00" catchedByOperator="" programName="欣视点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212200000" programID="0161905212200000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 22:00:00" endTime="2019-05-21 22:15:00" catchedByOperator="" programName="今日世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212215000" programID="0161905212215000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 22:15:00" endTime="2019-05-21 23:00:00" catchedByOperator="" programName="薇观世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212300000" programID="0161905212300000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 23:00:00" endTime="2019-05-21 23:30:00" catchedByOperator="" programName="链接天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905212330000" programID="0161905212330000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-21 23:30:00" endTime="2019-05-22 00:00:00" catchedByOperator="" programName="文化报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905220000000" programID="0161905220000000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-22 00:00:00" endTime="2019-05-22 00:15:00" catchedByOperator="" programName="今日世界20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905220015000" programID="0161905220015000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-22 00:15:00" endTime="2019-05-22 01:00:00" catchedByOperator="" programName="中国24小时20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0161905220100000" programID="0161905220100000" channelID="16" channelName="CCTV-NEWS" startTime="2019-05-22 01:00:00" endTime="2019-05-22 02:00:00" catchedByOperator="" programName="非洲直播室20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

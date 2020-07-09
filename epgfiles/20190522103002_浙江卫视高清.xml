@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:03:46" endTime="2019-05-22 00:53:00" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="305" channelName="浙江卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3051905210103460" programName="熟悉的味道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">熟悉的味道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210208250" programName="今日聚焦20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日聚焦20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210213250" programName="新闻深一度20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻深一度20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210239260" programName="西湖(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西湖(4)</MetaData>
+                <MetaData mdUID="3">纪录</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210321420" programName="南宋(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">南宋(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210408170" programName="中国梦纪录片展播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国梦纪录片展播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210453260" programName="记住乡愁第二季(48)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(48)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210523260" programName="记住乡愁第二季(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(49)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210554270" programName="一本书一座城20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一本书一座城20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210627130" programName="今日聚焦20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日聚焦20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210632130" programName="新闻深一度20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻深一度20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210700520" programName="浙江新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">浙江新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210725560" programName="王牌对王牌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">王牌对王牌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210800170" programName="新大头儿子和小头爸爸20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210823170" programName="温柔的诱惑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">温柔的诱惑20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210900120" programName="温柔的诱惑(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">温柔的诱惑(26)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905210947510" programName="温柔的诱惑(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">温柔的诱惑(27)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211035370" programName="温柔的诱惑(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">温柔的诱惑(28)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211116070" programName="温柔的诱惑(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">温柔的诱惑(29)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211200030" programName="正午播报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">正午播报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211230320" programName="我的真朋友(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211321080" programName="我的真朋友(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211406170" programName="我的真朋友(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211448270" programName="我的真朋友(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211538280" programName="我的真朋友(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211625340" programName="王牌对王牌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">王牌对王牌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211732540" programName="王牌对王牌温情时刻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">王牌对王牌温情时刻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211800030" programName="新闻深一度20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻深一度20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211830030" programName="浙江新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">浙江新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211853020" programName="今日聚焦20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日聚焦20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905211931230" programName="我的真朋友(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905212021010" programName="我的真朋友(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905212130020" programName="今日评说20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日评说20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905212141320" programName="好看中国蓝20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好看中国蓝20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905212155180" programName="重耳传奇下部(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重耳传奇下部(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905212252300" programName="重耳传奇下部(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重耳传奇下部(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905212323140" programName="重耳传奇下部(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重耳传奇下部(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3051905220021270" programName="重耳传奇下部(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重耳传奇下部(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3051905210103460" programID="3051905210103460" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 01:03:46" endTime="2019-05-21 02:08:25" catchedByOperator="" programName="熟悉的味道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210208250" programID="3051905210208250" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 02:08:25" endTime="2019-05-21 02:13:25" catchedByOperator="" programName="今日聚焦20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210213250" programID="3051905210213250" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 02:13:25" endTime="2019-05-21 02:39:26" catchedByOperator="" programName="新闻深一度20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210239260" programID="3051905210239260" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 02:39:26" endTime="2019-05-21 03:21:42" catchedByOperator="" programName="西湖(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210321420" programID="3051905210321420" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 03:21:42" endTime="2019-05-21 04:08:17" catchedByOperator="" programName="南宋(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210408170" programID="3051905210408170" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 04:08:17" endTime="2019-05-21 04:53:26" catchedByOperator="" programName="中国梦纪录片展播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210453260" programID="3051905210453260" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 04:53:26" endTime="2019-05-21 05:23:26" catchedByOperator="" programName="记住乡愁第二季(48)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210523260" programID="3051905210523260" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 05:23:26" endTime="2019-05-21 05:54:27" catchedByOperator="" programName="记住乡愁第二季(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210554270" programID="3051905210554270" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 05:54:27" endTime="2019-05-21 06:27:13" catchedByOperator="" programName="一本书一座城20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210627130" programID="3051905210627130" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 06:27:13" endTime="2019-05-21 06:32:13" catchedByOperator="" programName="今日聚焦20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210632130" programID="3051905210632130" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 06:32:13" endTime="2019-05-21 07:00:52" catchedByOperator="" programName="新闻深一度20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210700520" programID="3051905210700520" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 07:00:52" endTime="2019-05-21 07:25:56" catchedByOperator="" programName="浙江新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210725560" programID="3051905210725560" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 07:25:56" endTime="2019-05-21 08:00:17" catchedByOperator="" programName="王牌对王牌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210800170" programID="3051905210800170" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 08:00:17" endTime="2019-05-21 08:23:17" catchedByOperator="" programName="新大头儿子和小头爸爸20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210823170" programID="3051905210823170" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 08:23:17" endTime="2019-05-21 09:00:12" catchedByOperator="" programName="温柔的诱惑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210900120" programID="3051905210900120" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 09:00:12" endTime="2019-05-21 09:47:51" catchedByOperator="" programName="温柔的诱惑(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905210947510" programID="3051905210947510" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 09:47:51" endTime="2019-05-21 10:35:37" catchedByOperator="" programName="温柔的诱惑(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211035370" programID="3051905211035370" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 10:35:37" endTime="2019-05-21 11:16:07" catchedByOperator="" programName="温柔的诱惑(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211116070" programID="3051905211116070" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 11:16:07" endTime="2019-05-21 12:00:03" catchedByOperator="" programName="温柔的诱惑(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211200030" programID="3051905211200030" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 12:00:03" endTime="2019-05-21 12:30:32" catchedByOperator="" programName="正午播报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211230320" programID="3051905211230320" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 12:30:32" endTime="2019-05-21 13:21:08" catchedByOperator="" programName="我的真朋友(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211321080" programID="3051905211321080" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 13:21:08" endTime="2019-05-21 14:06:17" catchedByOperator="" programName="我的真朋友(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211406170" programID="3051905211406170" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 14:06:17" endTime="2019-05-21 14:48:27" catchedByOperator="" programName="我的真朋友(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211448270" programID="3051905211448270" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 14:48:27" endTime="2019-05-21 15:38:28" catchedByOperator="" programName="我的真朋友(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211538280" programID="3051905211538280" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 15:38:28" endTime="2019-05-21 16:25:34" catchedByOperator="" programName="我的真朋友(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211625340" programID="3051905211625340" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 16:25:34" endTime="2019-05-21 17:32:54" catchedByOperator="" programName="王牌对王牌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211732540" programID="3051905211732540" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 17:32:54" endTime="2019-05-21 18:00:03" catchedByOperator="" programName="王牌对王牌温情时刻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211800030" programID="3051905211800030" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 18:00:03" endTime="2019-05-21 18:30:03" catchedByOperator="" programName="新闻深一度20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211830030" programID="3051905211830030" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 18:30:03" endTime="2019-05-21 18:53:02" catchedByOperator="" programName="浙江新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211853020" programID="3051905211853020" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 18:53:02" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="今日聚焦20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211900000" programID="3051905211900000" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:31:23" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905211931230" programID="3051905211931230" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 19:31:23" endTime="2019-05-21 20:21:01" catchedByOperator="" programName="我的真朋友(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905212021010" programID="3051905212021010" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 20:21:01" endTime="2019-05-21 21:30:02" catchedByOperator="" programName="我的真朋友(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905212130020" programID="3051905212130020" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 21:30:02" endTime="2019-05-21 21:41:32" catchedByOperator="" programName="今日评说20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905212141320" programID="3051905212141320" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 21:41:32" endTime="2019-05-21 21:55:18" catchedByOperator="" programName="好看中国蓝20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905212155180" programID="3051905212155180" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 21:55:18" endTime="2019-05-21 22:52:30" catchedByOperator="" programName="重耳传奇下部(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905212252300" programID="3051905212252300" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 22:52:30" endTime="2019-05-21 23:23:14" catchedByOperator="" programName="重耳传奇下部(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905212323140" programID="3051905212323140" channelID="305" channelName="浙江卫视高清" startTime="2019-05-21 23:23:14" endTime="2019-05-22 00:21:27" catchedByOperator="" programName="重耳传奇下部(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3051905220021270" programID="3051905220021270" channelID="305" channelName="浙江卫视高清" startTime="2019-05-22 00:21:27" endTime="2019-05-22 00:53:00" catchedByOperator="" programName="重耳传奇下部(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

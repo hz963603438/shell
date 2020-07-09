@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:27:07" endTime="2019-05-22 01:34:05" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="310" channelName="深圳卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3101905210127070" programName="直播港澳台20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">直播港澳台20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210214430" programName="我的抗战(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战(16)</MetaData>
+                <MetaData mdUID="3">纪录</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210257360" programName="我的抗战(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战(17)</MetaData>
+                <MetaData mdUID="3">纪录</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210338070" programName="我的抗战(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战(18)</MetaData>
+                <MetaData mdUID="3">纪录</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210418540" programName="我的抗战(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战(19)</MetaData>
+                <MetaData mdUID="3">纪录</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210459210" programName="我的抗战(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战(20)</MetaData>
+                <MetaData mdUID="3">纪录</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210538000" programName="探秘时刻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探秘时刻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210611440" programName="直播港澳台20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">直播港澳台20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210800540" programName="动画片:鹿精灵之寻找兵马俑(50)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:鹿精灵之寻找兵马俑(50)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210817070" programName="动画片:鹿精灵之寻找兵马俑(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:鹿精灵之寻找兵马俑(51)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210830230" programName="动画片:鹿精灵之寻找兵马俑(52)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:鹿精灵之寻找兵马俑(52)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210847110" programName="真爱的谎言之破冰者(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真爱的谎言之破冰者(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905210924110" programName="真爱的谎言之破冰者(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真爱的谎言之破冰者(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211016330" programName="真爱的谎言之破冰者(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真爱的谎言之破冰者(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211109570" programName="真爱的谎言之破冰者(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真爱的谎言之破冰者(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211150100" programName="正午30分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">正午30分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211243500" programName="探秘时刻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探秘时刻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211325500" programName="月嫂先生(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">月嫂先生(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211425330" programName="月嫂先生(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">月嫂先生(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211525310" programName="月嫂先生(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">月嫂先生(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211625430" programName="月嫂先生(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">月嫂先生(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211723470" programName="月嫂先生(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">月嫂先生(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211830000" programName="深视新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">深视新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905211936010" programName="凉生我们可不可以不忧伤(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">凉生我们可不可以不忧伤(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905212015350" programName="剧透社20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧透社20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905212028110" programName="凉生我们可不可以不忧伤(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">凉生我们可不可以不忧伤(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905212116460" programName="剧透社20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧透社20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905212125200" programName="军情直播间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">军情直播间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905212225120" programName="直播港澳台20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">直播港澳台20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905212327050" programName="悦时尚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">悦时尚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905220002550" programName="勇士的荣耀20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇士的荣耀20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3101905220100010" programName="探秘时刻20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探秘时刻20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3101905210127070" programID="3101905210127070" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 01:27:07" endTime="2019-05-21 02:14:43" catchedByOperator="" programName="直播港澳台20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210214430" programID="3101905210214430" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 02:14:43" endTime="2019-05-21 02:57:36" catchedByOperator="" programName="我的抗战(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210257360" programID="3101905210257360" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 02:57:36" endTime="2019-05-21 03:38:07" catchedByOperator="" programName="我的抗战(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210338070" programID="3101905210338070" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 03:38:07" endTime="2019-05-21 04:18:54" catchedByOperator="" programName="我的抗战(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210418540" programID="3101905210418540" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 04:18:54" endTime="2019-05-21 04:59:21" catchedByOperator="" programName="我的抗战(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210459210" programID="3101905210459210" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 04:59:21" endTime="2019-05-21 05:38:00" catchedByOperator="" programName="我的抗战(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210538000" programID="3101905210538000" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 05:38:00" endTime="2019-05-21 06:11:44" catchedByOperator="" programName="探秘时刻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210611440" programID="3101905210611440" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 06:11:44" endTime="2019-05-21 08:00:54" catchedByOperator="" programName="直播港澳台20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210800540" programID="3101905210800540" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 08:00:54" endTime="2019-05-21 08:17:07" catchedByOperator="" programName="动画片:鹿精灵之寻找兵马俑(50)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210817070" programID="3101905210817070" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 08:17:07" endTime="2019-05-21 08:30:23" catchedByOperator="" programName="动画片:鹿精灵之寻找兵马俑(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210830230" programID="3101905210830230" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 08:30:23" endTime="2019-05-21 08:47:11" catchedByOperator="" programName="动画片:鹿精灵之寻找兵马俑(52)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210847110" programID="3101905210847110" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 08:47:11" endTime="2019-05-21 09:24:11" catchedByOperator="" programName="真爱的谎言之破冰者(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905210924110" programID="3101905210924110" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 09:24:11" endTime="2019-05-21 10:16:33" catchedByOperator="" programName="真爱的谎言之破冰者(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211016330" programID="3101905211016330" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 10:16:33" endTime="2019-05-21 11:09:57" catchedByOperator="" programName="真爱的谎言之破冰者(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211109570" programID="3101905211109570" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 11:09:57" endTime="2019-05-21 11:50:10" catchedByOperator="" programName="真爱的谎言之破冰者(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211150100" programID="3101905211150100" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 11:50:10" endTime="2019-05-21 12:43:50" catchedByOperator="" programName="正午30分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211243500" programID="3101905211243500" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 12:43:50" endTime="2019-05-21 13:25:50" catchedByOperator="" programName="探秘时刻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211325500" programID="3101905211325500" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 13:25:50" endTime="2019-05-21 14:25:33" catchedByOperator="" programName="月嫂先生(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211425330" programID="3101905211425330" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 14:25:33" endTime="2019-05-21 15:25:31" catchedByOperator="" programName="月嫂先生(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211525310" programID="3101905211525310" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 15:25:31" endTime="2019-05-21 16:25:43" catchedByOperator="" programName="月嫂先生(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211625430" programID="3101905211625430" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 16:25:43" endTime="2019-05-21 17:23:47" catchedByOperator="" programName="月嫂先生(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211723470" programID="3101905211723470" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 17:23:47" endTime="2019-05-21 18:30:00" catchedByOperator="" programName="月嫂先生(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211830000" programID="3101905211830000" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 18:30:00" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="深视新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211900000" programID="3101905211900000" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:36:01" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905211936010" programID="3101905211936010" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 19:36:01" endTime="2019-05-21 20:15:35" catchedByOperator="" programName="凉生我们可不可以不忧伤(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905212015350" programID="3101905212015350" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 20:15:35" endTime="2019-05-21 20:28:11" catchedByOperator="" programName="剧透社20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905212028110" programID="3101905212028110" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 20:28:11" endTime="2019-05-21 21:16:46" catchedByOperator="" programName="凉生我们可不可以不忧伤(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905212116460" programID="3101905212116460" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 21:16:46" endTime="2019-05-21 21:25:20" catchedByOperator="" programName="剧透社20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905212125200" programID="3101905212125200" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 21:25:20" endTime="2019-05-21 22:25:12" catchedByOperator="" programName="军情直播间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905212225120" programID="3101905212225120" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 22:25:12" endTime="2019-05-21 23:27:05" catchedByOperator="" programName="直播港澳台20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905212327050" programID="3101905212327050" channelID="310" channelName="深圳卫视高清" startTime="2019-05-21 23:27:05" endTime="2019-05-22 00:02:55" catchedByOperator="" programName="悦时尚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905220002550" programID="3101905220002550" channelID="310" channelName="深圳卫视高清" startTime="2019-05-22 00:02:55" endTime="2019-05-22 01:00:01" catchedByOperator="" programName="勇士的荣耀20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3101905220100010" programID="3101905220100010" channelID="310" channelName="深圳卫视高清" startTime="2019-05-22 01:00:01" endTime="2019-05-22 01:34:05" catchedByOperator="" programName="探秘时刻20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

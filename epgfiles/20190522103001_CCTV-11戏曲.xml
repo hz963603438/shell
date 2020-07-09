@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:19:12" endTime="2019-05-22 00:13:03" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="11" channelName="CCTV-11戏曲" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="0111905210119120" programName="停机检修1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210340120" programName="停机检修2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210601420" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210606320" programName="九州大戏台好戏连连看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">九州大戏台好戏连连看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210708020" programName="京剧脸谱赏析20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">京剧脸谱赏析20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210711470" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210719010" programName="名家书场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">名家书场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210752480" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210758020" programName="跟我学20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跟我学20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210836460" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905210846020" programName="中国京剧像音像集萃20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国京剧像音像集萃20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211123480" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211133010" programName="娘亲舅大(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211223320" programName="娘亲舅大(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211314020" programName="娘亲舅大(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211405170" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211410320" programName="梨园闯关我挂帅20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">梨园闯关我挂帅20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211515030" programName="九州大戏台20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">九州大戏台20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211742030" programName="翰墨戏韵20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">翰墨戏韵20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211752020" programName="过把瘾20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">过把瘾20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211901480" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211910320" programName="戏曲采风20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">戏曲采风20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905211930030" programName="青春戏苑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青春戏苑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905212034320" programName="角儿来了20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">角儿来了20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905212137180" programName="主持人全天陪伴您20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">主持人全天陪伴您20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905212147030" programName="父母爱情(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(16)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905212235430" programName="父母爱情(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(17)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0111905212324230" programName="父母爱情(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(18)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="0111905210119120" programID="0111905210119120" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 01:19:12" endTime="2019-05-21 03:40:12" catchedByOperator="" programName="停机检修1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210340120" programID="0111905210340120" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 03:40:12" endTime="2019-05-21 06:01:42" catchedByOperator="" programName="停机检修2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210601420" programID="0111905210601420" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 06:01:42" endTime="2019-05-21 06:06:32" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210606320" programID="0111905210606320" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 06:06:32" endTime="2019-05-21 07:08:02" catchedByOperator="" programName="九州大戏台好戏连连看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210708020" programID="0111905210708020" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 07:08:02" endTime="2019-05-21 07:11:47" catchedByOperator="" programName="京剧脸谱赏析20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210711470" programID="0111905210711470" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 07:11:47" endTime="2019-05-21 07:19:01" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210719010" programID="0111905210719010" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 07:19:01" endTime="2019-05-21 07:52:48" catchedByOperator="" programName="名家书场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210752480" programID="0111905210752480" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 07:52:48" endTime="2019-05-21 07:58:02" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210758020" programID="0111905210758020" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 07:58:02" endTime="2019-05-21 08:36:46" catchedByOperator="" programName="跟我学20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210836460" programID="0111905210836460" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 08:36:46" endTime="2019-05-21 08:46:02" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905210846020" programID="0111905210846020" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 08:46:02" endTime="2019-05-21 11:23:48" catchedByOperator="" programName="中国京剧像音像集萃20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211123480" programID="0111905211123480" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 11:23:48" endTime="2019-05-21 11:33:01" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211133010" programID="0111905211133010" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 11:33:01" endTime="2019-05-21 12:23:32" catchedByOperator="" programName="娘亲舅大(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211223320" programID="0111905211223320" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 12:23:32" endTime="2019-05-21 13:14:02" catchedByOperator="" programName="娘亲舅大(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211314020" programID="0111905211314020" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 13:14:02" endTime="2019-05-21 14:05:17" catchedByOperator="" programName="娘亲舅大(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211405170" programID="0111905211405170" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 14:05:17" endTime="2019-05-21 14:10:32" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211410320" programID="0111905211410320" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 14:10:32" endTime="2019-05-21 15:15:03" catchedByOperator="" programName="梨园闯关我挂帅20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211515030" programID="0111905211515030" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 15:15:03" endTime="2019-05-21 17:42:03" catchedByOperator="" programName="九州大戏台20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211742030" programID="0111905211742030" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 17:42:03" endTime="2019-05-21 17:52:02" catchedByOperator="" programName="翰墨戏韵20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211752020" programID="0111905211752020" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 17:52:02" endTime="2019-05-21 19:01:48" catchedByOperator="" programName="过把瘾20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211901480" programID="0111905211901480" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 19:01:48" endTime="2019-05-21 19:10:32" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211910320" programID="0111905211910320" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 19:10:32" endTime="2019-05-21 19:30:03" catchedByOperator="" programName="戏曲采风20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905211930030" programID="0111905211930030" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 19:30:03" endTime="2019-05-21 20:34:32" catchedByOperator="" programName="青春戏苑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905212034320" programID="0111905212034320" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 20:34:32" endTime="2019-05-21 21:37:18" catchedByOperator="" programName="角儿来了20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905212137180" programID="0111905212137180" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 21:37:18" endTime="2019-05-21 21:47:03" catchedByOperator="" programName="主持人全天陪伴您20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905212147030" programID="0111905212147030" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 21:47:03" endTime="2019-05-21 22:35:43" catchedByOperator="" programName="父母爱情(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905212235430" programID="0111905212235430" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 22:35:43" endTime="2019-05-21 23:24:23" catchedByOperator="" programName="父母爱情(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0111905212324230" programID="0111905212324230" channelID="11" channelName="CCTV-11戏曲" startTime="2019-05-21 23:24:23" endTime="2019-05-22 00:13:03" catchedByOperator="" programName="父母爱情(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

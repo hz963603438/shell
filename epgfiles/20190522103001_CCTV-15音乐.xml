@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:32:32" endTime="2019-05-22 01:34:02" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="15" channelName="CCTV-15音乐" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="0151905210132320" programName="停机检修1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210345320" programName="停机检修2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210600020" programName="广场舞金曲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">广场舞金曲20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210633020" programName="中国音乐电视20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国音乐电视20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210706020" programName="今乐坛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今乐坛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210732020" programName="风华国乐20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">风华国乐20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210809020" programName="精彩音乐汇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩音乐汇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905210957020" programName="民歌中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">民歌中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211142030" programName="中国音乐电视20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国音乐电视20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211219020" programName="精彩音乐汇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩音乐汇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211407030" programName="广场舞金曲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">广场舞金曲20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211446020" programName="潮流金曲与你一起重温美好旋律20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潮流金曲与你一起重温美好旋律20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211602020" programName="今乐坛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今乐坛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211630010" programName="民歌中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">民歌中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211709030" programName="中国音乐电视20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国音乐电视20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211748030" programName="精彩音乐汇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩音乐汇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905211930020" programName="歌声与微笑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">歌声与微笑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905212042320" programName="渴望现场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渴望现场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905212216020" programName="风华国乐20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">风华国乐20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905212252030" programName="精彩音乐汇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩音乐汇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0151905220034020" programName="经典20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经典20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="0151905210132320" programID="0151905210132320" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 01:32:32" endTime="2019-05-21 03:45:32" catchedByOperator="" programName="停机检修1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210345320" programID="0151905210345320" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 03:45:32" endTime="2019-05-21 06:00:02" catchedByOperator="" programName="停机检修2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210600020" programID="0151905210600020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 06:00:02" endTime="2019-05-21 06:33:02" catchedByOperator="" programName="广场舞金曲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210633020" programID="0151905210633020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 06:33:02" endTime="2019-05-21 07:06:02" catchedByOperator="" programName="中国音乐电视20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210706020" programID="0151905210706020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 07:06:02" endTime="2019-05-21 07:32:02" catchedByOperator="" programName="今乐坛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210732020" programID="0151905210732020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 07:32:02" endTime="2019-05-21 08:09:02" catchedByOperator="" programName="风华国乐20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210809020" programID="0151905210809020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 08:09:02" endTime="2019-05-21 09:57:02" catchedByOperator="" programName="精彩音乐汇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905210957020" programID="0151905210957020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 09:57:02" endTime="2019-05-21 11:42:03" catchedByOperator="" programName="民歌中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211142030" programID="0151905211142030" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 11:42:03" endTime="2019-05-21 12:19:02" catchedByOperator="" programName="中国音乐电视20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211219020" programID="0151905211219020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 12:19:02" endTime="2019-05-21 14:07:03" catchedByOperator="" programName="精彩音乐汇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211407030" programID="0151905211407030" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 14:07:03" endTime="2019-05-21 14:46:02" catchedByOperator="" programName="广场舞金曲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211446020" programID="0151905211446020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 14:46:02" endTime="2019-05-21 16:02:02" catchedByOperator="" programName="潮流金曲与你一起重温美好旋律20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211602020" programID="0151905211602020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 16:02:02" endTime="2019-05-21 16:30:01" catchedByOperator="" programName="今乐坛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211630010" programID="0151905211630010" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 16:30:01" endTime="2019-05-21 17:09:03" catchedByOperator="" programName="民歌中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211709030" programID="0151905211709030" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 17:09:03" endTime="2019-05-21 17:48:03" catchedByOperator="" programName="中国音乐电视20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211748030" programID="0151905211748030" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 17:48:03" endTime="2019-05-21 19:30:02" catchedByOperator="" programName="精彩音乐汇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905211930020" programID="0151905211930020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 19:30:02" endTime="2019-05-21 20:42:32" catchedByOperator="" programName="歌声与微笑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905212042320" programID="0151905212042320" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 20:42:32" endTime="2019-05-21 22:16:02" catchedByOperator="" programName="渴望现场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905212216020" programID="0151905212216020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 22:16:02" endTime="2019-05-21 22:52:03" catchedByOperator="" programName="风华国乐20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905212252030" programID="0151905212252030" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-21 22:52:03" endTime="2019-05-22 00:34:02" catchedByOperator="" programName="精彩音乐汇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0151905220034020" programID="0151905220034020" channelID="15" channelName="CCTV-15音乐" startTime="2019-05-22 00:34:02" endTime="2019-05-22 01:34:02" catchedByOperator="" programName="经典20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

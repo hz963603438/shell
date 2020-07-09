@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:18:05" endTime="2019-05-22 01:18:04" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="320" channelName="CCTV-14高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3201905210118050" programName="突围突围(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">突围突围(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210208350" programName="停机检修20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210600050" programName="动画乐翻天20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画乐翻天20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210604280" programName="动画乐翻天:熊熊乐园2(45)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画乐翻天:熊熊乐园2(45)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210614360" programName="动画乐翻天:熊熊乐园2(46)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画乐翻天:熊熊乐园2(46)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210631520" programName="动画梦工场:百变马丁Ⅲ20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画梦工场:百变马丁Ⅲ20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210656190" programName="动画梦工场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画梦工场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210702360" programName="动画剧场:小P优优(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画剧场:小P优优(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210727160" programName="动画剧场:小P优优(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画剧场:小P优优(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210756500" programName="动画剧场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画剧场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210800040" programName="银河剧场:新百变马丁Ⅳ(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场:新百变马丁Ⅳ(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210812490" programName="银河剧场:新百变马丁Ⅳ(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场:新百变马丁Ⅳ(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210822210" programName="银河剧场:新百变马丁Ⅳ(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场:新百变马丁Ⅳ(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210834300" programName="银河剧场:新百变马丁Ⅳ(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场:新百变马丁Ⅳ(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210850150" programName="银河剧场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905210900060" programName="超级飞侠2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级飞侠2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211000050" programName="小小智慧树20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">小小智慧树20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211030050" programName="百变布鲁可20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">百变布鲁可20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211111480" programName="魔力课堂之踢踢和奇奇(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">魔力课堂之踢踢和奇奇(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211121360" programName="魔力课堂之踢踢和奇奇(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">魔力课堂之踢踢和奇奇(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211134250" programName="魔力课堂之踢踢和奇奇(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">魔力课堂之踢踢和奇奇(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211143420" programName="魔力课堂之踢踢和奇奇(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">魔力课堂之踢踢和奇奇(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211200050" programName="动漫世界:变形金刚救援汽车人(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动漫世界:变形金刚救援汽车人(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211225300" programName="动漫世界:变形金刚救援汽车人20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动漫世界:变形金刚救援汽车人20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211250110" programName="动漫世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动漫世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211305350" programName="新大头儿子和小头爸爸:教育有方(上)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸:教育有方(上)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211340450" programName="新大头儿子和小头爸爸:教育有方(下)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸:教育有方(下)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211415530" programName="新大头儿子和小头爸爸:小鬼当家20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸:小鬼当家20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211450310" programName="新大头儿子和小头爸爸:我从哪里来20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸:我从哪里来20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211523410" programName="新大头儿子和小头爸爸:我的飞机20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸:我的飞机20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211600400" programName="动画剧场:草本家族20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画剧场:草本家族20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211700060" programName="新闻袋袋裤20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻袋袋裤20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211715050" programName="七巧板20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">七巧板20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211800050" programName="动画乐翻天20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画乐翻天20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211804180" programName="动画乐翻天:爆速合体(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画乐翻天:爆速合体(21)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211830060" programName="智慧树20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">智慧树20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211901520" programName="动画梦工场:成长这东西(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画梦工场:成长这东西(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211910530" programName="动画梦工场:成长这东西(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画梦工场:成长这东西(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211926190" programName="动画梦工场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画梦工场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211931530" programName="呼噜小精灵六:丑蛋20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">呼噜小精灵六:丑蛋20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905211943580" programName="呼噜小精灵六:别扔别扔20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">呼噜小精灵六:别扔别扔20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212000040" programName="银河剧场:天眼归来(127)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场:天眼归来(127)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212022120" programName="银河剧场:天眼归来(128)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场:天眼归来(128)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212045400" programName="银河剧场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">银河剧场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212103500" programName="智力快车20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">智力快车20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212200050" programName="最美的青春(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">最美的青春(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212248050" programName="最美的青春(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">最美的青春(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905212338050" programName="突围突围(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">突围突围(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3201905220028050" programName="突围突围(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">突围突围(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3201905210118050" programID="3201905210118050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 01:18:05" endTime="2019-05-21 02:08:35" catchedByOperator="" programName="突围突围(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210208350" programID="3201905210208350" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 02:08:35" endTime="2019-05-21 06:00:05" catchedByOperator="" programName="停机检修20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210600050" programID="3201905210600050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 06:00:05" endTime="2019-05-21 06:04:28" catchedByOperator="" programName="动画乐翻天20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210604280" programID="3201905210604280" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 06:04:28" endTime="2019-05-21 06:14:36" catchedByOperator="" programName="动画乐翻天:熊熊乐园2(45)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210614360" programID="3201905210614360" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 06:14:36" endTime="2019-05-21 06:31:52" catchedByOperator="" programName="动画乐翻天:熊熊乐园2(46)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210631520" programID="3201905210631520" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 06:31:52" endTime="2019-05-21 06:56:19" catchedByOperator="" programName="动画梦工场:百变马丁Ⅲ20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210656190" programID="3201905210656190" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 06:56:19" endTime="2019-05-21 07:02:36" catchedByOperator="" programName="动画梦工场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210702360" programID="3201905210702360" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 07:02:36" endTime="2019-05-21 07:27:16" catchedByOperator="" programName="动画剧场:小P优优(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210727160" programID="3201905210727160" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 07:27:16" endTime="2019-05-21 07:56:50" catchedByOperator="" programName="动画剧场:小P优优(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210756500" programID="3201905210756500" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 07:56:50" endTime="2019-05-21 08:00:04" catchedByOperator="" programName="动画剧场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210800040" programID="3201905210800040" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 08:00:04" endTime="2019-05-21 08:12:49" catchedByOperator="" programName="银河剧场:新百变马丁Ⅳ(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210812490" programID="3201905210812490" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 08:12:49" endTime="2019-05-21 08:22:21" catchedByOperator="" programName="银河剧场:新百变马丁Ⅳ(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210822210" programID="3201905210822210" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 08:22:21" endTime="2019-05-21 08:34:30" catchedByOperator="" programName="银河剧场:新百变马丁Ⅳ(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210834300" programID="3201905210834300" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 08:34:30" endTime="2019-05-21 08:50:15" catchedByOperator="" programName="银河剧场:新百变马丁Ⅳ(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210850150" programID="3201905210850150" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 08:50:15" endTime="2019-05-21 09:00:06" catchedByOperator="" programName="银河剧场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905210900060" programID="3201905210900060" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 09:00:06" endTime="2019-05-21 10:00:05" catchedByOperator="" programName="超级飞侠2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211000050" programID="3201905211000050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 10:00:05" endTime="2019-05-21 10:30:05" catchedByOperator="" programName="小小智慧树20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211030050" programID="3201905211030050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 10:30:05" endTime="2019-05-21 11:11:48" catchedByOperator="" programName="百变布鲁可20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211111480" programID="3201905211111480" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 11:11:48" endTime="2019-05-21 11:21:36" catchedByOperator="" programName="魔力课堂之踢踢和奇奇(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211121360" programID="3201905211121360" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 11:21:36" endTime="2019-05-21 11:34:25" catchedByOperator="" programName="魔力课堂之踢踢和奇奇(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211134250" programID="3201905211134250" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 11:34:25" endTime="2019-05-21 11:43:42" catchedByOperator="" programName="魔力课堂之踢踢和奇奇(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211143420" programID="3201905211143420" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 11:43:42" endTime="2019-05-21 12:00:05" catchedByOperator="" programName="魔力课堂之踢踢和奇奇(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211200050" programID="3201905211200050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 12:00:05" endTime="2019-05-21 12:25:30" catchedByOperator="" programName="动漫世界:变形金刚救援汽车人(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211225300" programID="3201905211225300" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 12:25:30" endTime="2019-05-21 12:50:11" catchedByOperator="" programName="动漫世界:变形金刚救援汽车人20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211250110" programID="3201905211250110" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 12:50:11" endTime="2019-05-21 13:05:35" catchedByOperator="" programName="动漫世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211305350" programID="3201905211305350" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 13:05:35" endTime="2019-05-21 13:40:45" catchedByOperator="" programName="新大头儿子和小头爸爸:教育有方(上)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211340450" programID="3201905211340450" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 13:40:45" endTime="2019-05-21 14:15:53" catchedByOperator="" programName="新大头儿子和小头爸爸:教育有方(下)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211415530" programID="3201905211415530" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 14:15:53" endTime="2019-05-21 14:50:31" catchedByOperator="" programName="新大头儿子和小头爸爸:小鬼当家20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211450310" programID="3201905211450310" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 14:50:31" endTime="2019-05-21 15:23:41" catchedByOperator="" programName="新大头儿子和小头爸爸:我从哪里来20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211523410" programID="3201905211523410" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 15:23:41" endTime="2019-05-21 16:00:40" catchedByOperator="" programName="新大头儿子和小头爸爸:我的飞机20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211600400" programID="3201905211600400" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 16:00:40" endTime="2019-05-21 17:00:06" catchedByOperator="" programName="动画剧场:草本家族20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211700060" programID="3201905211700060" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 17:00:06" endTime="2019-05-21 17:15:05" catchedByOperator="" programName="新闻袋袋裤20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211715050" programID="3201905211715050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 17:15:05" endTime="2019-05-21 18:00:05" catchedByOperator="" programName="七巧板20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211800050" programID="3201905211800050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 18:00:05" endTime="2019-05-21 18:04:18" catchedByOperator="" programName="动画乐翻天20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211804180" programID="3201905211804180" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 18:04:18" endTime="2019-05-21 18:30:06" catchedByOperator="" programName="动画乐翻天:爆速合体(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211830060" programID="3201905211830060" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 18:30:06" endTime="2019-05-21 19:01:52" catchedByOperator="" programName="智慧树20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211901520" programID="3201905211901520" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 19:01:52" endTime="2019-05-21 19:10:53" catchedByOperator="" programName="动画梦工场:成长这东西(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211910530" programID="3201905211910530" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 19:10:53" endTime="2019-05-21 19:26:19" catchedByOperator="" programName="动画梦工场:成长这东西(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211926190" programID="3201905211926190" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 19:26:19" endTime="2019-05-21 19:31:53" catchedByOperator="" programName="动画梦工场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211931530" programID="3201905211931530" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 19:31:53" endTime="2019-05-21 19:43:58" catchedByOperator="" programName="呼噜小精灵六:丑蛋20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905211943580" programID="3201905211943580" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 19:43:58" endTime="2019-05-21 20:00:04" catchedByOperator="" programName="呼噜小精灵六:别扔别扔20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212000040" programID="3201905212000040" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 20:00:04" endTime="2019-05-21 20:22:12" catchedByOperator="" programName="银河剧场:天眼归来(127)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212022120" programID="3201905212022120" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 20:22:12" endTime="2019-05-21 20:45:40" catchedByOperator="" programName="银河剧场:天眼归来(128)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212045400" programID="3201905212045400" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 20:45:40" endTime="2019-05-21 21:03:50" catchedByOperator="" programName="银河剧场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212103500" programID="3201905212103500" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 21:03:50" endTime="2019-05-21 22:00:05" catchedByOperator="" programName="智力快车20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212200050" programID="3201905212200050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 22:00:05" endTime="2019-05-21 22:48:05" catchedByOperator="" programName="最美的青春(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212248050" programID="3201905212248050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 22:48:05" endTime="2019-05-21 23:38:05" catchedByOperator="" programName="最美的青春(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905212338050" programID="3201905212338050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-21 23:38:05" endTime="2019-05-22 00:28:05" catchedByOperator="" programName="突围突围(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3201905220028050" programID="3201905220028050" channelID="320" channelName="CCTV-14高清" startTime="2019-05-22 00:28:05" endTime="2019-05-22 01:18:04" catchedByOperator="" programName="突围突围(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:36:05" endTime="2019-05-22 01:35:08" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="314" channelName="CCTV-6高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3141905210136050" programName="侠骨风流20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">侠骨风流20190521</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905210301320" programName="好好活着20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好好活着20190521</MetaData>
+                <MetaData mdUID="3">家庭</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905210434280" programName="功夫咏春20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">功夫咏春20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905210618270" programName="幸福迷途20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福迷途20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905210719220" programName="风尘三千里20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">风尘三千里20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905210853450" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905210900500" programName="少林英雄20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">少林英雄20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211032090" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211045540" programName="鹦鹉话外音20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鹦鹉话外音20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211052440" programName="七儿娘20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">七儿娘20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211222390" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211230240" programName="美丽中国音乐电影欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽中国音乐电影欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211242560" programName="硬汉20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">硬汉20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211416290" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211428180" programName="清秀佳人20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">清秀佳人20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211556590" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211609550" programName="鹦鹉话外音20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鹦鹉话外音20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211616410" programName="撒娇女人最好命20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">撒娇女人最好命20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211749150" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211800440" programName="中国电影报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国电影报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211823450" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905211832100" programName="长空比翼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">长空比翼20190521</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212010440" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212018400" programName="周游电影20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">周游电影20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212025420" programName="神丐20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神丐20190521</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212203060" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212206510" programName="今日影评20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日影评20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212217360" programName="女巫斗恶龙20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">女巫斗恶龙20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212346160" programName="今日影评20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今日影评20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212354160" programName="美丽中国音乐电影欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽中国音乐电影欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905212359160" programName="光影星播客20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">光影星播客20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905220004450" programName="周游电影20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">周游电影20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3141905220011330" programName="硬汉奶爸20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">硬汉奶爸20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3141905210136050" programID="3141905210136050" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 01:36:05" endTime="2019-05-21 03:01:32" catchedByOperator="" programName="侠骨风流20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905210301320" programID="3141905210301320" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 03:01:32" endTime="2019-05-21 04:34:28" catchedByOperator="" programName="好好活着20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905210434280" programID="3141905210434280" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 04:34:28" endTime="2019-05-21 06:18:27" catchedByOperator="" programName="功夫咏春20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905210618270" programID="3141905210618270" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 06:18:27" endTime="2019-05-21 07:19:22" catchedByOperator="" programName="幸福迷途20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905210719220" programID="3141905210719220" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 07:19:22" endTime="2019-05-21 08:53:45" catchedByOperator="" programName="风尘三千里20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905210853450" programID="3141905210853450" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 08:53:45" endTime="2019-05-21 09:00:50" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905210900500" programID="3141905210900500" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 09:00:50" endTime="2019-05-21 10:32:09" catchedByOperator="" programName="少林英雄20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211032090" programID="3141905211032090" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 10:32:09" endTime="2019-05-21 10:45:54" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211045540" programID="3141905211045540" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 10:45:54" endTime="2019-05-21 10:52:44" catchedByOperator="" programName="鹦鹉话外音20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211052440" programID="3141905211052440" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 10:52:44" endTime="2019-05-21 12:22:39" catchedByOperator="" programName="七儿娘20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211222390" programID="3141905211222390" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 12:22:39" endTime="2019-05-21 12:30:24" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211230240" programID="3141905211230240" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 12:30:24" endTime="2019-05-21 12:42:56" catchedByOperator="" programName="美丽中国音乐电影欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211242560" programID="3141905211242560" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 12:42:56" endTime="2019-05-21 14:16:29" catchedByOperator="" programName="硬汉20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211416290" programID="3141905211416290" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 14:16:29" endTime="2019-05-21 14:28:18" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211428180" programID="3141905211428180" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 14:28:18" endTime="2019-05-21 15:56:59" catchedByOperator="" programName="清秀佳人20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211556590" programID="3141905211556590" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 15:56:59" endTime="2019-05-21 16:09:55" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211609550" programID="3141905211609550" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 16:09:55" endTime="2019-05-21 16:16:41" catchedByOperator="" programName="鹦鹉话外音20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211616410" programID="3141905211616410" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 16:16:41" endTime="2019-05-21 17:49:15" catchedByOperator="" programName="撒娇女人最好命20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211749150" programID="3141905211749150" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 17:49:15" endTime="2019-05-21 18:00:44" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211800440" programID="3141905211800440" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 18:00:44" endTime="2019-05-21 18:23:45" catchedByOperator="" programName="中国电影报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211823450" programID="3141905211823450" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 18:23:45" endTime="2019-05-21 18:32:10" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905211832100" programID="3141905211832100" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 18:32:10" endTime="2019-05-21 20:10:44" catchedByOperator="" programName="长空比翼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212010440" programID="3141905212010440" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 20:10:44" endTime="2019-05-21 20:18:40" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212018400" programID="3141905212018400" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 20:18:40" endTime="2019-05-21 20:25:42" catchedByOperator="" programName="周游电影20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212025420" programID="3141905212025420" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 20:25:42" endTime="2019-05-21 22:03:06" catchedByOperator="" programName="神丐20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212203060" programID="3141905212203060" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 22:03:06" endTime="2019-05-21 22:06:51" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212206510" programID="3141905212206510" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 22:06:51" endTime="2019-05-21 22:17:36" catchedByOperator="" programName="今日影评20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212217360" programID="3141905212217360" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 22:17:36" endTime="2019-05-21 23:46:16" catchedByOperator="" programName="女巫斗恶龙20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212346160" programID="3141905212346160" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 23:46:16" endTime="2019-05-21 23:54:16" catchedByOperator="" programName="今日影评20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212354160" programID="3141905212354160" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 23:54:16" endTime="2019-05-21 23:59:16" catchedByOperator="" programName="美丽中国音乐电影欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905212359160" programID="3141905212359160" channelID="314" channelName="CCTV-6高清" startTime="2019-05-21 23:59:16" endTime="2019-05-22 00:04:45" catchedByOperator="" programName="光影星播客20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905220004450" programID="3141905220004450" channelID="314" channelName="CCTV-6高清" startTime="2019-05-22 00:04:45" endTime="2019-05-22 00:11:33" catchedByOperator="" programName="周游电影20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3141905220011330" programID="3141905220011330" channelID="314" channelName="CCTV-6高清" startTime="2019-05-22 00:11:33" endTime="2019-05-22 01:35:08" catchedByOperator="" programName="硬汉奶爸20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

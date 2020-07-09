@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:00:00" endTime="2019-05-22 01:00:00" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="113" channelName="湖南教育" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1131905210100000" programName="彩条1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">彩条1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905210315000" programName="彩条2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">彩条2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905210530000" programName="小主播电视才艺比赛" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">小主播电视才艺比赛</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905210700000" programName="中华人民共和国国歌" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华人民共和国国歌</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905210705000" programName="小主播电视才艺比赛" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">小主播电视才艺比赛</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905210830000" programName="青年霍元甲之冲出江湖(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905210930000" programName="青年霍元甲之冲出江湖(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211030000" programName="纪录片工厂" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录片工厂</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211120000" programName="新时代学习大会" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新时代学习大会</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211200000" programName="教视新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">教视新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211220000" programName="拥抱新时代,唱响校园好声音" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">拥抱新时代,唱响校园好声音</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211230000" programName="专业解码" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">专业解码</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211250000" programName="拥抱新时代,唱响校园好声音" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">拥抱新时代,唱响校园好声音</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211300000" programName="汉语桥世界大学生中文比赛" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">汉语桥世界大学生中文比赛</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211430000" programName="新时代学习大会" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新时代学习大会</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211530000" programName="青年霍元甲之冲出江湖(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211630000" programName="青年霍元甲之冲出江湖(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211720000" programName="新时代学习大会" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新时代学习大会</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211800000" programName="卡通来了" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卡通来了</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211830000" programName="国防教育频道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国防教育频道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905211935000" programName="教视新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">教视新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905212000000" programName="纪录片工厂" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录片工厂</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905212030000" programName="伏击(48)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">伏击(48)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905212120000" programName="伏击(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">伏击(49)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905212200000" programName="汉语桥世界大学生中文比赛" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">汉语桥世界大学生中文比赛</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905212340000" programName="教视新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">教视新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1131905220000000" programName="国防教育频道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国防教育频道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1131905210100000" programID="1131905210100000" channelID="113" channelName="湖南教育" startTime="2019-05-21 01:00:00" endTime="2019-05-21 03:15:00" catchedByOperator="" programName="彩条1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905210315000" programID="1131905210315000" channelID="113" channelName="湖南教育" startTime="2019-05-21 03:15:00" endTime="2019-05-21 05:30:00" catchedByOperator="" programName="彩条2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905210530000" programID="1131905210530000" channelID="113" channelName="湖南教育" startTime="2019-05-21 05:30:00" endTime="2019-05-21 07:00:00" catchedByOperator="" programName="小主播电视才艺比赛" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905210700000" programID="1131905210700000" channelID="113" channelName="湖南教育" startTime="2019-05-21 07:00:00" endTime="2019-05-21 07:05:00" catchedByOperator="" programName="中华人民共和国国歌" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905210705000" programID="1131905210705000" channelID="113" channelName="湖南教育" startTime="2019-05-21 07:05:00" endTime="2019-05-21 08:30:00" catchedByOperator="" programName="小主播电视才艺比赛" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905210830000" programID="1131905210830000" channelID="113" channelName="湖南教育" startTime="2019-05-21 08:30:00" endTime="2019-05-21 09:30:00" catchedByOperator="" programName="青年霍元甲之冲出江湖(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905210930000" programID="1131905210930000" channelID="113" channelName="湖南教育" startTime="2019-05-21 09:30:00" endTime="2019-05-21 10:30:00" catchedByOperator="" programName="青年霍元甲之冲出江湖(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211030000" programID="1131905211030000" channelID="113" channelName="湖南教育" startTime="2019-05-21 10:30:00" endTime="2019-05-21 11:20:00" catchedByOperator="" programName="纪录片工厂" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211120000" programID="1131905211120000" channelID="113" channelName="湖南教育" startTime="2019-05-21 11:20:00" endTime="2019-05-21 12:00:00" catchedByOperator="" programName="新时代学习大会" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211200000" programID="1131905211200000" channelID="113" channelName="湖南教育" startTime="2019-05-21 12:00:00" endTime="2019-05-21 12:20:00" catchedByOperator="" programName="教视新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211220000" programID="1131905211220000" channelID="113" channelName="湖南教育" startTime="2019-05-21 12:20:00" endTime="2019-05-21 12:30:00" catchedByOperator="" programName="拥抱新时代,唱响校园好声音" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211230000" programID="1131905211230000" channelID="113" channelName="湖南教育" startTime="2019-05-21 12:30:00" endTime="2019-05-21 12:50:00" catchedByOperator="" programName="专业解码" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211250000" programID="1131905211250000" channelID="113" channelName="湖南教育" startTime="2019-05-21 12:50:00" endTime="2019-05-21 13:00:00" catchedByOperator="" programName="拥抱新时代,唱响校园好声音" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211300000" programID="1131905211300000" channelID="113" channelName="湖南教育" startTime="2019-05-21 13:00:00" endTime="2019-05-21 14:30:00" catchedByOperator="" programName="汉语桥世界大学生中文比赛" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211430000" programID="1131905211430000" channelID="113" channelName="湖南教育" startTime="2019-05-21 14:30:00" endTime="2019-05-21 15:30:00" catchedByOperator="" programName="新时代学习大会" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211530000" programID="1131905211530000" channelID="113" channelName="湖南教育" startTime="2019-05-21 15:30:00" endTime="2019-05-21 16:30:00" catchedByOperator="" programName="青年霍元甲之冲出江湖(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211630000" programID="1131905211630000" channelID="113" channelName="湖南教育" startTime="2019-05-21 16:30:00" endTime="2019-05-21 17:20:00" catchedByOperator="" programName="青年霍元甲之冲出江湖(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211720000" programID="1131905211720000" channelID="113" channelName="湖南教育" startTime="2019-05-21 17:20:00" endTime="2019-05-21 18:00:00" catchedByOperator="" programName="新时代学习大会" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211800000" programID="1131905211800000" channelID="113" channelName="湖南教育" startTime="2019-05-21 18:00:00" endTime="2019-05-21 18:30:00" catchedByOperator="" programName="卡通来了" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211830000" programID="1131905211830000" channelID="113" channelName="湖南教育" startTime="2019-05-21 18:30:00" endTime="2019-05-21 19:35:00" catchedByOperator="" programName="国防教育频道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905211935000" programID="1131905211935000" channelID="113" channelName="湖南教育" startTime="2019-05-21 19:35:00" endTime="2019-05-21 20:00:00" catchedByOperator="" programName="教视新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905212000000" programID="1131905212000000" channelID="113" channelName="湖南教育" startTime="2019-05-21 20:00:00" endTime="2019-05-21 20:30:00" catchedByOperator="" programName="纪录片工厂" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905212030000" programID="1131905212030000" channelID="113" channelName="湖南教育" startTime="2019-05-21 20:30:00" endTime="2019-05-21 21:20:00" catchedByOperator="" programName="伏击(48)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905212120000" programID="1131905212120000" channelID="113" channelName="湖南教育" startTime="2019-05-21 21:20:00" endTime="2019-05-21 22:00:00" catchedByOperator="" programName="伏击(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905212200000" programID="1131905212200000" channelID="113" channelName="湖南教育" startTime="2019-05-21 22:00:00" endTime="2019-05-21 23:40:00" catchedByOperator="" programName="汉语桥世界大学生中文比赛" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905212340000" programID="1131905212340000" channelID="113" channelName="湖南教育" startTime="2019-05-21 23:40:00" endTime="2019-05-22 00:00:00" catchedByOperator="" programName="教视新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1131905220000000" programID="1131905220000000" channelID="113" channelName="湖南教育" startTime="2019-05-22 00:00:00" endTime="2019-05-22 01:00:00" catchedByOperator="" programName="国防教育频道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 00:32:12" endTime="2019-05-22 00:37:32" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="307" channelName="东方卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3071905210032120" programName="东方综艺大赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东方综艺大赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905210207180" programName="梦想改造家20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">梦想改造家20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905210606520" programName="人间世第二季20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">人间世第二季20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905210700520" programName="看东方20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">看东方20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905210901020" programName="潮童天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">潮童天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905210910020" programName="妈妈咪呀20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">妈妈咪呀20190521</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211200020" programName="午间30分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间30分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211226510" programName="海洋预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海洋预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211231380" programName="东方综艺大赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东方综艺大赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211438170" programName="中国式相亲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国式相亲20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211719020" programName="文娱新天地20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文娱新天地20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211748370" programName="诗书画20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">诗书画20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211800020" programName="东方新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东方新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905211932370" programName="我的真朋友(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212021120" programName="我的真朋友(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的真朋友(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212108570" programName="东方看大剧20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东方看大剧20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212123530" programName="忘不了餐厅20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">忘不了餐厅20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212205460" programName="忘不了餐厅后传20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">忘不了餐厅后传20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212227020" programName="航拍上海金山篇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">航拍上海金山篇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212230020" programName="今晚60分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今晚60分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212330020" programName="诗书画20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">诗书画20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905212341070" programName="忘不了餐厅20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">忘不了餐厅20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3071905220020470" programName="忘不了餐厅后传20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">忘不了餐厅后传20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3071905210032120" programID="3071905210032120" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 00:32:12" endTime="2019-05-21 02:07:18" catchedByOperator="" programName="东方综艺大赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905210207180" programID="3071905210207180" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 02:07:18" endTime="2019-05-21 06:06:52" catchedByOperator="" programName="梦想改造家20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905210606520" programID="3071905210606520" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 06:06:52" endTime="2019-05-21 07:00:52" catchedByOperator="" programName="人间世第二季20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905210700520" programID="3071905210700520" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 07:00:52" endTime="2019-05-21 09:01:02" catchedByOperator="" programName="看东方20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905210901020" programID="3071905210901020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 09:01:02" endTime="2019-05-21 09:10:02" catchedByOperator="" programName="潮童天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905210910020" programID="3071905210910020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 09:10:02" endTime="2019-05-21 12:00:02" catchedByOperator="" programName="妈妈咪呀20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211200020" programID="3071905211200020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 12:00:02" endTime="2019-05-21 12:26:51" catchedByOperator="" programName="午间30分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211226510" programID="3071905211226510" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 12:26:51" endTime="2019-05-21 12:31:38" catchedByOperator="" programName="海洋预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211231380" programID="3071905211231380" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 12:31:38" endTime="2019-05-21 14:38:17" catchedByOperator="" programName="东方综艺大赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211438170" programID="3071905211438170" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 14:38:17" endTime="2019-05-21 17:19:02" catchedByOperator="" programName="中国式相亲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211719020" programID="3071905211719020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 17:19:02" endTime="2019-05-21 17:48:37" catchedByOperator="" programName="文娱新天地20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211748370" programID="3071905211748370" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 17:48:37" endTime="2019-05-21 18:00:02" catchedByOperator="" programName="诗书画20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211800020" programID="3071905211800020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 18:00:02" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="东方新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211900000" programID="3071905211900000" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:32:37" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905211932370" programID="3071905211932370" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 19:32:37" endTime="2019-05-21 20:21:12" catchedByOperator="" programName="我的真朋友(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212021120" programID="3071905212021120" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 20:21:12" endTime="2019-05-21 21:08:57" catchedByOperator="" programName="我的真朋友(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212108570" programID="3071905212108570" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 21:08:57" endTime="2019-05-21 21:23:53" catchedByOperator="" programName="东方看大剧20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212123530" programID="3071905212123530" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 21:23:53" endTime="2019-05-21 22:05:46" catchedByOperator="" programName="忘不了餐厅20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212205460" programID="3071905212205460" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 22:05:46" endTime="2019-05-21 22:27:02" catchedByOperator="" programName="忘不了餐厅后传20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212227020" programID="3071905212227020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 22:27:02" endTime="2019-05-21 22:30:02" catchedByOperator="" programName="航拍上海金山篇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212230020" programID="3071905212230020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 22:30:02" endTime="2019-05-21 23:30:02" catchedByOperator="" programName="今晚60分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212330020" programID="3071905212330020" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 23:30:02" endTime="2019-05-21 23:41:07" catchedByOperator="" programName="诗书画20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905212341070" programID="3071905212341070" channelID="307" channelName="东方卫视高清" startTime="2019-05-21 23:41:07" endTime="2019-05-22 00:20:47" catchedByOperator="" programName="忘不了餐厅20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3071905220020470" programID="3071905220020470" channelID="307" channelName="东方卫视高清" startTime="2019-05-22 00:20:47" endTime="2019-05-22 00:37:32" catchedByOperator="" programName="忘不了餐厅后传20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

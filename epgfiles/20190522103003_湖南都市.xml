@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 00:26:37" endTime="2019-05-22 00:27:54" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="104" channelName="湖南都市" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1041905210026370" programName="都市1时间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市1时间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210202280" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210229540" programName="都市晚间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市晚间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210351460" programName="世界大不同" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">世界大不同</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210431300" programName="寻情记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寻情记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210521020" programName="都市晚间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市晚间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210643020" programName="世界大不同" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">世界大不同</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210742430" programName="寻情记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寻情记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905210923590" programName="都市传奇" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市传奇</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211038140" programName="我来露1手" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我来露1手</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211127480" programName="都市气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211128580" programName="我来露1手" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我来露1手</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211138470" programName="都市1时间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市1时间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211254590" programName="长鸿说电影" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">长鸿说电影</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211350320" programName="都市晚间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市晚间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211524360" programName="寻情记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寻情记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211610250" programName="都市气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211611350" programName="寻情记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寻情记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211649590" programName="世界大不同" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">世界大不同</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211753590" programName="都市气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211755090" programName="都市1时间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市1时间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211952120" programName="都市气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905211955000" programName="寻情记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寻情记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905212045490" programName="都市气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905212048200" programName="都市晚间" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市晚间</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905212230120" programName="话山论见" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">话山论见</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905212324340" programName="都市气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1041905212326220" programName="长鸿说电影" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">长鸿说电影</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1041905210026370" programID="1041905210026370" channelID="104" channelName="湖南都市" startTime="2019-05-21 00:26:37" endTime="2019-05-21 02:02:28" catchedByOperator="" programName="都市1时间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210202280" programID="1041905210202280" channelID="104" channelName="湖南都市" startTime="2019-05-21 02:02:28" endTime="2019-05-21 02:29:54" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210229540" programID="1041905210229540" channelID="104" channelName="湖南都市" startTime="2019-05-21 02:29:54" endTime="2019-05-21 03:51:46" catchedByOperator="" programName="都市晚间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210351460" programID="1041905210351460" channelID="104" channelName="湖南都市" startTime="2019-05-21 03:51:46" endTime="2019-05-21 04:31:30" catchedByOperator="" programName="世界大不同" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210431300" programID="1041905210431300" channelID="104" channelName="湖南都市" startTime="2019-05-21 04:31:30" endTime="2019-05-21 05:21:02" catchedByOperator="" programName="寻情记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210521020" programID="1041905210521020" channelID="104" channelName="湖南都市" startTime="2019-05-21 05:21:02" endTime="2019-05-21 06:43:02" catchedByOperator="" programName="都市晚间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210643020" programID="1041905210643020" channelID="104" channelName="湖南都市" startTime="2019-05-21 06:43:02" endTime="2019-05-21 07:42:43" catchedByOperator="" programName="世界大不同" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210742430" programID="1041905210742430" channelID="104" channelName="湖南都市" startTime="2019-05-21 07:42:43" endTime="2019-05-21 09:23:59" catchedByOperator="" programName="寻情记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905210923590" programID="1041905210923590" channelID="104" channelName="湖南都市" startTime="2019-05-21 09:23:59" endTime="2019-05-21 10:38:14" catchedByOperator="" programName="都市传奇" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211038140" programID="1041905211038140" channelID="104" channelName="湖南都市" startTime="2019-05-21 10:38:14" endTime="2019-05-21 11:27:48" catchedByOperator="" programName="我来露1手" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211127480" programID="1041905211127480" channelID="104" channelName="湖南都市" startTime="2019-05-21 11:27:48" endTime="2019-05-21 11:28:58" catchedByOperator="" programName="都市气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211128580" programID="1041905211128580" channelID="104" channelName="湖南都市" startTime="2019-05-21 11:28:58" endTime="2019-05-21 11:38:47" catchedByOperator="" programName="我来露1手" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211138470" programID="1041905211138470" channelID="104" channelName="湖南都市" startTime="2019-05-21 11:38:47" endTime="2019-05-21 12:54:59" catchedByOperator="" programName="都市1时间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211254590" programID="1041905211254590" channelID="104" channelName="湖南都市" startTime="2019-05-21 12:54:59" endTime="2019-05-21 13:50:32" catchedByOperator="" programName="长鸿说电影" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211350320" programID="1041905211350320" channelID="104" channelName="湖南都市" startTime="2019-05-21 13:50:32" endTime="2019-05-21 15:24:36" catchedByOperator="" programName="都市晚间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211524360" programID="1041905211524360" channelID="104" channelName="湖南都市" startTime="2019-05-21 15:24:36" endTime="2019-05-21 16:10:25" catchedByOperator="" programName="寻情记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211610250" programID="1041905211610250" channelID="104" channelName="湖南都市" startTime="2019-05-21 16:10:25" endTime="2019-05-21 16:11:35" catchedByOperator="" programName="都市气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211611350" programID="1041905211611350" channelID="104" channelName="湖南都市" startTime="2019-05-21 16:11:35" endTime="2019-05-21 16:49:59" catchedByOperator="" programName="寻情记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211649590" programID="1041905211649590" channelID="104" channelName="湖南都市" startTime="2019-05-21 16:49:59" endTime="2019-05-21 17:53:59" catchedByOperator="" programName="世界大不同" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211753590" programID="1041905211753590" channelID="104" channelName="湖南都市" startTime="2019-05-21 17:53:59" endTime="2019-05-21 17:55:09" catchedByOperator="" programName="都市气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211755090" programID="1041905211755090" channelID="104" channelName="湖南都市" startTime="2019-05-21 17:55:09" endTime="2019-05-21 19:52:12" catchedByOperator="" programName="都市1时间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211952120" programID="1041905211952120" channelID="104" channelName="湖南都市" startTime="2019-05-21 19:52:12" endTime="2019-05-21 19:55:00" catchedByOperator="" programName="都市气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905211955000" programID="1041905211955000" channelID="104" channelName="湖南都市" startTime="2019-05-21 19:55:00" endTime="2019-05-21 20:45:49" catchedByOperator="" programName="寻情记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905212045490" programID="1041905212045490" channelID="104" channelName="湖南都市" startTime="2019-05-21 20:45:49" endTime="2019-05-21 20:48:20" catchedByOperator="" programName="都市气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905212048200" programID="1041905212048200" channelID="104" channelName="湖南都市" startTime="2019-05-21 20:48:20" endTime="2019-05-21 22:30:12" catchedByOperator="" programName="都市晚间" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905212230120" programID="1041905212230120" channelID="104" channelName="湖南都市" startTime="2019-05-21 22:30:12" endTime="2019-05-21 23:24:34" catchedByOperator="" programName="话山论见" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905212324340" programID="1041905212324340" channelID="104" channelName="湖南都市" startTime="2019-05-21 23:24:34" endTime="2019-05-21 23:26:22" catchedByOperator="" programName="都市气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1041905212326220" programID="1041905212326220" channelID="104" channelName="湖南都市" startTime="2019-05-21 23:26:22" endTime="2019-05-22 00:27:54" catchedByOperator="" programName="长鸿说电影" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

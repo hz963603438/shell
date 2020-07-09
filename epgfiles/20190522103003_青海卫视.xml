@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:47:38" endTime="2019-05-22 01:27:46" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="210" channelName="青海卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2101905210147380" programName="警花与警犬(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210235310" programName="警花与警犬(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210321500" programName="警花与警犬(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210401540" programName="纪录时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210431540" programName="动画片:小王子与土豆仔(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:小王子与土豆仔(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210445100" programName="动画片:小王子与土豆仔(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:小王子与土豆仔(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210458250" programName="动画片:小蜜蜂(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:小蜜蜂(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210505390" programName="昆仑眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">昆仑眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210538090" programName="警花与警犬(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210701140" programName="青海新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青海新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210723140" programName="丝路青海道印象(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">丝路青海道印象(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210737060" programName="纪录时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210814290" programName="薛平贵与王宝钏(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(3)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210855160" programName="薛平贵与王宝钏(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(4)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905210933360" programName="薛平贵与王宝钏(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(5)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211025070" programName="薛平贵与王宝钏(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(6)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211116420" programName="薛平贵与王宝钏(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(7)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211230150" programName="午间360度20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间360度20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211300190" programName="隋唐英雄传(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄传(24)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211404550" programName="隋唐英雄传(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄传(25)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211452530" programName="隋唐英雄传(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄传(26)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211555560" programName="隋唐英雄传(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄传(27)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211657400" programName="动画片:小王子与土豆仔(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:小王子与土豆仔(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211710560" programName="动画片:小王子与土豆仔(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:小王子与土豆仔(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211724120" programName="动画片:小蜜蜂第三季(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:小蜜蜂第三季(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211740100" programName="男生女生上高原第五季20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">男生女生上高原第五季20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211830010" programName="青海新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青海新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211854590" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905211934070" programName="父母爱情(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(15)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905212027480" programName="父母爱情(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情(16)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905212125320" programName="昆仑眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">昆仑眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905212222030" programName="男生女生上高原20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">男生女生上高原20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905212250020" programName="丝路青海道印象(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">丝路青海道印象(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905212300020" programName="晚间播报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间播报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905212352570" programName="警花与警犬(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2101905220054030" programName="警花与警犬(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">警花与警犬(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2101905210147380" programID="2101905210147380" channelID="210" channelName="青海卫视" startTime="2019-05-21 01:47:38" endTime="2019-05-21 02:35:31" catchedByOperator="" programName="警花与警犬(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210235310" programID="2101905210235310" channelID="210" channelName="青海卫视" startTime="2019-05-21 02:35:31" endTime="2019-05-21 03:21:50" catchedByOperator="" programName="警花与警犬(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210321500" programID="2101905210321500" channelID="210" channelName="青海卫视" startTime="2019-05-21 03:21:50" endTime="2019-05-21 04:01:54" catchedByOperator="" programName="警花与警犬(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210401540" programID="2101905210401540" channelID="210" channelName="青海卫视" startTime="2019-05-21 04:01:54" endTime="2019-05-21 04:31:54" catchedByOperator="" programName="纪录时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210431540" programID="2101905210431540" channelID="210" channelName="青海卫视" startTime="2019-05-21 04:31:54" endTime="2019-05-21 04:45:10" catchedByOperator="" programName="动画片:小王子与土豆仔(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210445100" programID="2101905210445100" channelID="210" channelName="青海卫视" startTime="2019-05-21 04:45:10" endTime="2019-05-21 04:58:25" catchedByOperator="" programName="动画片:小王子与土豆仔(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210458250" programID="2101905210458250" channelID="210" channelName="青海卫视" startTime="2019-05-21 04:58:25" endTime="2019-05-21 05:05:39" catchedByOperator="" programName="动画片:小蜜蜂(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210505390" programID="2101905210505390" channelID="210" channelName="青海卫视" startTime="2019-05-21 05:05:39" endTime="2019-05-21 05:38:09" catchedByOperator="" programName="昆仑眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210538090" programID="2101905210538090" channelID="210" channelName="青海卫视" startTime="2019-05-21 05:38:09" endTime="2019-05-21 07:01:14" catchedByOperator="" programName="警花与警犬(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210701140" programID="2101905210701140" channelID="210" channelName="青海卫视" startTime="2019-05-21 07:01:14" endTime="2019-05-21 07:23:14" catchedByOperator="" programName="青海新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210723140" programID="2101905210723140" channelID="210" channelName="青海卫视" startTime="2019-05-21 07:23:14" endTime="2019-05-21 07:37:06" catchedByOperator="" programName="丝路青海道印象(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210737060" programID="2101905210737060" channelID="210" channelName="青海卫视" startTime="2019-05-21 07:37:06" endTime="2019-05-21 08:14:29" catchedByOperator="" programName="纪录时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210814290" programID="2101905210814290" channelID="210" channelName="青海卫视" startTime="2019-05-21 08:14:29" endTime="2019-05-21 08:55:16" catchedByOperator="" programName="薛平贵与王宝钏(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210855160" programID="2101905210855160" channelID="210" channelName="青海卫视" startTime="2019-05-21 08:55:16" endTime="2019-05-21 09:33:36" catchedByOperator="" programName="薛平贵与王宝钏(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905210933360" programID="2101905210933360" channelID="210" channelName="青海卫视" startTime="2019-05-21 09:33:36" endTime="2019-05-21 10:25:07" catchedByOperator="" programName="薛平贵与王宝钏(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211025070" programID="2101905211025070" channelID="210" channelName="青海卫视" startTime="2019-05-21 10:25:07" endTime="2019-05-21 11:16:42" catchedByOperator="" programName="薛平贵与王宝钏(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211116420" programID="2101905211116420" channelID="210" channelName="青海卫视" startTime="2019-05-21 11:16:42" endTime="2019-05-21 12:30:15" catchedByOperator="" programName="薛平贵与王宝钏(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211230150" programID="2101905211230150" channelID="210" channelName="青海卫视" startTime="2019-05-21 12:30:15" endTime="2019-05-21 13:00:19" catchedByOperator="" programName="午间360度20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211300190" programID="2101905211300190" channelID="210" channelName="青海卫视" startTime="2019-05-21 13:00:19" endTime="2019-05-21 14:04:55" catchedByOperator="" programName="隋唐英雄传(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211404550" programID="2101905211404550" channelID="210" channelName="青海卫视" startTime="2019-05-21 14:04:55" endTime="2019-05-21 14:52:53" catchedByOperator="" programName="隋唐英雄传(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211452530" programID="2101905211452530" channelID="210" channelName="青海卫视" startTime="2019-05-21 14:52:53" endTime="2019-05-21 15:55:56" catchedByOperator="" programName="隋唐英雄传(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211555560" programID="2101905211555560" channelID="210" channelName="青海卫视" startTime="2019-05-21 15:55:56" endTime="2019-05-21 16:57:40" catchedByOperator="" programName="隋唐英雄传(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211657400" programID="2101905211657400" channelID="210" channelName="青海卫视" startTime="2019-05-21 16:57:40" endTime="2019-05-21 17:10:56" catchedByOperator="" programName="动画片:小王子与土豆仔(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211710560" programID="2101905211710560" channelID="210" channelName="青海卫视" startTime="2019-05-21 17:10:56" endTime="2019-05-21 17:24:12" catchedByOperator="" programName="动画片:小王子与土豆仔(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211724120" programID="2101905211724120" channelID="210" channelName="青海卫视" startTime="2019-05-21 17:24:12" endTime="2019-05-21 17:40:10" catchedByOperator="" programName="动画片:小蜜蜂第三季(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211740100" programID="2101905211740100" channelID="210" channelName="青海卫视" startTime="2019-05-21 17:40:10" endTime="2019-05-21 18:30:01" catchedByOperator="" programName="男生女生上高原第五季20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211830010" programID="2101905211830010" channelID="210" channelName="青海卫视" startTime="2019-05-21 18:30:01" endTime="2019-05-21 18:54:59" catchedByOperator="" programName="青海新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211854590" programID="2101905211854590" channelID="210" channelName="青海卫视" startTime="2019-05-21 18:54:59" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211900000" programID="2101905211900000" channelID="210" channelName="青海卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:34:07" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905211934070" programID="2101905211934070" channelID="210" channelName="青海卫视" startTime="2019-05-21 19:34:07" endTime="2019-05-21 20:27:48" catchedByOperator="" programName="父母爱情(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905212027480" programID="2101905212027480" channelID="210" channelName="青海卫视" startTime="2019-05-21 20:27:48" endTime="2019-05-21 21:25:32" catchedByOperator="" programName="父母爱情(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905212125320" programID="2101905212125320" channelID="210" channelName="青海卫视" startTime="2019-05-21 21:25:32" endTime="2019-05-21 22:22:03" catchedByOperator="" programName="昆仑眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905212222030" programID="2101905212222030" channelID="210" channelName="青海卫视" startTime="2019-05-21 22:22:03" endTime="2019-05-21 22:50:02" catchedByOperator="" programName="男生女生上高原20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905212250020" programID="2101905212250020" channelID="210" channelName="青海卫视" startTime="2019-05-21 22:50:02" endTime="2019-05-21 23:00:02" catchedByOperator="" programName="丝路青海道印象(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905212300020" programID="2101905212300020" channelID="210" channelName="青海卫视" startTime="2019-05-21 23:00:02" endTime="2019-05-21 23:52:57" catchedByOperator="" programName="晚间播报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905212352570" programID="2101905212352570" channelID="210" channelName="青海卫视" startTime="2019-05-21 23:52:57" endTime="2019-05-22 00:54:03" catchedByOperator="" programName="警花与警犬(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2101905220054030" programID="2101905220054030" channelID="210" channelName="青海卫视" startTime="2019-05-22 00:54:03" endTime="2019-05-22 01:27:46" catchedByOperator="" programName="警花与警犬(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:04" startTime="2019-05-21 01:00:58" endTime="2019-05-22 01:37:41" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="322" channelName="黑龙江卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3221905210100580" programName="门当户对20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">门当户对20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210245130" programName="劳动最光荣20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">劳动最光荣20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210326030" programName="这就是黑龙江20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">这就是黑龙江20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210338180" programName="见字如面第二季20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">见字如面第二季20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210427360" programName="左轮手枪20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">左轮手枪20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210600030" programName="三农进行时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">三农进行时20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210615240" programName="晨光天气20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晨光天气20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210617560" programName="共度晨光20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">共度晨光20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210655370" programName="晨光天气20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晨光天气20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210701360" programName="黎明前的抉择20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明前的抉择20190521</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210755440" programName="动画片:中华美德故事20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:中华美德故事20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905210820210" programName="黎明前的抉择1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明前的抉择1</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211133210" programName="黎明前的抉择2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明前的抉择2</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211446210" programName="黎明前的抉择3" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明前的抉择3</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211800380" programName="新华视点20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新华视点20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211827340" programName="于硕说天气20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">于硕说天气20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211830030" programName="全省新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全省新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211855590" programName="于硕说天气20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">于硕说天气20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905211935100" programName="铁核桃(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁核桃(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905212025220" programName="铁核桃(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁核桃(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905212122480" programName="幸福驿站20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福驿站20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905212217520" programName="沉默20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">沉默20190521</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905220027130" programName="中国梦纪录片展播20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国梦纪录片展播20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3221905220056530" programName="幸福驿站20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福驿站20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3221905210100580" programID="3221905210100580" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 01:00:58" endTime="2019-05-21 02:45:13" catchedByOperator="" programName="门当户对20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210245130" programID="3221905210245130" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 02:45:13" endTime="2019-05-21 03:26:03" catchedByOperator="" programName="劳动最光荣20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210326030" programID="3221905210326030" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 03:26:03" endTime="2019-05-21 03:38:18" catchedByOperator="" programName="这就是黑龙江20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210338180" programID="3221905210338180" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 03:38:18" endTime="2019-05-21 04:27:36" catchedByOperator="" programName="见字如面第二季20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210427360" programID="3221905210427360" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 04:27:36" endTime="2019-05-21 06:00:03" catchedByOperator="" programName="左轮手枪20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210600030" programID="3221905210600030" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 06:00:03" endTime="2019-05-21 06:15:24" catchedByOperator="" programName="三农进行时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210615240" programID="3221905210615240" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 06:15:24" endTime="2019-05-21 06:17:56" catchedByOperator="" programName="晨光天气20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210617560" programID="3221905210617560" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 06:17:56" endTime="2019-05-21 06:55:37" catchedByOperator="" programName="共度晨光20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210655370" programID="3221905210655370" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 06:55:37" endTime="2019-05-21 07:01:36" catchedByOperator="" programName="晨光天气20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210701360" programID="3221905210701360" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 07:01:36" endTime="2019-05-21 07:55:44" catchedByOperator="" programName="黎明前的抉择20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210755440" programID="3221905210755440" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 07:55:44" endTime="2019-05-21 08:20:21" catchedByOperator="" programName="动画片:中华美德故事20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905210820210" programID="3221905210820210" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 08:20:21" endTime="2019-05-21 11:33:21" catchedByOperator="" programName="黎明前的抉择1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211133210" programID="3221905211133210" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 11:33:21" endTime="2019-05-21 14:46:21" catchedByOperator="" programName="黎明前的抉择2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211446210" programID="3221905211446210" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 14:46:21" endTime="2019-05-21 18:00:38" catchedByOperator="" programName="黎明前的抉择3" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211800380" programID="3221905211800380" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 18:00:38" endTime="2019-05-21 18:27:34" catchedByOperator="" programName="新华视点20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211827340" programID="3221905211827340" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 18:27:34" endTime="2019-05-21 18:30:03" catchedByOperator="" programName="于硕说天气20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211830030" programID="3221905211830030" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 18:30:03" endTime="2019-05-21 18:55:59" catchedByOperator="" programName="全省新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211855590" programID="3221905211855590" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 18:55:59" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="于硕说天气20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211900000" programID="3221905211900000" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:35:10" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905211935100" programID="3221905211935100" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 19:35:10" endTime="2019-05-21 20:25:22" catchedByOperator="" programName="铁核桃(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905212025220" programID="3221905212025220" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 20:25:22" endTime="2019-05-21 21:22:48" catchedByOperator="" programName="铁核桃(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905212122480" programID="3221905212122480" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 21:22:48" endTime="2019-05-21 22:17:52" catchedByOperator="" programName="幸福驿站20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905212217520" programID="3221905212217520" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-21 22:17:52" endTime="2019-05-22 00:27:13" catchedByOperator="" programName="沉默20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905220027130" programID="3221905220027130" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-22 00:27:13" endTime="2019-05-22 00:56:53" catchedByOperator="" programName="中国梦纪录片展播20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3221905220056530" programID="3221905220056530" channelID="322" channelName="黑龙江卫视高清" startTime="2019-05-22 00:56:53" endTime="2019-05-22 01:37:41" catchedByOperator="" programName="幸福驿站20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

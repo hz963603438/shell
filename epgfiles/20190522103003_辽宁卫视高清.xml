@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:10:49" endTime="2019-05-22 00:57:58" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="323" channelName="辽宁卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3231905210110490" programName="圆月弯刀20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">圆月弯刀20190521</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210245330" programName="欢乐集结号20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐集结号20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210341480" programName="反贪神捕20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">反贪神捕20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210539130" programName="黑土地20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黑土地20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210630080" programName="第1时间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">第1时间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210730080" programName="辽宁新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">辽宁新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210756080" programName="奇幻科学城20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">奇幻科学城20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210847430" programName="女人的村庄(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">女人的村庄(4)</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210921360" programName="妙手怪医郑一毛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">妙手怪医郑一毛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905210946020" programName="女人的村庄(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">女人的村庄(5)</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211054330" programName="女人的村庄(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">女人的村庄(6)</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211200080" programName="说天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">说天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211300080" programName="海洋预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海洋预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211325180" programName="薛平贵与王宝钏(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(40)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211423040" programName="薛平贵与王宝钏(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(41)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211518140" programName="薛平贵与王宝钏(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(42)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211603440" programName="薛平贵与王宝钏(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">薛平贵与王宝钏(43)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211637090" programName="腰突治疗仪接骨治腰突20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">腰突治疗仪接骨治腰突20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211658540" programName="欢乐集结号20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐集结号20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211753380" programName="风物辽宁20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">风物辽宁20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211820190" programName="品牌辽宁20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">品牌辽宁20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211825230" programName="气象资讯20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">气象资讯20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211830080" programName="辽宁新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">辽宁新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211857330" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905211933560" programName="好久不见(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好久不见(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905212021320" programName="好久不见(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好久不见(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905212112140" programName="有请主角儿20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">有请主角儿20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905212159490" programName="射雕英雄传续集20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">射雕英雄传续集20190521</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3231905212356380" programName="记住乡愁第二季(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3231905210110490" programID="3231905210110490" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 01:10:49" endTime="2019-05-21 02:45:33" catchedByOperator="" programName="圆月弯刀20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210245330" programID="3231905210245330" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 02:45:33" endTime="2019-05-21 03:41:48" catchedByOperator="" programName="欢乐集结号20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210341480" programID="3231905210341480" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 03:41:48" endTime="2019-05-21 05:39:13" catchedByOperator="" programName="反贪神捕20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210539130" programID="3231905210539130" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 05:39:13" endTime="2019-05-21 06:30:08" catchedByOperator="" programName="黑土地20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210630080" programID="3231905210630080" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 06:30:08" endTime="2019-05-21 07:30:08" catchedByOperator="" programName="第1时间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210730080" programID="3231905210730080" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 07:30:08" endTime="2019-05-21 07:56:08" catchedByOperator="" programName="辽宁新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210756080" programID="3231905210756080" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 07:56:08" endTime="2019-05-21 08:47:43" catchedByOperator="" programName="奇幻科学城20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210847430" programID="3231905210847430" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 08:47:43" endTime="2019-05-21 09:21:36" catchedByOperator="" programName="女人的村庄(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210921360" programID="3231905210921360" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 09:21:36" endTime="2019-05-21 09:46:02" catchedByOperator="" programName="妙手怪医郑一毛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905210946020" programID="3231905210946020" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 09:46:02" endTime="2019-05-21 10:54:33" catchedByOperator="" programName="女人的村庄(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211054330" programID="3231905211054330" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 10:54:33" endTime="2019-05-21 12:00:08" catchedByOperator="" programName="女人的村庄(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211200080" programID="3231905211200080" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 12:00:08" endTime="2019-05-21 13:00:08" catchedByOperator="" programName="说天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211300080" programID="3231905211300080" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 13:00:08" endTime="2019-05-21 13:25:18" catchedByOperator="" programName="海洋预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211325180" programID="3231905211325180" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 13:25:18" endTime="2019-05-21 14:23:04" catchedByOperator="" programName="薛平贵与王宝钏(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211423040" programID="3231905211423040" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 14:23:04" endTime="2019-05-21 15:18:14" catchedByOperator="" programName="薛平贵与王宝钏(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211518140" programID="3231905211518140" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 15:18:14" endTime="2019-05-21 16:03:44" catchedByOperator="" programName="薛平贵与王宝钏(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211603440" programID="3231905211603440" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 16:03:44" endTime="2019-05-21 16:37:09" catchedByOperator="" programName="薛平贵与王宝钏(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211637090" programID="3231905211637090" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 16:37:09" endTime="2019-05-21 16:58:54" catchedByOperator="" programName="腰突治疗仪接骨治腰突20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211658540" programID="3231905211658540" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 16:58:54" endTime="2019-05-21 17:53:38" catchedByOperator="" programName="欢乐集结号20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211753380" programID="3231905211753380" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 17:53:38" endTime="2019-05-21 18:20:19" catchedByOperator="" programName="风物辽宁20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211820190" programID="3231905211820190" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 18:20:19" endTime="2019-05-21 18:25:23" catchedByOperator="" programName="品牌辽宁20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211825230" programID="3231905211825230" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 18:25:23" endTime="2019-05-21 18:30:08" catchedByOperator="" programName="气象资讯20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211830080" programID="3231905211830080" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 18:30:08" endTime="2019-05-21 18:57:33" catchedByOperator="" programName="辽宁新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211857330" programID="3231905211857330" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 18:57:33" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211900000" programID="3231905211900000" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:33:56" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905211933560" programID="3231905211933560" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 19:33:56" endTime="2019-05-21 20:21:32" catchedByOperator="" programName="好久不见(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905212021320" programID="3231905212021320" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 20:21:32" endTime="2019-05-21 21:12:14" catchedByOperator="" programName="好久不见(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905212112140" programID="3231905212112140" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 21:12:14" endTime="2019-05-21 21:59:49" catchedByOperator="" programName="有请主角儿20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905212159490" programID="3231905212159490" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 21:59:49" endTime="2019-05-21 23:56:38" catchedByOperator="" programName="射雕英雄传续集20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3231905212356380" programID="3231905212356380" channelID="323" channelName="辽宁卫视高清" startTime="2019-05-21 23:56:38" endTime="2019-05-22 00:57:58" catchedByOperator="" programName="记住乡愁第二季(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

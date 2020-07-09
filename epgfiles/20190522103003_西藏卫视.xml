@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:44:08" endTime="2019-05-22 01:04:31" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="215" channelName="西藏卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2151905210144080" programName="生命之歌(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生命之歌(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210231390" programName="西藏诱惑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏诱惑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210302410" programName="社会主义核心价值观20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">社会主义核心价值观20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210306030" programName="重播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">重播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210336340" programName="西藏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210407000" programName="天堑1949(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天堑1949(20)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210453320" programName="天堑1949(21)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天堑1949(21)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210540350" programName="天堑1949(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天堑1949(22)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210628020" programName="西藏诱惑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏诱惑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210700000" programName="中华人民共和国国歌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华人民共和国国歌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210706090" programName="天堑1949(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天堑1949(23)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210753270" programName="高原新闻眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">高原新闻眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210817270" programName="跟我学藏语20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跟我学藏语20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210830070" programName="西藏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210903070" programName="勇敢的心(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905210958200" programName="勇敢的心(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211055020" programName="社会主义核心价值观20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">社会主义核心价值观20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211101580" programName="勇敢的心(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211158180" programName="勇敢的心(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">勇敢的心(35)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211300060" programName="午间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211316550" programName="七色风20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">七色风20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211349560" programName="跟我学藏语20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跟我学藏语20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211401200" programName="出关(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">出关(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211500060" programName="午间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211523340" programName="出关(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">出关(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211620410" programName="出关(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">出关(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211718240" programName="出关(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">出关(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211813450" programName="跟我学藏语20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">跟我学藏语20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211826540" programName="邦锦梅朵:零捌学糖20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">邦锦梅朵:零捌学糖20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905211930390" programName="西藏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212001240" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212009380" programName="都市情感系列之二香樟树(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市情感系列之二香樟树(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212100230" programName="都市情感系列之二香樟树(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市情感系列之二香樟树(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212152290" programName="西藏诱惑20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏诱惑20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212222570" programName="晚间气象服务20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间气象服务20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212230070" programName="西藏新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">西藏新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212258410" programName="高原新闻眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">高原新闻眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905212324390" programName="刀影(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">刀影(5)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905220011550" programName="刀影(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">刀影(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2151905220059260" programName="社会主义核心价值观20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">社会主义核心价值观20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2151905210144080" programID="2151905210144080" channelID="215" channelName="西藏卫视" startTime="2019-05-21 01:44:08" endTime="2019-05-21 02:31:39" catchedByOperator="" programName="生命之歌(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210231390" programID="2151905210231390" channelID="215" channelName="西藏卫视" startTime="2019-05-21 02:31:39" endTime="2019-05-21 03:02:41" catchedByOperator="" programName="西藏诱惑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210302410" programID="2151905210302410" channelID="215" channelName="西藏卫视" startTime="2019-05-21 03:02:41" endTime="2019-05-21 03:06:03" catchedByOperator="" programName="社会主义核心价值观20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210306030" programID="2151905210306030" channelID="215" channelName="西藏卫视" startTime="2019-05-21 03:06:03" endTime="2019-05-21 03:36:34" catchedByOperator="" programName="重播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210336340" programID="2151905210336340" channelID="215" channelName="西藏卫视" startTime="2019-05-21 03:36:34" endTime="2019-05-21 04:07:00" catchedByOperator="" programName="西藏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210407000" programID="2151905210407000" channelID="215" channelName="西藏卫视" startTime="2019-05-21 04:07:00" endTime="2019-05-21 04:53:32" catchedByOperator="" programName="天堑1949(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210453320" programID="2151905210453320" channelID="215" channelName="西藏卫视" startTime="2019-05-21 04:53:32" endTime="2019-05-21 05:40:35" catchedByOperator="" programName="天堑1949(21)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210540350" programID="2151905210540350" channelID="215" channelName="西藏卫视" startTime="2019-05-21 05:40:35" endTime="2019-05-21 06:28:02" catchedByOperator="" programName="天堑1949(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210628020" programID="2151905210628020" channelID="215" channelName="西藏卫视" startTime="2019-05-21 06:28:02" endTime="2019-05-21 07:00:00" catchedByOperator="" programName="西藏诱惑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210700000" programID="2151905210700000" channelID="215" channelName="西藏卫视" startTime="2019-05-21 07:00:00" endTime="2019-05-21 07:06:09" catchedByOperator="" programName="中华人民共和国国歌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210706090" programID="2151905210706090" channelID="215" channelName="西藏卫视" startTime="2019-05-21 07:06:09" endTime="2019-05-21 07:53:27" catchedByOperator="" programName="天堑1949(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210753270" programID="2151905210753270" channelID="215" channelName="西藏卫视" startTime="2019-05-21 07:53:27" endTime="2019-05-21 08:17:27" catchedByOperator="" programName="高原新闻眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210817270" programID="2151905210817270" channelID="215" channelName="西藏卫视" startTime="2019-05-21 08:17:27" endTime="2019-05-21 08:30:07" catchedByOperator="" programName="跟我学藏语20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210830070" programID="2151905210830070" channelID="215" channelName="西藏卫视" startTime="2019-05-21 08:30:07" endTime="2019-05-21 09:03:07" catchedByOperator="" programName="西藏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210903070" programID="2151905210903070" channelID="215" channelName="西藏卫视" startTime="2019-05-21 09:03:07" endTime="2019-05-21 09:58:20" catchedByOperator="" programName="勇敢的心(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905210958200" programID="2151905210958200" channelID="215" channelName="西藏卫视" startTime="2019-05-21 09:58:20" endTime="2019-05-21 10:55:02" catchedByOperator="" programName="勇敢的心(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211055020" programID="2151905211055020" channelID="215" channelName="西藏卫视" startTime="2019-05-21 10:55:02" endTime="2019-05-21 11:01:58" catchedByOperator="" programName="社会主义核心价值观20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211101580" programID="2151905211101580" channelID="215" channelName="西藏卫视" startTime="2019-05-21 11:01:58" endTime="2019-05-21 11:58:18" catchedByOperator="" programName="勇敢的心(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211158180" programID="2151905211158180" channelID="215" channelName="西藏卫视" startTime="2019-05-21 11:58:18" endTime="2019-05-21 13:00:06" catchedByOperator="" programName="勇敢的心(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211300060" programID="2151905211300060" channelID="215" channelName="西藏卫视" startTime="2019-05-21 13:00:06" endTime="2019-05-21 13:16:55" catchedByOperator="" programName="午间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211316550" programID="2151905211316550" channelID="215" channelName="西藏卫视" startTime="2019-05-21 13:16:55" endTime="2019-05-21 13:49:56" catchedByOperator="" programName="七色风20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211349560" programID="2151905211349560" channelID="215" channelName="西藏卫视" startTime="2019-05-21 13:49:56" endTime="2019-05-21 14:01:20" catchedByOperator="" programName="跟我学藏语20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211401200" programID="2151905211401200" channelID="215" channelName="西藏卫视" startTime="2019-05-21 14:01:20" endTime="2019-05-21 15:00:06" catchedByOperator="" programName="出关(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211500060" programID="2151905211500060" channelID="215" channelName="西藏卫视" startTime="2019-05-21 15:00:06" endTime="2019-05-21 15:23:34" catchedByOperator="" programName="午间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211523340" programID="2151905211523340" channelID="215" channelName="西藏卫视" startTime="2019-05-21 15:23:34" endTime="2019-05-21 16:20:41" catchedByOperator="" programName="出关(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211620410" programID="2151905211620410" channelID="215" channelName="西藏卫视" startTime="2019-05-21 16:20:41" endTime="2019-05-21 17:18:24" catchedByOperator="" programName="出关(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211718240" programID="2151905211718240" channelID="215" channelName="西藏卫视" startTime="2019-05-21 17:18:24" endTime="2019-05-21 18:13:45" catchedByOperator="" programName="出关(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211813450" programID="2151905211813450" channelID="215" channelName="西藏卫视" startTime="2019-05-21 18:13:45" endTime="2019-05-21 18:26:54" catchedByOperator="" programName="跟我学藏语20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211826540" programID="2151905211826540" channelID="215" channelName="西藏卫视" startTime="2019-05-21 18:26:54" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="邦锦梅朵:零捌学糖20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211900000" programID="2151905211900000" channelID="215" channelName="西藏卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:30:39" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905211930390" programID="2151905211930390" channelID="215" channelName="西藏卫视" startTime="2019-05-21 19:30:39" endTime="2019-05-21 20:01:24" catchedByOperator="" programName="西藏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212001240" programID="2151905212001240" channelID="215" channelName="西藏卫视" startTime="2019-05-21 20:01:24" endTime="2019-05-21 20:09:38" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212009380" programID="2151905212009380" channelID="215" channelName="西藏卫视" startTime="2019-05-21 20:09:38" endTime="2019-05-21 21:00:23" catchedByOperator="" programName="都市情感系列之二香樟树(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212100230" programID="2151905212100230" channelID="215" channelName="西藏卫视" startTime="2019-05-21 21:00:23" endTime="2019-05-21 21:52:29" catchedByOperator="" programName="都市情感系列之二香樟树(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212152290" programID="2151905212152290" channelID="215" channelName="西藏卫视" startTime="2019-05-21 21:52:29" endTime="2019-05-21 22:22:57" catchedByOperator="" programName="西藏诱惑20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212222570" programID="2151905212222570" channelID="215" channelName="西藏卫视" startTime="2019-05-21 22:22:57" endTime="2019-05-21 22:30:07" catchedByOperator="" programName="晚间气象服务20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212230070" programID="2151905212230070" channelID="215" channelName="西藏卫视" startTime="2019-05-21 22:30:07" endTime="2019-05-21 22:58:41" catchedByOperator="" programName="西藏新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212258410" programID="2151905212258410" channelID="215" channelName="西藏卫视" startTime="2019-05-21 22:58:41" endTime="2019-05-21 23:24:39" catchedByOperator="" programName="高原新闻眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905212324390" programID="2151905212324390" channelID="215" channelName="西藏卫视" startTime="2019-05-21 23:24:39" endTime="2019-05-22 00:11:55" catchedByOperator="" programName="刀影(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905220011550" programID="2151905220011550" channelID="215" channelName="西藏卫视" startTime="2019-05-22 00:11:55" endTime="2019-05-22 00:59:26" catchedByOperator="" programName="刀影(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2151905220059260" programID="2151905220059260" channelID="215" channelName="西藏卫视" startTime="2019-05-22 00:59:26" endTime="2019-05-22 01:04:31" catchedByOperator="" programName="社会主义核心价值观20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>
