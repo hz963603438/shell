@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:44:05" endTime="2019-05-22 01:44:18" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="218" channelName="贵州卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2181905210144050" programName="我的抗战之猎豹突击(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战之猎豹突击(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210217210" programName="我的抗战之猎豹突击(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战之猎豹突击(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210250160" programName="记住乡愁第二季(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210318190" programName="记住乡愁第二季(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210346220" programName="退休好生活20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">退休好生活20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210415490" programName="詹姆士de厨房20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">詹姆士de厨房20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210450510" programName="我的抗战之猎豹突击(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战之猎豹突击(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210522230" programName="我的抗战之猎豹突击(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战之猎豹突击(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210606170" programName="记住乡愁第二季(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(43)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210634380" programName="贵州新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">贵州新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210700000" programName="中华人民共和国国歌20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中华人民共和国国歌20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210715050" programName="节目欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">节目欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210737550" programName="决战江桥(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">决战江桥(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210809240" programName="美丽人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽人生20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210849170" programName="决战江桥(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">决战江桥(43)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905210932390" programName="决战江桥(44)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">决战江桥(44)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211015110" programName="决战江桥(45)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">决战江桥(45)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211055440" programName="决战江桥(46)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">决战江桥(46)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211144270" programName="退休好生活20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">退休好生活20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211215290" programName="致富有道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">致富有道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211230290" programName="气象快讯20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">气象快讯20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211235140" programName="新大头儿子和小头爸爸第三季(211)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第三季(211)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211246470" programName="新大头儿子和小头爸爸第三季(212)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新大头儿子和小头爸爸第三季(212)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211301450" programName="烈火刀影(48)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">烈火刀影(48)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211333130" programName="美丽人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽人生20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211406430" programName="烈火刀影(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">烈火刀影(49)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211438180" programName="美丽星时尚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽星时尚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211511270" programName="烈火刀影(50)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">烈火刀影(50)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211556210" programName="烈火刀影(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">烈火刀影(51)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211637080" programName="烈火刀影(52)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">烈火刀影(52)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211722130" programName="医生开讲20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">医生开讲20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211759570" programName="新闻延长线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻延长线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211829580" programName="贵州新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">贵州新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905211936490" programName="战天狼(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战天狼(31)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905212029440" programName="战天狼(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战天狼(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905212127020" programName="詹姆士de厨房20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">詹姆士de厨房20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905212219260" programName="铁齿铜牙纪晓岚(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁齿铜牙纪晓岚(28)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905212254270" programName="铁齿铜牙纪晓岚(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁齿铜牙纪晓岚(29)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905220000120" programName="贵州新闻联播20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">贵州新闻联播20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905220028120" programName="我的抗战之猎豹突击(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战之猎豹突击(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2181905220110590" programName="我的抗战之猎豹突击(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的抗战之猎豹突击(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2181905210144050" programID="2181905210144050" channelID="218" channelName="贵州卫视" startTime="2019-05-21 01:44:05" endTime="2019-05-21 02:17:21" catchedByOperator="" programName="我的抗战之猎豹突击(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210217210" programID="2181905210217210" channelID="218" channelName="贵州卫视" startTime="2019-05-21 02:17:21" endTime="2019-05-21 02:50:16" catchedByOperator="" programName="我的抗战之猎豹突击(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210250160" programID="2181905210250160" channelID="218" channelName="贵州卫视" startTime="2019-05-21 02:50:16" endTime="2019-05-21 03:18:19" catchedByOperator="" programName="记住乡愁第二季(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210318190" programID="2181905210318190" channelID="218" channelName="贵州卫视" startTime="2019-05-21 03:18:19" endTime="2019-05-21 03:46:22" catchedByOperator="" programName="记住乡愁第二季(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210346220" programID="2181905210346220" channelID="218" channelName="贵州卫视" startTime="2019-05-21 03:46:22" endTime="2019-05-21 04:15:49" catchedByOperator="" programName="退休好生活20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210415490" programID="2181905210415490" channelID="218" channelName="贵州卫视" startTime="2019-05-21 04:15:49" endTime="2019-05-21 04:50:51" catchedByOperator="" programName="詹姆士de厨房20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210450510" programID="2181905210450510" channelID="218" channelName="贵州卫视" startTime="2019-05-21 04:50:51" endTime="2019-05-21 05:22:23" catchedByOperator="" programName="我的抗战之猎豹突击(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210522230" programID="2181905210522230" channelID="218" channelName="贵州卫视" startTime="2019-05-21 05:22:23" endTime="2019-05-21 06:06:17" catchedByOperator="" programName="我的抗战之猎豹突击(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210606170" programID="2181905210606170" channelID="218" channelName="贵州卫视" startTime="2019-05-21 06:06:17" endTime="2019-05-21 06:34:38" catchedByOperator="" programName="记住乡愁第二季(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210634380" programID="2181905210634380" channelID="218" channelName="贵州卫视" startTime="2019-05-21 06:34:38" endTime="2019-05-21 07:00:00" catchedByOperator="" programName="贵州新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210700000" programID="2181905210700000" channelID="218" channelName="贵州卫视" startTime="2019-05-21 07:00:00" endTime="2019-05-21 07:15:05" catchedByOperator="" programName="中华人民共和国国歌20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210715050" programID="2181905210715050" channelID="218" channelName="贵州卫视" startTime="2019-05-21 07:15:05" endTime="2019-05-21 07:37:55" catchedByOperator="" programName="节目欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210737550" programID="2181905210737550" channelID="218" channelName="贵州卫视" startTime="2019-05-21 07:37:55" endTime="2019-05-21 08:09:24" catchedByOperator="" programName="决战江桥(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210809240" programID="2181905210809240" channelID="218" channelName="贵州卫视" startTime="2019-05-21 08:09:24" endTime="2019-05-21 08:49:17" catchedByOperator="" programName="美丽人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210849170" programID="2181905210849170" channelID="218" channelName="贵州卫视" startTime="2019-05-21 08:49:17" endTime="2019-05-21 09:32:39" catchedByOperator="" programName="决战江桥(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905210932390" programID="2181905210932390" channelID="218" channelName="贵州卫视" startTime="2019-05-21 09:32:39" endTime="2019-05-21 10:15:11" catchedByOperator="" programName="决战江桥(44)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211015110" programID="2181905211015110" channelID="218" channelName="贵州卫视" startTime="2019-05-21 10:15:11" endTime="2019-05-21 10:55:44" catchedByOperator="" programName="决战江桥(45)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211055440" programID="2181905211055440" channelID="218" channelName="贵州卫视" startTime="2019-05-21 10:55:44" endTime="2019-05-21 11:44:27" catchedByOperator="" programName="决战江桥(46)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211144270" programID="2181905211144270" channelID="218" channelName="贵州卫视" startTime="2019-05-21 11:44:27" endTime="2019-05-21 12:15:29" catchedByOperator="" programName="退休好生活20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211215290" programID="2181905211215290" channelID="218" channelName="贵州卫视" startTime="2019-05-21 12:15:29" endTime="2019-05-21 12:30:29" catchedByOperator="" programName="致富有道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211230290" programID="2181905211230290" channelID="218" channelName="贵州卫视" startTime="2019-05-21 12:30:29" endTime="2019-05-21 12:35:14" catchedByOperator="" programName="气象快讯20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211235140" programID="2181905211235140" channelID="218" channelName="贵州卫视" startTime="2019-05-21 12:35:14" endTime="2019-05-21 12:46:47" catchedByOperator="" programName="新大头儿子和小头爸爸第三季(211)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211246470" programID="2181905211246470" channelID="218" channelName="贵州卫视" startTime="2019-05-21 12:46:47" endTime="2019-05-21 13:01:45" catchedByOperator="" programName="新大头儿子和小头爸爸第三季(212)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211301450" programID="2181905211301450" channelID="218" channelName="贵州卫视" startTime="2019-05-21 13:01:45" endTime="2019-05-21 13:33:13" catchedByOperator="" programName="烈火刀影(48)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211333130" programID="2181905211333130" channelID="218" channelName="贵州卫视" startTime="2019-05-21 13:33:13" endTime="2019-05-21 14:06:43" catchedByOperator="" programName="美丽人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211406430" programID="2181905211406430" channelID="218" channelName="贵州卫视" startTime="2019-05-21 14:06:43" endTime="2019-05-21 14:38:18" catchedByOperator="" programName="烈火刀影(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211438180" programID="2181905211438180" channelID="218" channelName="贵州卫视" startTime="2019-05-21 14:38:18" endTime="2019-05-21 15:11:27" catchedByOperator="" programName="美丽星时尚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211511270" programID="2181905211511270" channelID="218" channelName="贵州卫视" startTime="2019-05-21 15:11:27" endTime="2019-05-21 15:56:21" catchedByOperator="" programName="烈火刀影(50)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211556210" programID="2181905211556210" channelID="218" channelName="贵州卫视" startTime="2019-05-21 15:56:21" endTime="2019-05-21 16:37:08" catchedByOperator="" programName="烈火刀影(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211637080" programID="2181905211637080" channelID="218" channelName="贵州卫视" startTime="2019-05-21 16:37:08" endTime="2019-05-21 17:22:13" catchedByOperator="" programName="烈火刀影(52)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211722130" programID="2181905211722130" channelID="218" channelName="贵州卫视" startTime="2019-05-21 17:22:13" endTime="2019-05-21 17:59:57" catchedByOperator="" programName="医生开讲20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211759570" programID="2181905211759570" channelID="218" channelName="贵州卫视" startTime="2019-05-21 17:59:57" endTime="2019-05-21 18:29:58" catchedByOperator="" programName="新闻延长线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211829580" programID="2181905211829580" channelID="218" channelName="贵州卫视" startTime="2019-05-21 18:29:58" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="贵州新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211900000" programID="2181905211900000" channelID="218" channelName="贵州卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:36:49" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905211936490" programID="2181905211936490" channelID="218" channelName="贵州卫视" startTime="2019-05-21 19:36:49" endTime="2019-05-21 20:29:44" catchedByOperator="" programName="战天狼(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905212029440" programID="2181905212029440" channelID="218" channelName="贵州卫视" startTime="2019-05-21 20:29:44" endTime="2019-05-21 21:27:02" catchedByOperator="" programName="战天狼(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905212127020" programID="2181905212127020" channelID="218" channelName="贵州卫视" startTime="2019-05-21 21:27:02" endTime="2019-05-21 22:19:26" catchedByOperator="" programName="詹姆士de厨房20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905212219260" programID="2181905212219260" channelID="218" channelName="贵州卫视" startTime="2019-05-21 22:19:26" endTime="2019-05-21 22:54:27" catchedByOperator="" programName="铁齿铜牙纪晓岚(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905212254270" programID="2181905212254270" channelID="218" channelName="贵州卫视" startTime="2019-05-21 22:54:27" endTime="2019-05-22 00:00:12" catchedByOperator="" programName="铁齿铜牙纪晓岚(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905220000120" programID="2181905220000120" channelID="218" channelName="贵州卫视" startTime="2019-05-22 00:00:12" endTime="2019-05-22 00:28:12" catchedByOperator="" programName="贵州新闻联播20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905220028120" programID="2181905220028120" channelID="218" channelName="贵州卫视" startTime="2019-05-22 00:28:12" endTime="2019-05-22 01:10:59" catchedByOperator="" programName="我的抗战之猎豹突击(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2181905220110590" programID="2181905220110590" channelID="218" channelName="贵州卫视" startTime="2019-05-22 01:10:59" endTime="2019-05-22 01:44:18" catchedByOperator="" programName="我的抗战之猎豹突击(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

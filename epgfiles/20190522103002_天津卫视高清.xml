@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:45:54" endTime="2019-05-22 01:50:48" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="325" channelName="天津卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3251905210145540" programName="鸡毛飞上天(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鸡毛飞上天(29)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210239500" programName="鸡毛飞上天(30)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鸡毛飞上天(30)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210322010" programName="非你莫属20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">非你莫属20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210426590" programName="幸福来敲门20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福来敲门20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210505580" programName="鸡毛飞上天(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鸡毛飞上天(31)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210559370" programName="鸡毛飞上天(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鸡毛飞上天(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210700510" programName="津晨播报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">津晨播报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210730470" programName="永远的战友(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">永远的战友(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210805010" programName="永远的战友(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">永远的战友(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210854490" programName="永远的战友(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">永远的战友(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905210956310" programName="永远的战友(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">永远的战友(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211059300" programName="永远的战友(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">永远的战友(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211200020" programName="12点报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">12点报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211227080" programName="午间旅游气象20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午间旅游气象20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211235480" programName="娘亲舅大(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211322160" programName="娘亲舅大(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211420280" programName="铁血武工队传奇(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁血武工队传奇(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211519420" programName="铁血武工队传奇(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁血武工队传奇(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211618120" programName="铁血武工队传奇(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁血武工队传奇(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211718230" programName="铁血武工队传奇(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁血武工队传奇(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211739240" programName="精彩人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩人生20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211802590" programName="大家说理20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大家说理20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211830030" programName="天津新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天津新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211855580" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905211933180" programName="娘亲舅大(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212029250" programName="娘亲舅大(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娘亲舅大(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212120530" programName="大剧天下先20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大剧天下先20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212125230" programName="幸福来敲门20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福来敲门20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212205180" programName="爱情保卫战20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">爱情保卫战20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212310030" programName="晚间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212330030" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905212332340" programName="美丽人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽人生20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905220003280" programName="鸡毛飞上天(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鸡毛飞上天(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3251905220057240" programName="鸡毛飞上天(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鸡毛飞上天(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3251905210145540" programID="3251905210145540" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 01:45:54" endTime="2019-05-21 02:39:50" catchedByOperator="" programName="鸡毛飞上天(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210239500" programID="3251905210239500" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 02:39:50" endTime="2019-05-21 03:22:01" catchedByOperator="" programName="鸡毛飞上天(30)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210322010" programID="3251905210322010" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 03:22:01" endTime="2019-05-21 04:26:59" catchedByOperator="" programName="非你莫属20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210426590" programID="3251905210426590" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 04:26:59" endTime="2019-05-21 05:05:58" catchedByOperator="" programName="幸福来敲门20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210505580" programID="3251905210505580" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 05:05:58" endTime="2019-05-21 05:59:37" catchedByOperator="" programName="鸡毛飞上天(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210559370" programID="3251905210559370" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 05:59:37" endTime="2019-05-21 07:00:51" catchedByOperator="" programName="鸡毛飞上天(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210700510" programID="3251905210700510" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 07:00:51" endTime="2019-05-21 07:30:47" catchedByOperator="" programName="津晨播报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210730470" programID="3251905210730470" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 07:30:47" endTime="2019-05-21 08:05:01" catchedByOperator="" programName="永远的战友(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210805010" programID="3251905210805010" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 08:05:01" endTime="2019-05-21 08:54:49" catchedByOperator="" programName="永远的战友(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210854490" programID="3251905210854490" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 08:54:49" endTime="2019-05-21 09:56:31" catchedByOperator="" programName="永远的战友(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905210956310" programID="3251905210956310" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 09:56:31" endTime="2019-05-21 10:59:30" catchedByOperator="" programName="永远的战友(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211059300" programID="3251905211059300" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 10:59:30" endTime="2019-05-21 12:00:02" catchedByOperator="" programName="永远的战友(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211200020" programID="3251905211200020" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 12:00:02" endTime="2019-05-21 12:27:08" catchedByOperator="" programName="12点报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211227080" programID="3251905211227080" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 12:27:08" endTime="2019-05-21 12:35:48" catchedByOperator="" programName="午间旅游气象20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211235480" programID="3251905211235480" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 12:35:48" endTime="2019-05-21 13:22:16" catchedByOperator="" programName="娘亲舅大(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211322160" programID="3251905211322160" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 13:22:16" endTime="2019-05-21 14:20:28" catchedByOperator="" programName="娘亲舅大(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211420280" programID="3251905211420280" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 14:20:28" endTime="2019-05-21 15:19:42" catchedByOperator="" programName="铁血武工队传奇(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211519420" programID="3251905211519420" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 15:19:42" endTime="2019-05-21 16:18:12" catchedByOperator="" programName="铁血武工队传奇(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211618120" programID="3251905211618120" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 16:18:12" endTime="2019-05-21 17:18:23" catchedByOperator="" programName="铁血武工队传奇(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211718230" programID="3251905211718230" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 17:18:23" endTime="2019-05-21 17:39:24" catchedByOperator="" programName="铁血武工队传奇(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211739240" programID="3251905211739240" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 17:39:24" endTime="2019-05-21 18:02:59" catchedByOperator="" programName="精彩人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211802590" programID="3251905211802590" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 18:02:59" endTime="2019-05-21 18:30:03" catchedByOperator="" programName="大家说理20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211830030" programID="3251905211830030" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 18:30:03" endTime="2019-05-21 18:55:58" catchedByOperator="" programName="天津新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211855580" programID="3251905211855580" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 18:55:58" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211900000" programID="3251905211900000" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:33:18" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905211933180" programID="3251905211933180" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 19:33:18" endTime="2019-05-21 20:29:25" catchedByOperator="" programName="娘亲舅大(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212029250" programID="3251905212029250" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 20:29:25" endTime="2019-05-21 21:20:53" catchedByOperator="" programName="娘亲舅大(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212120530" programID="3251905212120530" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 21:20:53" endTime="2019-05-21 21:25:23" catchedByOperator="" programName="大剧天下先20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212125230" programID="3251905212125230" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 21:25:23" endTime="2019-05-21 22:05:18" catchedByOperator="" programName="幸福来敲门20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212205180" programID="3251905212205180" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 22:05:18" endTime="2019-05-21 23:10:03" catchedByOperator="" programName="爱情保卫战20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212310030" programID="3251905212310030" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 23:10:03" endTime="2019-05-21 23:30:03" catchedByOperator="" programName="晚间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212330030" programID="3251905212330030" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 23:30:03" endTime="2019-05-21 23:32:34" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905212332340" programID="3251905212332340" channelID="325" channelName="天津卫视高清" startTime="2019-05-21 23:32:34" endTime="2019-05-22 00:03:28" catchedByOperator="" programName="美丽人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905220003280" programID="3251905220003280" channelID="325" channelName="天津卫视高清" startTime="2019-05-22 00:03:28" endTime="2019-05-22 00:57:24" catchedByOperator="" programName="鸡毛飞上天(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3251905220057240" programID="3251905220057240" channelID="325" channelName="天津卫视高清" startTime="2019-05-22 00:57:24" endTime="2019-05-22 01:50:48" catchedByOperator="" programName="鸡毛飞上天(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

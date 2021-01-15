@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:47:48" endTime="2019-05-22 01:52:10" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="106" channelName="湖南电视剧" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1061905210147480" programName="黎明破晓前(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210225440" programName="黎明破晓前(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210308080" programName="黎明破晓前(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210356120" programName="情定三生(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情定三生(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210440030" programName="情定三生(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情定三生(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210530040" programName="四千金(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(31)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210553040" programName="四千金(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(32)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210616350" programName="四千金(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(33)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210659400" programName="四千金(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(34)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210747520" programName="黎明破晓前(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210821530" programName="黎明破晓前(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905210926020" programName="黎明破晓前(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211015490" programName="黎明破晓前(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211120200" programName="黎明破晓前(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211216050" programName="剧精彩" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧精彩</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211226290" programName="法网追凶(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法网追凶(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211343090" programName="四千金(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(35)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211410250" programName="四千金(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(36)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211437300" programName="四千金(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(37)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211503570" programName="四千金(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">四千金(38)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211600170" programName="情定三生(41)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情定三生(41)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211650110" programName="情定三生(42)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情定三生(42)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211744100" programName="忘情歌(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">忘情歌(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211825530" programName="忘情歌(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">忘情歌(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211922440" programName="剧精彩" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧精彩</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905211926300" programName="黎明破晓前(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905212019110" programName="黎明破晓前(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905212121580" programName="黎明破晓前(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905212207400" programName="黎明破晓前(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905212312540" programName="法网追凶(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法网追凶(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905220018060" programName="天天气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天天气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905220020530" programName="黎明破晓前(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1061905220116160" programName="黎明破晓前(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">黎明破晓前(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1061905210147480" programID="1061905210147480" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 01:47:48" endTime="2019-05-21 02:25:44" catchedByOperator="" programName="黎明破晓前(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210225440" programID="1061905210225440" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 02:25:44" endTime="2019-05-21 03:08:08" catchedByOperator="" programName="黎明破晓前(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210308080" programID="1061905210308080" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 03:08:08" endTime="2019-05-21 03:56:12" catchedByOperator="" programName="黎明破晓前(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210356120" programID="1061905210356120" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 03:56:12" endTime="2019-05-21 04:40:03" catchedByOperator="" programName="情定三生(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210440030" programID="1061905210440030" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 04:40:03" endTime="2019-05-21 05:30:04" catchedByOperator="" programName="情定三生(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210530040" programID="1061905210530040" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 05:30:04" endTime="2019-05-21 05:53:04" catchedByOperator="" programName="四千金(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210553040" programID="1061905210553040" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 05:53:04" endTime="2019-05-21 06:16:35" catchedByOperator="" programName="四千金(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210616350" programID="1061905210616350" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 06:16:35" endTime="2019-05-21 06:59:40" catchedByOperator="" programName="四千金(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210659400" programID="1061905210659400" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 06:59:40" endTime="2019-05-21 07:47:52" catchedByOperator="" programName="四千金(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210747520" programID="1061905210747520" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 07:47:52" endTime="2019-05-21 08:21:53" catchedByOperator="" programName="黎明破晓前(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210821530" programID="1061905210821530" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 08:21:53" endTime="2019-05-21 09:26:02" catchedByOperator="" programName="黎明破晓前(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905210926020" programID="1061905210926020" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 09:26:02" endTime="2019-05-21 10:15:49" catchedByOperator="" programName="黎明破晓前(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211015490" programID="1061905211015490" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 10:15:49" endTime="2019-05-21 11:20:20" catchedByOperator="" programName="黎明破晓前(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211120200" programID="1061905211120200" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 11:20:20" endTime="2019-05-21 12:16:05" catchedByOperator="" programName="黎明破晓前(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211216050" programID="1061905211216050" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 12:16:05" endTime="2019-05-21 12:26:29" catchedByOperator="" programName="剧精彩" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211226290" programID="1061905211226290" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 12:26:29" endTime="2019-05-21 13:43:09" catchedByOperator="" programName="法网追凶(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211343090" programID="1061905211343090" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 13:43:09" endTime="2019-05-21 14:10:25" catchedByOperator="" programName="四千金(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211410250" programID="1061905211410250" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 14:10:25" endTime="2019-05-21 14:37:30" catchedByOperator="" programName="四千金(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211437300" programID="1061905211437300" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 14:37:30" endTime="2019-05-21 15:03:57" catchedByOperator="" programName="四千金(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211503570" programID="1061905211503570" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 15:03:57" endTime="2019-05-21 16:00:17" catchedByOperator="" programName="四千金(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211600170" programID="1061905211600170" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 16:00:17" endTime="2019-05-21 16:50:11" catchedByOperator="" programName="情定三生(41)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211650110" programID="1061905211650110" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 16:50:11" endTime="2019-05-21 17:44:10" catchedByOperator="" programName="情定三生(42)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211744100" programID="1061905211744100" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 17:44:10" endTime="2019-05-21 18:25:53" catchedByOperator="" programName="忘情歌(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211825530" programID="1061905211825530" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 18:25:53" endTime="2019-05-21 19:22:44" catchedByOperator="" programName="忘情歌(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211922440" programID="1061905211922440" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 19:22:44" endTime="2019-05-21 19:26:30" catchedByOperator="" programName="剧精彩" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905211926300" programID="1061905211926300" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 19:26:30" endTime="2019-05-21 20:19:11" catchedByOperator="" programName="黎明破晓前(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905212019110" programID="1061905212019110" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 20:19:11" endTime="2019-05-21 21:21:58" catchedByOperator="" programName="黎明破晓前(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905212121580" programID="1061905212121580" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 21:21:58" endTime="2019-05-21 22:07:40" catchedByOperator="" programName="黎明破晓前(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905212207400" programID="1061905212207400" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 22:07:40" endTime="2019-05-21 23:12:54" catchedByOperator="" programName="黎明破晓前(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905212312540" programID="1061905212312540" channelID="106" channelName="湖南电视剧" startTime="2019-05-21 23:12:54" endTime="2019-05-22 00:18:06" catchedByOperator="" programName="法网追凶(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905220018060" programID="1061905220018060" channelID="106" channelName="湖南电视剧" startTime="2019-05-22 00:18:06" endTime="2019-05-22 00:20:53" catchedByOperator="" programName="天天气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905220020530" programID="1061905220020530" channelID="106" channelName="湖南电视剧" startTime="2019-05-22 00:20:53" endTime="2019-05-22 01:16:16" catchedByOperator="" programName="黎明破晓前(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1061905220116160" programID="1061905220116160" channelID="106" channelName="湖南电视剧" startTime="2019-05-22 01:16:16" endTime="2019-05-22 01:52:10" catchedByOperator="" programName="黎明破晓前(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

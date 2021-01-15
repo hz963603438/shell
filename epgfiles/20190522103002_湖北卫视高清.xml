@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:05:20" endTime="2019-05-22 01:57:57" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="326" channelName="湖北卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3261905210105200" programName="智者无敌(30)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">智者无敌(30)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210202180" programName="杀寇决(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杀寇决(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210300020" programName="杀寇决(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杀寇决(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210342220" programName="记住乡愁第二季(47)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(47)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210412230" programName="记住乡愁第二季(48)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(48)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210442220" programName="杀寇决(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杀寇决(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210540220" programName="杀寇决(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杀寇决(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210634510" programName="大揭秘" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大揭秘</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210701060" programName="湖北新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖北新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210723430" programName="记住乡愁第一季(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第一季(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210755060" programName="天生我财" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天生我财</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210834010" programName="我的特一营(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的特一营(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905210923210" programName="我的特一营(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的特一营(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211013510" programName="我的特一营(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的特一营(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211103260" programName="我的特一营(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的特一营(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211150060" programName="天生我财午间道" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天生我财午间道</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211233060" programName="义者无敌(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">义者无敌(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211322560" programName="义者无敌(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">义者无敌(35)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211414020" programName="义者无敌(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">义者无敌(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211505410" programName="义者无敌(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">义者无敌(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211553570" programName="义者无敌(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">义者无敌(38)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211640060" programName="天生我财吾股丰登" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天生我财吾股丰登</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211750060" programName="饮食养生汇" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">饮食养生汇</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211830070" programName="湖北新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖北新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211855310" programName="天气预报" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211900000" programName="转播中央台新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905211935590" programName="猎豺狼(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猎豺狼(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905212031280" programName="猎豺狼(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猎豺狼(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905212122210" programName="大王小王之身边英雄" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大王小王之身边英雄</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905212200060" programName="童声朗朗" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">童声朗朗</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905212300070" programName="长江新闻号" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">长江新闻号</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905220008270" programName="杀寇决(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杀寇决(5)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3261905220103080" programName="杀寇决(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">杀寇决(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3261905210105200" programID="3261905210105200" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 01:05:20" endTime="2019-05-21 02:02:18" catchedByOperator="" programName="智者无敌(30)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210202180" programID="3261905210202180" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 02:02:18" endTime="2019-05-21 03:00:02" catchedByOperator="" programName="杀寇决(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210300020" programID="3261905210300020" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 03:00:02" endTime="2019-05-21 03:42:22" catchedByOperator="" programName="杀寇决(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210342220" programID="3261905210342220" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 03:42:22" endTime="2019-05-21 04:12:23" catchedByOperator="" programName="记住乡愁第二季(47)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210412230" programID="3261905210412230" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 04:12:23" endTime="2019-05-21 04:42:22" catchedByOperator="" programName="记住乡愁第二季(48)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210442220" programID="3261905210442220" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 04:42:22" endTime="2019-05-21 05:40:22" catchedByOperator="" programName="杀寇决(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210540220" programID="3261905210540220" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 05:40:22" endTime="2019-05-21 06:34:51" catchedByOperator="" programName="杀寇决(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210634510" programID="3261905210634510" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 06:34:51" endTime="2019-05-21 07:01:06" catchedByOperator="" programName="大揭秘" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210701060" programID="3261905210701060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 07:01:06" endTime="2019-05-21 07:23:43" catchedByOperator="" programName="湖北新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210723430" programID="3261905210723430" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 07:23:43" endTime="2019-05-21 07:55:06" catchedByOperator="" programName="记住乡愁第一季(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210755060" programID="3261905210755060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 07:55:06" endTime="2019-05-21 08:34:01" catchedByOperator="" programName="天生我财" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210834010" programID="3261905210834010" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 08:34:01" endTime="2019-05-21 09:23:21" catchedByOperator="" programName="我的特一营(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905210923210" programID="3261905210923210" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 09:23:21" endTime="2019-05-21 10:13:51" catchedByOperator="" programName="我的特一营(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211013510" programID="3261905211013510" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 10:13:51" endTime="2019-05-21 11:03:26" catchedByOperator="" programName="我的特一营(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211103260" programID="3261905211103260" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 11:03:26" endTime="2019-05-21 11:50:06" catchedByOperator="" programName="我的特一营(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211150060" programID="3261905211150060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 11:50:06" endTime="2019-05-21 12:33:06" catchedByOperator="" programName="天生我财午间道" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211233060" programID="3261905211233060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 12:33:06" endTime="2019-05-21 13:22:56" catchedByOperator="" programName="义者无敌(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211322560" programID="3261905211322560" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 13:22:56" endTime="2019-05-21 14:14:02" catchedByOperator="" programName="义者无敌(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211414020" programID="3261905211414020" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 14:14:02" endTime="2019-05-21 15:05:41" catchedByOperator="" programName="义者无敌(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211505410" programID="3261905211505410" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 15:05:41" endTime="2019-05-21 15:53:57" catchedByOperator="" programName="义者无敌(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211553570" programID="3261905211553570" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 15:53:57" endTime="2019-05-21 16:40:06" catchedByOperator="" programName="义者无敌(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211640060" programID="3261905211640060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 16:40:06" endTime="2019-05-21 17:50:06" catchedByOperator="" programName="天生我财吾股丰登" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211750060" programID="3261905211750060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 17:50:06" endTime="2019-05-21 18:30:07" catchedByOperator="" programName="饮食养生汇" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211830070" programID="3261905211830070" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 18:30:07" endTime="2019-05-21 18:55:31" catchedByOperator="" programName="湖北新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211855310" programID="3261905211855310" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 18:55:31" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="天气预报" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211900000" programID="3261905211900000" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:35:59" catchedByOperator="" programName="转播中央台新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905211935590" programID="3261905211935590" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 19:35:59" endTime="2019-05-21 20:31:28" catchedByOperator="" programName="猎豺狼(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905212031280" programID="3261905212031280" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 20:31:28" endTime="2019-05-21 21:22:21" catchedByOperator="" programName="猎豺狼(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905212122210" programID="3261905212122210" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 21:22:21" endTime="2019-05-21 22:00:06" catchedByOperator="" programName="大王小王之身边英雄" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905212200060" programID="3261905212200060" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 22:00:06" endTime="2019-05-21 23:00:07" catchedByOperator="" programName="童声朗朗" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905212300070" programID="3261905212300070" channelID="326" channelName="湖北卫视高清" startTime="2019-05-21 23:00:07" endTime="2019-05-22 00:08:27" catchedByOperator="" programName="长江新闻号" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905220008270" programID="3261905220008270" channelID="326" channelName="湖北卫视高清" startTime="2019-05-22 00:08:27" endTime="2019-05-22 01:03:08" catchedByOperator="" programName="杀寇决(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3261905220103080" programID="3261905220103080" channelID="326" channelName="湖北卫视高清" startTime="2019-05-22 01:03:08" endTime="2019-05-22 01:57:57" catchedByOperator="" programName="杀寇决(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

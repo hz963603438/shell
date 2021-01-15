@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:30:58" endTime="2019-05-22 01:30:58" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="222" channelName="吉林卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2221905210130580" programName="绝命后卫师(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210205590" programName="绝命后卫师(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210235580" programName="绝命后卫师(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(35)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210310580" programName="绝命后卫师(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210347040" programName="一个鬼子都不留之四太行英雄传(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一个鬼子都不留之四太行英雄传(49)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210422030" programName="一个鬼子都不留之四太行英雄传(50)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一个鬼子都不留之四太行英雄传(50)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210457040" programName="一个鬼子都不留之四太行英雄传(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一个鬼子都不留之四太行英雄传(51)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210557040" programName="身边发现20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">身边发现20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210600040" programName="吉林新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">吉林新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210630030" programName="新闻早报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻早报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210721440" programName="姥姥的饺子馆(45)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">姥姥的饺子馆(45)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210823140" programName="姥姥的饺子馆(46)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">姥姥的饺子馆(46)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210853140" programName="生命与科学20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生命与科学20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905210915180" programName="野山鹰(49)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(49)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211008190" programName="野山鹰(50)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(50)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211100490" programName="野山鹰(51)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">野山鹰(51)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211153190" programName="战将(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战将(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211244190" programName="身边发现20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">身边发现20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211248040" programName="卫视气象站20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卫视气象站20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211254130" programName="战地枪王(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战地枪王(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211346330" programName="战地枪王(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战地枪王(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211438240" programName="战地枪王(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战地枪王(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211530330" programName="战地枪王(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战地枪王(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211623250" programName="超级伊仔20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级伊仔20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211633240" programName="嘿我知道了20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">嘿我知道了20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211653240" programName="欢乐送20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐送20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211802140" programName="情动十分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">情动十分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211819130" programName="身边发现20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">身边发现20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211822330" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211830030" programName="吉林新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">吉林新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905211933490" programName="面具(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">面具(29)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212025070" programName="面具(30)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">面具(30)</MetaData>
+                <MetaData mdUID="3">惊险/侦探</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212113490" programName="家事20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">家事20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212222320" programName="欢乐送20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐送20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212236040" programName="身边发现20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">身边发现20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212239140" programName="欢乐送20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欢乐送20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212245420" programName="美人帮20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美人帮20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212315570" programName="今晚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">今晚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905212345570" programName="开心十分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">开心十分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2221905220025580" programName="绝命后卫师(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2221905210130580" programID="2221905210130580" channelID="222" channelName="吉林卫视" startTime="2019-05-21 01:30:58" endTime="2019-05-21 02:05:59" catchedByOperator="" programName="绝命后卫师(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210205590" programID="2221905210205590" channelID="222" channelName="吉林卫视" startTime="2019-05-21 02:05:59" endTime="2019-05-21 02:35:58" catchedByOperator="" programName="绝命后卫师(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210235580" programID="2221905210235580" channelID="222" channelName="吉林卫视" startTime="2019-05-21 02:35:58" endTime="2019-05-21 03:10:58" catchedByOperator="" programName="绝命后卫师(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210310580" programID="2221905210310580" channelID="222" channelName="吉林卫视" startTime="2019-05-21 03:10:58" endTime="2019-05-21 03:47:04" catchedByOperator="" programName="绝命后卫师(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210347040" programID="2221905210347040" channelID="222" channelName="吉林卫视" startTime="2019-05-21 03:47:04" endTime="2019-05-21 04:22:03" catchedByOperator="" programName="一个鬼子都不留之四太行英雄传(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210422030" programID="2221905210422030" channelID="222" channelName="吉林卫视" startTime="2019-05-21 04:22:03" endTime="2019-05-21 04:57:04" catchedByOperator="" programName="一个鬼子都不留之四太行英雄传(50)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210457040" programID="2221905210457040" channelID="222" channelName="吉林卫视" startTime="2019-05-21 04:57:04" endTime="2019-05-21 05:57:04" catchedByOperator="" programName="一个鬼子都不留之四太行英雄传(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210557040" programID="2221905210557040" channelID="222" channelName="吉林卫视" startTime="2019-05-21 05:57:04" endTime="2019-05-21 06:00:04" catchedByOperator="" programName="身边发现20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210600040" programID="2221905210600040" channelID="222" channelName="吉林卫视" startTime="2019-05-21 06:00:04" endTime="2019-05-21 06:30:03" catchedByOperator="" programName="吉林新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210630030" programID="2221905210630030" channelID="222" channelName="吉林卫视" startTime="2019-05-21 06:30:03" endTime="2019-05-21 07:21:44" catchedByOperator="" programName="新闻早报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210721440" programID="2221905210721440" channelID="222" channelName="吉林卫视" startTime="2019-05-21 07:21:44" endTime="2019-05-21 08:23:14" catchedByOperator="" programName="姥姥的饺子馆(45)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210823140" programID="2221905210823140" channelID="222" channelName="吉林卫视" startTime="2019-05-21 08:23:14" endTime="2019-05-21 08:53:14" catchedByOperator="" programName="姥姥的饺子馆(46)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210853140" programID="2221905210853140" channelID="222" channelName="吉林卫视" startTime="2019-05-21 08:53:14" endTime="2019-05-21 09:15:18" catchedByOperator="" programName="生命与科学20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905210915180" programID="2221905210915180" channelID="222" channelName="吉林卫视" startTime="2019-05-21 09:15:18" endTime="2019-05-21 10:08:19" catchedByOperator="" programName="野山鹰(49)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211008190" programID="2221905211008190" channelID="222" channelName="吉林卫视" startTime="2019-05-21 10:08:19" endTime="2019-05-21 11:00:49" catchedByOperator="" programName="野山鹰(50)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211100490" programID="2221905211100490" channelID="222" channelName="吉林卫视" startTime="2019-05-21 11:00:49" endTime="2019-05-21 11:53:19" catchedByOperator="" programName="野山鹰(51)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211153190" programID="2221905211153190" channelID="222" channelName="吉林卫视" startTime="2019-05-21 11:53:19" endTime="2019-05-21 12:44:19" catchedByOperator="" programName="战将(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211244190" programID="2221905211244190" channelID="222" channelName="吉林卫视" startTime="2019-05-21 12:44:19" endTime="2019-05-21 12:48:04" catchedByOperator="" programName="身边发现20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211248040" programID="2221905211248040" channelID="222" channelName="吉林卫视" startTime="2019-05-21 12:48:04" endTime="2019-05-21 12:54:13" catchedByOperator="" programName="卫视气象站20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211254130" programID="2221905211254130" channelID="222" channelName="吉林卫视" startTime="2019-05-21 12:54:13" endTime="2019-05-21 13:46:33" catchedByOperator="" programName="战地枪王(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211346330" programID="2221905211346330" channelID="222" channelName="吉林卫视" startTime="2019-05-21 13:46:33" endTime="2019-05-21 14:38:24" catchedByOperator="" programName="战地枪王(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211438240" programID="2221905211438240" channelID="222" channelName="吉林卫视" startTime="2019-05-21 14:38:24" endTime="2019-05-21 15:30:33" catchedByOperator="" programName="战地枪王(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211530330" programID="2221905211530330" channelID="222" channelName="吉林卫视" startTime="2019-05-21 15:30:33" endTime="2019-05-21 16:23:25" catchedByOperator="" programName="战地枪王(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211623250" programID="2221905211623250" channelID="222" channelName="吉林卫视" startTime="2019-05-21 16:23:25" endTime="2019-05-21 16:33:24" catchedByOperator="" programName="超级伊仔20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211633240" programID="2221905211633240" channelID="222" channelName="吉林卫视" startTime="2019-05-21 16:33:24" endTime="2019-05-21 16:53:24" catchedByOperator="" programName="嘿我知道了20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211653240" programID="2221905211653240" channelID="222" channelName="吉林卫视" startTime="2019-05-21 16:53:24" endTime="2019-05-21 18:02:14" catchedByOperator="" programName="欢乐送20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211802140" programID="2221905211802140" channelID="222" channelName="吉林卫视" startTime="2019-05-21 18:02:14" endTime="2019-05-21 18:19:13" catchedByOperator="" programName="情动十分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211819130" programID="2221905211819130" channelID="222" channelName="吉林卫视" startTime="2019-05-21 18:19:13" endTime="2019-05-21 18:22:33" catchedByOperator="" programName="身边发现20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211822330" programID="2221905211822330" channelID="222" channelName="吉林卫视" startTime="2019-05-21 18:22:33" endTime="2019-05-21 18:30:03" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211830030" programID="2221905211830030" channelID="222" channelName="吉林卫视" startTime="2019-05-21 18:30:03" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="吉林新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211900000" programID="2221905211900000" channelID="222" channelName="吉林卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:33:49" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905211933490" programID="2221905211933490" channelID="222" channelName="吉林卫视" startTime="2019-05-21 19:33:49" endTime="2019-05-21 20:25:07" catchedByOperator="" programName="面具(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212025070" programID="2221905212025070" channelID="222" channelName="吉林卫视" startTime="2019-05-21 20:25:07" endTime="2019-05-21 21:13:49" catchedByOperator="" programName="面具(30)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212113490" programID="2221905212113490" channelID="222" channelName="吉林卫视" startTime="2019-05-21 21:13:49" endTime="2019-05-21 22:22:32" catchedByOperator="" programName="家事20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212222320" programID="2221905212222320" channelID="222" channelName="吉林卫视" startTime="2019-05-21 22:22:32" endTime="2019-05-21 22:36:04" catchedByOperator="" programName="欢乐送20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212236040" programID="2221905212236040" channelID="222" channelName="吉林卫视" startTime="2019-05-21 22:36:04" endTime="2019-05-21 22:39:14" catchedByOperator="" programName="身边发现20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212239140" programID="2221905212239140" channelID="222" channelName="吉林卫视" startTime="2019-05-21 22:39:14" endTime="2019-05-21 22:45:42" catchedByOperator="" programName="欢乐送20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212245420" programID="2221905212245420" channelID="222" channelName="吉林卫视" startTime="2019-05-21 22:45:42" endTime="2019-05-21 23:15:57" catchedByOperator="" programName="美人帮20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212315570" programID="2221905212315570" channelID="222" channelName="吉林卫视" startTime="2019-05-21 23:15:57" endTime="2019-05-21 23:45:57" catchedByOperator="" programName="今晚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905212345570" programID="2221905212345570" channelID="222" channelName="吉林卫视" startTime="2019-05-21 23:45:57" endTime="2019-05-22 00:25:58" catchedByOperator="" programName="开心十分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2221905220025580" programID="2221905220025580" channelID="222" channelName="吉林卫视" startTime="2019-05-22 00:25:58" endTime="2019-05-22 01:30:58" catchedByOperator="" programName="绝命后卫师(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

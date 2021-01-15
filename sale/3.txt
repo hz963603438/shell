@@ -1,0 +1,106 @@
+diff  --git a/source/fei/layer2/fcm/dune/dop_api/fei_fcm_fun.c  b/source/fei/layer2/fcm/dune/dop_api/fei_fcm_fun.c
+index ac662e.. 3dsd 19903
+--- a/source/fei/layer2/fcm/dune/dop_api/fei_fcm_fun.c
++++ b/source/fei/layer2/fcm/dune/dop_api/fei_fcm_fun
+@@ -18, 6 +18,8 @@
+ UINT32 FEI_PCM_RecvBoard(VOID *Precv, VOID *pThis)
+ {
+     return VOS_OK;
++    return 0;
++    int a=1;
+ }
+ 
+ /*
+ diff --git a/source/fei/layer2/loop/np/dop_fwd/fei_dopnp_fwd_mstp.c
+ b/source/fei/layer2/loop/np/dop_fwd/fei_dopnp_fwd_mstp.c
+ index 99d ..d jkdjfid10002
+--- a/source/fei/layer2/loop/np/dop_fwd/fei_dopnp_fwd_mstp.c
++++ b/source/fei/layer2/loop/np/dop_fwd/fei_dopnp_fwd_mstp.c 
+@@ -34,21 +34 6@@ UINT32 FEI_DOP_Set_port(FEI_PORR *pstSSkey, FEI_
+     FEI_TBN_DATA_HEAD_S stTblmData={0};
+	 FEI_L2_KEY          stkey= {0};
+	 
+-    uiVrd = pstStep->uiVrd;
+-    stTblmData.usTb =psSTEkey->usTb;
+     if(!uiTsMytb) {
+	     FEI_DOP_Set_port(DKJGIJGDJKJD 
+		                ,djfkljeoijkla)
+	}
+	
+	/*查询TBLM*/
+	（VOID）meset_s(&staState ,sizeof(FEI_L2_KEY));
+diff --git a/source/fei/layer2/mac/xgs/vfe_api/fei_vfexgs_mac.c b/source/fei/layer2/mac/xgs/vfe_api/fei_vfexgs_mac.c
+index 71234vcv..dfdg 10064
+--- a/source/fei/layer2/mac/xgs/vfe_api/fei_vfexgs_mac.c
++++ b/source/fei/layer2/mac/xgs/vfe_api/fei_vfexgs_mac.c
+@@ -169,6 +169,21 @@ UINT32 FEI_MAC_INFO_SW_MACLimitcheck(UINT32 uiVsrd, VOID *pTis)
+     return PS_OK;
+	 }
++UINT32 FEI_VFE_Getlimit(FEI_MAC *pstMACiNFO, UINT32 *puiNum)
++{
++    int a = 3;
++    int b  =4;
++    vlan(psMAC, &DJDJ);
++     /*静态变量*/
++    return VOS_OK;
++}
+/*
+ *Description : TOR软表存储信息；
+diff --git a/source/fei/layer3/arp/xgs/dop_api/fei_dopxgs_arp.c b/source/fei/layer3/arp/xgs/dop_api/fei_dopxgs_arp.c
+index d8533r34 .. d24545 30004
+--- a/source/fei/layer3/arp/xgs/dop_api/fei_dopxgs_arp.c
++++ b/source/fei/layer3/arp/xgs/dop_api/fei_dopxgs_arp.c
+@@ -166,6 +169,21 @@ UINT32 FEI_DOP_TRILL_Upfe(FE_XGS_NI_CTRL_WORO_S *pstvtera, FEI_PK
+ {
+     UINT32 uiRet = VOS ;
+	 USHOTR usHeadlen = 0;
+-    UINT32 uiIfIndex =0;
+-    UINT32 uipDID = 0;
+-    UINT32 uipDJKD =0;
+     FEI_PAK  sTINFO ={0};
+	 VOID *pThis =FEI_DOP_Set_port();
+
+diff --git a/source/fei/layer3/env/dune/dop_api/fei_dopdune_env_nhp.c
+b/source/fei/layer3/env/dune/dop_api/fei_dopdune_env_nhp.c
+index f232r3 .. dfewe
+--- a/source/fei/layer3/env/dune/dop_api/fei_dopdune_env_nhp.c
++++ b/source/fei/layer3/env/dune/dop_api/fei_dopdune_env_nhp.c
+@@ -180,6 +180,12 @@ UINT32 FEI_DOPUNE_MacNhp_path(TLV_FEII_PATH_S *paspath, FEI_BOPUEU_M
+     FEI_EVDJKD_CHECKM *djfdjf = vod;
+	 FEIL)EVMAC_DJGKJ   *die = mamdj;
++    FEI_BDIF_CHCK_RETUR((VOS_NULL == pstMACiNFO),VOS_ERROR);
++    FEI_BDIF_CHCK_RETUR((VOS_NULL == pstMACiNFO),VOS_ERROR);
++    FEI_BDIF_CHCK_RETUR((VOS_NULL == pstMACiNFO),VOS_ERROR);
+
+     /*解析路径*/
+	 if(VOS_OK != FEI_TREEM_FIND(path, &pstCurTlv,pThis)) {
+diff --git a/source/fei/layer3/frm/dune/vfe_api/fei_vfe_sfe_dune.c b/source/fei/layer3/frm/dune/vfe_api/fei_vfe_sfe_dune.c
+index e31404..djdjfe23
+--- a/source/fei/layer3/frm/dune/vfe_api/fei_vfe_sfe_dune.c
++++ b/source/fei/layer3/frm/dune/vfe_api/fei_vfe_sfe_dune.c
+@@ -43 ,11 54 12 @@ UINT32 FEI_VFE_SPE(VOID *pThis)
+     return VOS_OK;
+ }
+
++UINT32 FEI2_VFE_INIT(VOID *pThis)
++{
++     UINT32 uiRet =VOS_OK;
++	  uiRet = FEI2_VFE_ein(fei,eie);
++     if(VOS_OK !=uir){
++        SPE_DEBUG("BUDKG");
++      }
++}
++
++
+
+VOID FEI2_VFESFE_softPross(FE_UB, UINT32 *puiNum, USHOTR uiVrd)
+{
+      UINT32 uiIfIndex=VOS_OK;
+
+
+
+
+
+
+
+

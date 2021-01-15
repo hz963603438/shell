@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:30:09" endTime="2019-05-22 01:30:10" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="17" channelName="CETV-1中国教育" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="0171905210130090" programName="执行利剑(62)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">执行利剑(62)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210200090" programName="法治天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210224090" programName="纪录中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210229090" programName="国史演义20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国史演义20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210254100" programName="博物馆之夜20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">博物馆之夜20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210341070" programName="请教请教20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">请教请教20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210428070" programName="飞哥大英雄(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄(2)</MetaData>
+                <MetaData mdUID="3">历史</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210508080" programName="飞哥大英雄(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄(3)</MetaData>
+                <MetaData mdUID="3">历史</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210600070" programName="水浒传(60)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(60)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210701080" programName="水浒传(61)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(61)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210753230" programName="铁血武工队传奇(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁血武工队传奇(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210847380" programName="铁血武工队传奇(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">铁血武工队传奇(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905210940530" programName="绝命后卫师(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211034110" programName="绝命后卫师(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">绝命后卫师(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211130110" programName="记住乡愁第二季(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(37)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211200110" programName="法治天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211240100" programName="全国教育新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全国教育新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211308250" programName="飞哥大英雄之飞哥战队(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211401400" programName="飞哥大英雄之飞哥战队(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211455560" programName="飞哥大英雄之飞哥战队(24)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(24)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211549100" programName="飞哥大英雄之飞哥战队(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211642260" programName="飞哥大英雄之飞哥战队(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞哥大英雄之飞哥战队(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211735070" programName="小熊尼奥环球旅行(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">小熊尼奥环球旅行(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211746370" programName="小熊尼奥环球旅行(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">小熊尼奥环球旅行(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211759380" programName="少年师爷(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">少年师爷(5)</MetaData>
+                <MetaData mdUID="3">动画</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211822070" programName="纪录中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211830080" programName="全国教育新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全国教育新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211856080" programName="城市天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">城市天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211930090" programName="法治天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905211955540" programName="国史演义20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国史演义20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212020100" programName="纪录中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212030110" programName="e视界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">e视界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212115110" programName="福彩开奖20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">福彩开奖20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212130110" programName="发现中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">发现中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212219110" programName="纪录中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212230100" programName="执行利剑(63)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">执行利剑(63)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212300100" programName="精彩人生20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩人生20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212345110" programName="纪录中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪录中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905212351110" programName="国史演义20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国史演义20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905220015080" programName="精彩人生20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">精彩人生20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0171905220057100" programName="记住乡愁第二季(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="0171905210130090" programID="0171905210130090" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 01:30:09" endTime="2019-05-21 02:00:09" catchedByOperator="" programName="执行利剑(62)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210200090" programID="0171905210200090" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 02:00:09" endTime="2019-05-21 02:24:09" catchedByOperator="" programName="法治天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210224090" programID="0171905210224090" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 02:24:09" endTime="2019-05-21 02:29:09" catchedByOperator="" programName="纪录中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210229090" programID="0171905210229090" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 02:29:09" endTime="2019-05-21 02:54:10" catchedByOperator="" programName="国史演义20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210254100" programID="0171905210254100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 02:54:10" endTime="2019-05-21 03:41:07" catchedByOperator="" programName="博物馆之夜20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210341070" programID="0171905210341070" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 03:41:07" endTime="2019-05-21 04:28:07" catchedByOperator="" programName="请教请教20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210428070" programID="0171905210428070" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 04:28:07" endTime="2019-05-21 05:08:08" catchedByOperator="" programName="飞哥大英雄(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210508080" programID="0171905210508080" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 05:08:08" endTime="2019-05-21 06:00:07" catchedByOperator="" programName="飞哥大英雄(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210600070" programID="0171905210600070" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 06:00:07" endTime="2019-05-21 07:01:08" catchedByOperator="" programName="水浒传(60)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210701080" programID="0171905210701080" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 07:01:08" endTime="2019-05-21 07:53:23" catchedByOperator="" programName="水浒传(61)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210753230" programID="0171905210753230" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 07:53:23" endTime="2019-05-21 08:47:38" catchedByOperator="" programName="铁血武工队传奇(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210847380" programID="0171905210847380" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 08:47:38" endTime="2019-05-21 09:40:53" catchedByOperator="" programName="铁血武工队传奇(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905210940530" programID="0171905210940530" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 09:40:53" endTime="2019-05-21 10:34:11" catchedByOperator="" programName="绝命后卫师(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211034110" programID="0171905211034110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 10:34:11" endTime="2019-05-21 11:30:11" catchedByOperator="" programName="绝命后卫师(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211130110" programID="0171905211130110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 11:30:11" endTime="2019-05-21 12:00:11" catchedByOperator="" programName="记住乡愁第二季(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211200110" programID="0171905211200110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 12:00:11" endTime="2019-05-21 12:40:10" catchedByOperator="" programName="法治天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211240100" programID="0171905211240100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 12:40:10" endTime="2019-05-21 13:08:25" catchedByOperator="" programName="全国教育新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211308250" programID="0171905211308250" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 13:08:25" endTime="2019-05-21 14:01:40" catchedByOperator="" programName="飞哥大英雄之飞哥战队(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211401400" programID="0171905211401400" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 14:01:40" endTime="2019-05-21 14:55:56" catchedByOperator="" programName="飞哥大英雄之飞哥战队(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211455560" programID="0171905211455560" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 14:55:56" endTime="2019-05-21 15:49:10" catchedByOperator="" programName="飞哥大英雄之飞哥战队(24)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211549100" programID="0171905211549100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 15:49:10" endTime="2019-05-21 16:42:26" catchedByOperator="" programName="飞哥大英雄之飞哥战队(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211642260" programID="0171905211642260" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 16:42:26" endTime="2019-05-21 17:35:07" catchedByOperator="" programName="飞哥大英雄之飞哥战队(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211735070" programID="0171905211735070" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 17:35:07" endTime="2019-05-21 17:46:37" catchedByOperator="" programName="小熊尼奥环球旅行(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211746370" programID="0171905211746370" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 17:46:37" endTime="2019-05-21 17:59:38" catchedByOperator="" programName="小熊尼奥环球旅行(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211759380" programID="0171905211759380" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 17:59:38" endTime="2019-05-21 18:22:07" catchedByOperator="" programName="少年师爷(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211822070" programID="0171905211822070" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 18:22:07" endTime="2019-05-21 18:30:08" catchedByOperator="" programName="纪录中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211830080" programID="0171905211830080" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 18:30:08" endTime="2019-05-21 18:56:08" catchedByOperator="" programName="全国教育新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211856080" programID="0171905211856080" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 18:56:08" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="城市天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211900000" programID="0171905211900000" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:30:09" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211930090" programID="0171905211930090" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 19:30:09" endTime="2019-05-21 19:55:54" catchedByOperator="" programName="法治天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905211955540" programID="0171905211955540" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 19:55:54" endTime="2019-05-21 20:20:10" catchedByOperator="" programName="国史演义20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212020100" programID="0171905212020100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 20:20:10" endTime="2019-05-21 20:30:11" catchedByOperator="" programName="纪录中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212030110" programID="0171905212030110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 20:30:11" endTime="2019-05-21 21:15:11" catchedByOperator="" programName="e视界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212115110" programID="0171905212115110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 21:15:11" endTime="2019-05-21 21:30:11" catchedByOperator="" programName="福彩开奖20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212130110" programID="0171905212130110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 21:30:11" endTime="2019-05-21 22:19:11" catchedByOperator="" programName="发现中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212219110" programID="0171905212219110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 22:19:11" endTime="2019-05-21 22:30:10" catchedByOperator="" programName="纪录中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212230100" programID="0171905212230100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 22:30:10" endTime="2019-05-21 23:00:10" catchedByOperator="" programName="执行利剑(63)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212300100" programID="0171905212300100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 23:00:10" endTime="2019-05-21 23:45:11" catchedByOperator="" programName="精彩人生20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212345110" programID="0171905212345110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 23:45:11" endTime="2019-05-21 23:51:11" catchedByOperator="" programName="纪录中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905212351110" programID="0171905212351110" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-21 23:51:11" endTime="2019-05-22 00:15:08" catchedByOperator="" programName="国史演义20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905220015080" programID="0171905220015080" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-22 00:15:08" endTime="2019-05-22 00:57:10" catchedByOperator="" programName="精彩人生20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0171905220057100" programID="0171905220057100" channelID="17" channelName="CETV-1中国教育" startTime="2019-05-22 00:57:10" endTime="2019-05-22 01:30:10" catchedByOperator="" programName="记住乡愁第二季(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:41:11" endTime="2019-05-22 01:49:08" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="221" channelName="广西卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2211905210141110" programName="超级点子王20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级点子王20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210210360" programName="时尚中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">时尚中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210227430" programName="收藏马未都20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">收藏马未都20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210313500" programName="百寿探秘20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">百寿探秘20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210343140" programName="时尚中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">时尚中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210414030" programName="大抗战:邵家庄伏击战20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大抗战:邵家庄伏击战20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210440060" programName="剧精彩20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧精彩20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210456060" programName="超级点子王20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级点子王20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210523550" programName="时尚中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">时尚中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210540080" programName="海丝路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海丝路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210605160" programName="壮语新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">壮语新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210617450" programName="广西新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">广西新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210649410" programName="宝物有故事20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">宝物有故事20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210701420" programName="大抗战:神头岭伏击战20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大抗战:神头岭伏击战20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210730180" programName="生逢灿烂的日子(43)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生逢灿烂的日子(43)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210817150" programName="生逢灿烂的日子(44)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">生逢灿烂的日子(44)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210902080" programName="青年霍元甲之冲出江湖(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905210958170" programName="青年霍元甲之冲出江湖(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211056150" programName="青年霍元甲之冲出江湖(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青年霍元甲之冲出江湖(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211150490" programName="动画片:京剧猫之乘风破浪(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:京剧猫之乘风破浪(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211203310" programName="动画片:京剧猫之乘风破浪(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:京剧猫之乘风破浪(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211214420" programName="动画片:京剧猫之乘风破浪(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动画片:京剧猫之乘风破浪(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211230360" programName="卧底(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">卧底(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211324530" programName="连环套(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">连环套(1)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211418410" programName="连环套(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">连环套(2)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211513560" programName="连环套(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">连环套(3)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211608360" programName="连环套(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">连环套(4)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211704420" programName="连环套(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">连环套(5)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211800090" programName="海丝路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海丝路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211823560" programName="全国部分城市天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">全国部分城市天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211830090" programName="广西新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">广西新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211931380" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905211938230" programName="脱身(22)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">脱身(22)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905212031420" programName="脱身(23)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">脱身(23)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905212117270" programName="剧精彩20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">剧精彩20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905212137460" programName="百寿探秘20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">百寿探秘20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905212211580" programName="时尚中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">时尚中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905212235530" programName="激战(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">激战(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905212351340" programName="激战(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">激战(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905220036020" programName="激战(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">激战(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2211905220119100" programName="再见20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">再见20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2211905210141110" programID="2211905210141110" channelID="221" channelName="广西卫视" startTime="2019-05-21 01:41:11" endTime="2019-05-21 02:10:36" catchedByOperator="" programName="超级点子王20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210210360" programID="2211905210210360" channelID="221" channelName="广西卫视" startTime="2019-05-21 02:10:36" endTime="2019-05-21 02:27:43" catchedByOperator="" programName="时尚中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210227430" programID="2211905210227430" channelID="221" channelName="广西卫视" startTime="2019-05-21 02:27:43" endTime="2019-05-21 03:13:50" catchedByOperator="" programName="收藏马未都20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210313500" programID="2211905210313500" channelID="221" channelName="广西卫视" startTime="2019-05-21 03:13:50" endTime="2019-05-21 03:43:14" catchedByOperator="" programName="百寿探秘20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210343140" programID="2211905210343140" channelID="221" channelName="广西卫视" startTime="2019-05-21 03:43:14" endTime="2019-05-21 04:14:03" catchedByOperator="" programName="时尚中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210414030" programID="2211905210414030" channelID="221" channelName="广西卫视" startTime="2019-05-21 04:14:03" endTime="2019-05-21 04:40:06" catchedByOperator="" programName="大抗战:邵家庄伏击战20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210440060" programID="2211905210440060" channelID="221" channelName="广西卫视" startTime="2019-05-21 04:40:06" endTime="2019-05-21 04:56:06" catchedByOperator="" programName="剧精彩20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210456060" programID="2211905210456060" channelID="221" channelName="广西卫视" startTime="2019-05-21 04:56:06" endTime="2019-05-21 05:23:55" catchedByOperator="" programName="超级点子王20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210523550" programID="2211905210523550" channelID="221" channelName="广西卫视" startTime="2019-05-21 05:23:55" endTime="2019-05-21 05:40:08" catchedByOperator="" programName="时尚中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210540080" programID="2211905210540080" channelID="221" channelName="广西卫视" startTime="2019-05-21 05:40:08" endTime="2019-05-21 06:05:16" catchedByOperator="" programName="海丝路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210605160" programID="2211905210605160" channelID="221" channelName="广西卫视" startTime="2019-05-21 06:05:16" endTime="2019-05-21 06:17:45" catchedByOperator="" programName="壮语新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210617450" programID="2211905210617450" channelID="221" channelName="广西卫视" startTime="2019-05-21 06:17:45" endTime="2019-05-21 06:49:41" catchedByOperator="" programName="广西新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210649410" programID="2211905210649410" channelID="221" channelName="广西卫视" startTime="2019-05-21 06:49:41" endTime="2019-05-21 07:01:42" catchedByOperator="" programName="宝物有故事20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210701420" programID="2211905210701420" channelID="221" channelName="广西卫视" startTime="2019-05-21 07:01:42" endTime="2019-05-21 07:30:18" catchedByOperator="" programName="大抗战:神头岭伏击战20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210730180" programID="2211905210730180" channelID="221" channelName="广西卫视" startTime="2019-05-21 07:30:18" endTime="2019-05-21 08:17:15" catchedByOperator="" programName="生逢灿烂的日子(43)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210817150" programID="2211905210817150" channelID="221" channelName="广西卫视" startTime="2019-05-21 08:17:15" endTime="2019-05-21 09:02:08" catchedByOperator="" programName="生逢灿烂的日子(44)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210902080" programID="2211905210902080" channelID="221" channelName="广西卫视" startTime="2019-05-21 09:02:08" endTime="2019-05-21 09:58:17" catchedByOperator="" programName="青年霍元甲之冲出江湖(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905210958170" programID="2211905210958170" channelID="221" channelName="广西卫视" startTime="2019-05-21 09:58:17" endTime="2019-05-21 10:56:15" catchedByOperator="" programName="青年霍元甲之冲出江湖(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211056150" programID="2211905211056150" channelID="221" channelName="广西卫视" startTime="2019-05-21 10:56:15" endTime="2019-05-21 11:50:49" catchedByOperator="" programName="青年霍元甲之冲出江湖(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211150490" programID="2211905211150490" channelID="221" channelName="广西卫视" startTime="2019-05-21 11:50:49" endTime="2019-05-21 12:03:31" catchedByOperator="" programName="动画片:京剧猫之乘风破浪(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211203310" programID="2211905211203310" channelID="221" channelName="广西卫视" startTime="2019-05-21 12:03:31" endTime="2019-05-21 12:14:42" catchedByOperator="" programName="动画片:京剧猫之乘风破浪(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211214420" programID="2211905211214420" channelID="221" channelName="广西卫视" startTime="2019-05-21 12:14:42" endTime="2019-05-21 12:30:36" catchedByOperator="" programName="动画片:京剧猫之乘风破浪(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211230360" programID="2211905211230360" channelID="221" channelName="广西卫视" startTime="2019-05-21 12:30:36" endTime="2019-05-21 13:24:53" catchedByOperator="" programName="卧底(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211324530" programID="2211905211324530" channelID="221" channelName="广西卫视" startTime="2019-05-21 13:24:53" endTime="2019-05-21 14:18:41" catchedByOperator="" programName="连环套(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211418410" programID="2211905211418410" channelID="221" channelName="广西卫视" startTime="2019-05-21 14:18:41" endTime="2019-05-21 15:13:56" catchedByOperator="" programName="连环套(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211513560" programID="2211905211513560" channelID="221" channelName="广西卫视" startTime="2019-05-21 15:13:56" endTime="2019-05-21 16:08:36" catchedByOperator="" programName="连环套(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211608360" programID="2211905211608360" channelID="221" channelName="广西卫视" startTime="2019-05-21 16:08:36" endTime="2019-05-21 17:04:42" catchedByOperator="" programName="连环套(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211704420" programID="2211905211704420" channelID="221" channelName="广西卫视" startTime="2019-05-21 17:04:42" endTime="2019-05-21 18:00:09" catchedByOperator="" programName="连环套(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211800090" programID="2211905211800090" channelID="221" channelName="广西卫视" startTime="2019-05-21 18:00:09" endTime="2019-05-21 18:23:56" catchedByOperator="" programName="海丝路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211823560" programID="2211905211823560" channelID="221" channelName="广西卫视" startTime="2019-05-21 18:23:56" endTime="2019-05-21 18:30:09" catchedByOperator="" programName="全国部分城市天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211830090" programID="2211905211830090" channelID="221" channelName="广西卫视" startTime="2019-05-21 18:30:09" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="广西新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211900000" programID="2211905211900000" channelID="221" channelName="广西卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:31:38" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211931380" programID="2211905211931380" channelID="221" channelName="广西卫视" startTime="2019-05-21 19:31:38" endTime="2019-05-21 19:38:23" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905211938230" programID="2211905211938230" channelID="221" channelName="广西卫视" startTime="2019-05-21 19:38:23" endTime="2019-05-21 20:31:42" catchedByOperator="" programName="脱身(22)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905212031420" programID="2211905212031420" channelID="221" channelName="广西卫视" startTime="2019-05-21 20:31:42" endTime="2019-05-21 21:17:27" catchedByOperator="" programName="脱身(23)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905212117270" programID="2211905212117270" channelID="221" channelName="广西卫视" startTime="2019-05-21 21:17:27" endTime="2019-05-21 21:37:46" catchedByOperator="" programName="剧精彩20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905212137460" programID="2211905212137460" channelID="221" channelName="广西卫视" startTime="2019-05-21 21:37:46" endTime="2019-05-21 22:11:58" catchedByOperator="" programName="百寿探秘20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905212211580" programID="2211905212211580" channelID="221" channelName="广西卫视" startTime="2019-05-21 22:11:58" endTime="2019-05-21 22:35:53" catchedByOperator="" programName="时尚中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905212235530" programID="2211905212235530" channelID="221" channelName="广西卫视" startTime="2019-05-21 22:35:53" endTime="2019-05-21 23:51:34" catchedByOperator="" programName="激战(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905212351340" programID="2211905212351340" channelID="221" channelName="广西卫视" startTime="2019-05-21 23:51:34" endTime="2019-05-22 00:36:02" catchedByOperator="" programName="激战(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905220036020" programID="2211905220036020" channelID="221" channelName="广西卫视" startTime="2019-05-22 00:36:02" endTime="2019-05-22 01:19:10" catchedByOperator="" programName="激战(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2211905220119100" programID="2211905220119100" channelID="221" channelName="广西卫视" startTime="2019-05-22 01:19:10" endTime="2019-05-22 01:49:08" catchedByOperator="" programName="再见20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

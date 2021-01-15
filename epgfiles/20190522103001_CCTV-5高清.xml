@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 00:10:05" endTime="2019-05-22 01:13:05" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="313" channelName="CCTV-5高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3131905210010050" programName="顶级赛事:2019年英国大师赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">顶级赛事:2019年英国大师赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210315050" programName="实况录像:2019年国际田联世界接力赛男子4x100米接力预赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年国际田联世界接力赛男子4x100米接力预赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210335560" programName="实况录像:2019年国际田联世界接力赛女子4x100米接力预赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年国际田联世界接力赛女子4x100米接力预赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210342420" programName="实况录像:2019年国际田联世界接力赛混合2x2x400米接力决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年国际田联世界接力赛混合2x2x400米接力决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210351560" programName="实况录像:2019年国际田联世界接力赛混合跨栏接力决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年国际田联世界接力赛混合跨栏接力决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210400050" programName="国际足球赛场:18/19赛季意甲第37轮:萨索洛-罗马20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国际足球赛场:18/19赛季意甲第37轮:萨索洛-罗马20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210530050" programName="实况录像:职业大脚车赛印第安纳波利斯站20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:职业大脚车赛印第安纳波利斯站20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210555540" programName="体育欣赏20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体育欣赏20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210600050" programName="英超世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">英超世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210630050" programName="健身动起来20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健身动起来20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210700050" programName="体育晨报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体育晨报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210803050" programName="实况录像:2019年世界跆拳道锦标赛男子63公斤级决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年世界跆拳道锦标赛男子63公斤级决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210818240" programName="实况录像:2019年世界跆拳道锦标赛男子80公斤级决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年世界跆拳道锦标赛男子80公斤级决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210833140" programName="实况录像:2019年世界跆拳道锦标赛女子67公斤级决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年世界跆拳道锦标赛女子67公斤级决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210845570" programName="实况录像:2019年世界跆拳道锦标赛女子62公斤级决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年世界跆拳道锦标赛女子62公斤级决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210859350" programName="2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210932330" programName="NBA日志20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">NBA日志20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905210935460" programName="2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211001470" programName="NBA日志20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">NBA日志20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211004500" programName="2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211200050" programName="体坛快讯20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体坛快讯20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211235160" programName="超级足球之夜20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">超级足球之夜20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211330050" programName="田径杂志20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">田径杂志20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211400050" programName="欧冠开场哨20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欧冠开场哨20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211431380" programName="现场直播:2019年体操世界杯挑战赛男子跳马决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年体操世界杯挑战赛男子跳马决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211501240" programName="现场直播:2019年体操世界杯挑战赛女子平衡木决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年体操世界杯挑战赛女子平衡木决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211535150" programName="现场直播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211548530" programName="现场直播:2019年体操世界杯挑战赛男子双杠决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年体操世界杯挑战赛男子双杠决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211624110" programName="现场直播:2019年体操世界杯挑战赛女子自由操决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年体操世界杯挑战赛女子自由操决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211657590" programName="现场直播:2019年体操世界杯挑战赛男子单杠决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年体操世界杯挑战赛男子单杠决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211730050" programName="体育新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体育新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211755050" programName="现场直播:2019年亚洲足联冠军联赛G组第6轮:浦和红宝石-北京国安20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年亚洲足联冠军联赛G组第6轮:浦和红宝石-北京国安20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211854060" programName="现场直播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211903200" programName="现场直播:2019年亚洲足联冠军联赛G组第6轮:浦和红宝石-北京国安20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播:2019年亚洲足联冠军联赛G组第6轮:浦和红宝石-北京国安20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905211953110" programName="现场直播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905212000060" programName="实况录像:2019年亚洲足联冠军联赛H组第6轮:上海上港-蔚山20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年亚洲足联冠军联赛H组第6轮:上海上港-蔚山20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905212130050" programName="体育世界20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">体育世界20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905212221360" programName="实况录像:2019年苏迪曼杯羽毛球赛D组男单20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年苏迪曼杯羽毛球赛D组男单20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905212257480" programName="实况录像:2019年苏迪曼杯羽毛球赛D组男双20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年苏迪曼杯羽毛球赛D组男双20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905212328080" programName="实况录像:2019年苏迪曼杯羽毛球赛D组女双20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">实况录像:2019年苏迪曼杯羽毛球赛D组女双20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3131905220015060" programName="顶级赛事纹枰论道20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">顶级赛事纹枰论道20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3131905210010050" programID="3131905210010050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 00:10:05" endTime="2019-05-21 03:15:05" catchedByOperator="" programName="顶级赛事:2019年英国大师赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210315050" programID="3131905210315050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 03:15:05" endTime="2019-05-21 03:35:56" catchedByOperator="" programName="实况录像:2019年国际田联世界接力赛男子4x100米接力预赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210335560" programID="3131905210335560" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 03:35:56" endTime="2019-05-21 03:42:42" catchedByOperator="" programName="实况录像:2019年国际田联世界接力赛女子4x100米接力预赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210342420" programID="3131905210342420" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 03:42:42" endTime="2019-05-21 03:51:56" catchedByOperator="" programName="实况录像:2019年国际田联世界接力赛混合2x2x400米接力决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210351560" programID="3131905210351560" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 03:51:56" endTime="2019-05-21 04:00:05" catchedByOperator="" programName="实况录像:2019年国际田联世界接力赛混合跨栏接力决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210400050" programID="3131905210400050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 04:00:05" endTime="2019-05-21 05:30:05" catchedByOperator="" programName="国际足球赛场:18/19赛季意甲第37轮:萨索洛-罗马20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210530050" programID="3131905210530050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 05:30:05" endTime="2019-05-21 05:55:54" catchedByOperator="" programName="实况录像:职业大脚车赛印第安纳波利斯站20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210555540" programID="3131905210555540" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 05:55:54" endTime="2019-05-21 06:00:05" catchedByOperator="" programName="体育欣赏20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210600050" programID="3131905210600050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 06:00:05" endTime="2019-05-21 06:30:05" catchedByOperator="" programName="英超世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210630050" programID="3131905210630050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 06:30:05" endTime="2019-05-21 07:00:05" catchedByOperator="" programName="健身动起来20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210700050" programID="3131905210700050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 07:00:05" endTime="2019-05-21 08:03:05" catchedByOperator="" programName="体育晨报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210803050" programID="3131905210803050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 08:03:05" endTime="2019-05-21 08:18:24" catchedByOperator="" programName="实况录像:2019年世界跆拳道锦标赛男子63公斤级决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210818240" programID="3131905210818240" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 08:18:24" endTime="2019-05-21 08:33:14" catchedByOperator="" programName="实况录像:2019年世界跆拳道锦标赛男子80公斤级决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210833140" programID="3131905210833140" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 08:33:14" endTime="2019-05-21 08:45:57" catchedByOperator="" programName="实况录像:2019年世界跆拳道锦标赛女子67公斤级决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210845570" programID="3131905210845570" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 08:45:57" endTime="2019-05-21 08:59:35" catchedByOperator="" programName="实况录像:2019年世界跆拳道锦标赛女子62公斤级决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210859350" programID="3131905210859350" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 08:59:35" endTime="2019-05-21 09:32:33" catchedByOperator="" programName="2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210932330" programID="3131905210932330" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 09:32:33" endTime="2019-05-21 09:35:46" catchedByOperator="" programName="NBA日志20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905210935460" programID="3131905210935460" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 09:35:46" endTime="2019-05-21 10:01:47" catchedByOperator="" programName="2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211001470" programID="3131905211001470" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 10:01:47" endTime="2019-05-21 10:04:50" catchedByOperator="" programName="NBA日志20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211004500" programID="3131905211004500" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 10:04:50" endTime="2019-05-21 12:00:05" catchedByOperator="" programName="2018/2019赛季NBA季后赛西部决赛第四场:勇士-开拓者20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211200050" programID="3131905211200050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 12:00:05" endTime="2019-05-21 12:35:16" catchedByOperator="" programName="体坛快讯20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211235160" programID="3131905211235160" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 12:35:16" endTime="2019-05-21 13:30:05" catchedByOperator="" programName="超级足球之夜20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211330050" programID="3131905211330050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 13:30:05" endTime="2019-05-21 14:00:05" catchedByOperator="" programName="田径杂志20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211400050" programID="3131905211400050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 14:00:05" endTime="2019-05-21 14:31:38" catchedByOperator="" programName="欧冠开场哨20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211431380" programID="3131905211431380" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 14:31:38" endTime="2019-05-21 15:01:24" catchedByOperator="" programName="现场直播:2019年体操世界杯挑战赛男子跳马决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211501240" programID="3131905211501240" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 15:01:24" endTime="2019-05-21 15:35:15" catchedByOperator="" programName="现场直播:2019年体操世界杯挑战赛女子平衡木决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211535150" programID="3131905211535150" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 15:35:15" endTime="2019-05-21 15:48:53" catchedByOperator="" programName="现场直播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211548530" programID="3131905211548530" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 15:48:53" endTime="2019-05-21 16:24:11" catchedByOperator="" programName="现场直播:2019年体操世界杯挑战赛男子双杠决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211624110" programID="3131905211624110" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 16:24:11" endTime="2019-05-21 16:57:59" catchedByOperator="" programName="现场直播:2019年体操世界杯挑战赛女子自由操决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211657590" programID="3131905211657590" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 16:57:59" endTime="2019-05-21 17:30:05" catchedByOperator="" programName="现场直播:2019年体操世界杯挑战赛男子单杠决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211730050" programID="3131905211730050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 17:30:05" endTime="2019-05-21 17:55:05" catchedByOperator="" programName="体育新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211755050" programID="3131905211755050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 17:55:05" endTime="2019-05-21 18:54:06" catchedByOperator="" programName="现场直播:2019年亚洲足联冠军联赛G组第6轮:浦和红宝石-北京国安20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211854060" programID="3131905211854060" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 18:54:06" endTime="2019-05-21 19:03:20" catchedByOperator="" programName="现场直播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211903200" programID="3131905211903200" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 19:03:20" endTime="2019-05-21 19:53:11" catchedByOperator="" programName="现场直播:2019年亚洲足联冠军联赛G组第6轮:浦和红宝石-北京国安20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905211953110" programID="3131905211953110" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 19:53:11" endTime="2019-05-21 20:00:06" catchedByOperator="" programName="现场直播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905212000060" programID="3131905212000060" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 20:00:06" endTime="2019-05-21 21:30:05" catchedByOperator="" programName="实况录像:2019年亚洲足联冠军联赛H组第6轮:上海上港-蔚山20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905212130050" programID="3131905212130050" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 21:30:05" endTime="2019-05-21 22:21:36" catchedByOperator="" programName="体育世界20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905212221360" programID="3131905212221360" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 22:21:36" endTime="2019-05-21 22:57:48" catchedByOperator="" programName="实况录像:2019年苏迪曼杯羽毛球赛D组男单20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905212257480" programID="3131905212257480" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 22:57:48" endTime="2019-05-21 23:28:08" catchedByOperator="" programName="实况录像:2019年苏迪曼杯羽毛球赛D组男双20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905212328080" programID="3131905212328080" channelID="313" channelName="CCTV-5高清" startTime="2019-05-21 23:28:08" endTime="2019-05-22 00:15:06" catchedByOperator="" programName="实况录像:2019年苏迪曼杯羽毛球赛D组女双20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3131905220015060" programID="3131905220015060" channelID="313" channelName="CCTV-5高清" startTime="2019-05-22 00:15:06" endTime="2019-05-22 01:13:05" catchedByOperator="" programName="顶级赛事纹枰论道20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

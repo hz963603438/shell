@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:36:09" endTime="2019-05-22 01:36:08" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="13" channelName="CCTV-13新闻" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="0131905210136090" programName="法治在线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治在线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210200090" programName="新闻直播间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210236080" programName="新闻1+120190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻1+120190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210300090" programName="新闻直播间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210344590" programName="焦点访谈20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">焦点访谈20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210400090" programName="新闻直播间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210436080" programName="新闻1+120190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻1+120190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210500090" programName="新闻直播间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210517590" programName="焦点访谈20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">焦点访谈20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210533090" programName="法治在线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治在线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210600090" programName="朝闻天下20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">朝闻天下20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210855380" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905210900090" programName="新闻直播间20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211200090" programName="新闻30分20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻30分20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211233110" programName="法治在线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">法治在线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211300100" programName="新闻直播间1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211530100" programName="新闻直播间2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211800100" programName="共同关注20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">共同关注20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211900000" programName="新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211932410" programName="天气预报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">天气预报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905211940590" programName="焦点访谈20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">焦点访谈20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905212000090" programName="东方时空20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东方时空20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905212100080" programName="新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905212133050" programName="新闻1+120190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻1+120190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905212200100" programName="国际时讯20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">国际时讯20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905212230090" programName="环球视线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">环球视线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905212300090" programName="24小时20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">24小时20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905220000090" programName="午夜新闻20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">午夜新闻20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905220054090" programName="世界主要城市天气预报20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">世界主要城市天气预报20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905220100090" programName="新闻直播间20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻直播间20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="0131905220120580" programName="焦点访谈20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">焦点访谈20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="0131905210136090" programID="0131905210136090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 01:36:09" endTime="2019-05-21 02:00:09" catchedByOperator="" programName="法治在线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210200090" programID="0131905210200090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 02:00:09" endTime="2019-05-21 02:36:08" catchedByOperator="" programName="新闻直播间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210236080" programID="0131905210236080" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 02:36:08" endTime="2019-05-21 03:00:09" catchedByOperator="" programName="新闻1+120190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210300090" programID="0131905210300090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 03:00:09" endTime="2019-05-21 03:44:59" catchedByOperator="" programName="新闻直播间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210344590" programID="0131905210344590" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 03:44:59" endTime="2019-05-21 04:00:09" catchedByOperator="" programName="焦点访谈20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210400090" programID="0131905210400090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 04:00:09" endTime="2019-05-21 04:36:08" catchedByOperator="" programName="新闻直播间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210436080" programID="0131905210436080" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 04:36:08" endTime="2019-05-21 05:00:09" catchedByOperator="" programName="新闻1+120190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210500090" programID="0131905210500090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 05:00:09" endTime="2019-05-21 05:17:59" catchedByOperator="" programName="新闻直播间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210517590" programID="0131905210517590" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 05:17:59" endTime="2019-05-21 05:33:09" catchedByOperator="" programName="焦点访谈20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210533090" programID="0131905210533090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 05:33:09" endTime="2019-05-21 06:00:09" catchedByOperator="" programName="法治在线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210600090" programID="0131905210600090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 06:00:09" endTime="2019-05-21 08:55:38" catchedByOperator="" programName="朝闻天下20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210855380" programID="0131905210855380" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 08:55:38" endTime="2019-05-21 09:00:09" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905210900090" programID="0131905210900090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 09:00:09" endTime="2019-05-21 12:00:09" catchedByOperator="" programName="新闻直播间20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211200090" programID="0131905211200090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 12:00:09" endTime="2019-05-21 12:33:11" catchedByOperator="" programName="新闻30分20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211233110" programID="0131905211233110" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 12:33:11" endTime="2019-05-21 13:00:10" catchedByOperator="" programName="法治在线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211300100" programID="0131905211300100" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 13:00:10" endTime="2019-05-21 15:30:10" catchedByOperator="" programName="新闻直播间1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211530100" programID="0131905211530100" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 15:30:10" endTime="2019-05-21 18:00:10" catchedByOperator="" programName="新闻直播间2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211800100" programID="0131905211800100" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 18:00:10" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="共同关注20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211900000" programID="0131905211900000" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:32:41" catchedByOperator="" programName="新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211932410" programID="0131905211932410" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 19:32:41" endTime="2019-05-21 19:40:59" catchedByOperator="" programName="天气预报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905211940590" programID="0131905211940590" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 19:40:59" endTime="2019-05-21 20:00:09" catchedByOperator="" programName="焦点访谈20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905212000090" programID="0131905212000090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 20:00:09" endTime="2019-05-21 21:00:08" catchedByOperator="" programName="东方时空20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905212100080" programID="0131905212100080" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 21:00:08" endTime="2019-05-21 21:33:05" catchedByOperator="" programName="新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905212133050" programID="0131905212133050" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 21:33:05" endTime="2019-05-21 22:00:10" catchedByOperator="" programName="新闻1+120190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905212200100" programID="0131905212200100" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 22:00:10" endTime="2019-05-21 22:30:09" catchedByOperator="" programName="国际时讯20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905212230090" programID="0131905212230090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 22:30:09" endTime="2019-05-21 23:00:09" catchedByOperator="" programName="环球视线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905212300090" programID="0131905212300090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-21 23:00:09" endTime="2019-05-22 00:00:09" catchedByOperator="" programName="24小时20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905220000090" programID="0131905220000090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-22 00:00:09" endTime="2019-05-22 00:54:09" catchedByOperator="" programName="午夜新闻20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905220054090" programID="0131905220054090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-22 00:54:09" endTime="2019-05-22 01:00:09" catchedByOperator="" programName="世界主要城市天气预报20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905220100090" programID="0131905220100090" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-22 01:00:09" endTime="2019-05-22 01:20:58" catchedByOperator="" programName="新闻直播间20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="0131905220120580" programID="0131905220120580" channelID="13" channelName="CCTV-13新闻" startTime="2019-05-22 01:20:58" endTime="2019-05-22 01:36:08" catchedByOperator="" programName="焦点访谈20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

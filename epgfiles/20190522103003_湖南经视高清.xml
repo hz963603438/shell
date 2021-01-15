@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 00:48:26" endTime="2019-05-22 01:26:35" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="311" channelName="湖南经视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3111905210048260" programName="猎寇飞龙" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猎寇飞龙</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210235250" programName="经视播报" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视播报</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210334490" programName="节目欣赏" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">节目欣赏</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210353080" programName="经视社区汇" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视社区汇</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210412580" programName="兄弟营(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">兄弟营(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210450590" programName="兄弟营(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">兄弟营(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210540100" programName="经视焦点" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视焦点</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210628520" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210657150" programName="经视新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905210827230" programName="步步惊奇真情版" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">步步惊奇真情版</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211127540" programName="一道良方" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一道良方</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211200040" programName="经视社区汇" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视社区汇</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211220040" programName="经视气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211222340" programName="逗吧逗把街:照顾难周到" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">逗吧逗把街:照顾难周到</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211254580" programName="步步惊奇真情版" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">步步惊奇真情版</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211612140" programName="优家大排档" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">优家大排档</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211700040" programName="经视播报" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视播报</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211758450" programName="经视新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211830340" programName="经视焦点" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视焦点</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211920150" programName="经视气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905211927520" programName="左轮手枪(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">左轮手枪(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905212015420" programName="左轮手枪(9)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">左轮手枪(9)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905212109090" programName="左轮手枪(10)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">左轮手枪(10)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905212203250" programName="左轮手枪(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">左轮手枪(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905212250190" programName="一街老小向前冲:鹦鹉计划" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一街老小向前冲:鹦鹉计划</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905212331040" programName="逗吧逗把街:人生起跑线" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">逗吧逗把街:人生起跑线</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905220001190" programName="逗吧逗把街:这样的胎教太搞笑" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">逗吧逗把街:这样的胎教太搞笑</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905220036090" programName="经视气象站" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经视气象站</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3111905220057310" programName="猎寇飞龙" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">猎寇飞龙</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3111905210048260" programID="3111905210048260" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 00:48:26" endTime="2019-05-21 02:35:25" catchedByOperator="" programName="猎寇飞龙" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210235250" programID="3111905210235250" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 02:35:25" endTime="2019-05-21 03:34:49" catchedByOperator="" programName="经视播报" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210334490" programID="3111905210334490" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 03:34:49" endTime="2019-05-21 03:53:08" catchedByOperator="" programName="节目欣赏" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210353080" programID="3111905210353080" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 03:53:08" endTime="2019-05-21 04:12:58" catchedByOperator="" programName="经视社区汇" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210412580" programID="3111905210412580" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 04:12:58" endTime="2019-05-21 04:50:59" catchedByOperator="" programName="兄弟营(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210450590" programID="3111905210450590" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 04:50:59" endTime="2019-05-21 05:40:10" catchedByOperator="" programName="兄弟营(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210540100" programID="3111905210540100" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 05:40:10" endTime="2019-05-21 06:28:52" catchedByOperator="" programName="经视焦点" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210628520" programID="3111905210628520" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 06:28:52" endTime="2019-05-21 06:57:15" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210657150" programID="3111905210657150" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 06:57:15" endTime="2019-05-21 08:27:23" catchedByOperator="" programName="经视新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905210827230" programID="3111905210827230" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 08:27:23" endTime="2019-05-21 11:27:54" catchedByOperator="" programName="步步惊奇真情版" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211127540" programID="3111905211127540" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 11:27:54" endTime="2019-05-21 12:00:04" catchedByOperator="" programName="一道良方" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211200040" programID="3111905211200040" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 12:00:04" endTime="2019-05-21 12:20:04" catchedByOperator="" programName="经视社区汇" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211220040" programID="3111905211220040" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 12:20:04" endTime="2019-05-21 12:22:34" catchedByOperator="" programName="经视气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211222340" programID="3111905211222340" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 12:22:34" endTime="2019-05-21 12:54:58" catchedByOperator="" programName="逗吧逗把街:照顾难周到" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211254580" programID="3111905211254580" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 12:54:58" endTime="2019-05-21 16:12:14" catchedByOperator="" programName="步步惊奇真情版" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211612140" programID="3111905211612140" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 16:12:14" endTime="2019-05-21 17:00:04" catchedByOperator="" programName="优家大排档" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211700040" programID="3111905211700040" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 17:00:04" endTime="2019-05-21 17:58:45" catchedByOperator="" programName="经视播报" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211758450" programID="3111905211758450" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 17:58:45" endTime="2019-05-21 18:30:34" catchedByOperator="" programName="经视新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211830340" programID="3111905211830340" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 18:30:34" endTime="2019-05-21 19:20:15" catchedByOperator="" programName="经视焦点" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211920150" programID="3111905211920150" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 19:20:15" endTime="2019-05-21 19:27:52" catchedByOperator="" programName="经视气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905211927520" programID="3111905211927520" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 19:27:52" endTime="2019-05-21 20:15:42" catchedByOperator="" programName="左轮手枪(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905212015420" programID="3111905212015420" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 20:15:42" endTime="2019-05-21 21:09:09" catchedByOperator="" programName="左轮手枪(9)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905212109090" programID="3111905212109090" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 21:09:09" endTime="2019-05-21 22:03:25" catchedByOperator="" programName="左轮手枪(10)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905212203250" programID="3111905212203250" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 22:03:25" endTime="2019-05-21 22:50:19" catchedByOperator="" programName="左轮手枪(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905212250190" programID="3111905212250190" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 22:50:19" endTime="2019-05-21 23:31:04" catchedByOperator="" programName="一街老小向前冲:鹦鹉计划" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905212331040" programID="3111905212331040" channelID="311" channelName="湖南经视高清" startTime="2019-05-21 23:31:04" endTime="2019-05-22 00:01:19" catchedByOperator="" programName="逗吧逗把街:人生起跑线" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905220001190" programID="3111905220001190" channelID="311" channelName="湖南经视高清" startTime="2019-05-22 00:01:19" endTime="2019-05-22 00:36:09" catchedByOperator="" programName="逗吧逗把街:这样的胎教太搞笑" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905220036090" programID="3111905220036090" channelID="311" channelName="湖南经视高清" startTime="2019-05-22 00:36:09" endTime="2019-05-22 00:57:31" catchedByOperator="" programName="经视气象站" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3111905220057310" programID="3111905220057310" channelID="311" channelName="湖南经视高清" startTime="2019-05-22 00:57:31" endTime="2019-05-22 01:26:35" catchedByOperator="" programName="猎寇飞龙" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

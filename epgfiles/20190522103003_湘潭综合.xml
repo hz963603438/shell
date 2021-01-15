@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 00:42:00" endTime="2019-05-22 00:38:00" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="403" channelName="湘潭综合" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="4031905210042000" programName="大揭秘1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大揭秘1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905210336000" programName="大揭秘2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大揭秘2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905210630000" programName="都市日记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市日记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905210701000" programName="湘潭新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湘潭新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905210741000" programName="和平饭店(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">和平饭店(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905210839000" programName="和平饭店(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">和平饭店(34)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905210942000" programName="渔岛怒潮(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渔岛怒潮(15)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211042000" programName="渔岛怒潮(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渔岛怒潮(16)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211140000" programName="大揭秘" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大揭秘</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211200000" programName="湘潭新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湘潭新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211244000" programName="健康湘潭" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健康湘潭</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211305000" programName="渔岛怒潮(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渔岛怒潮(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211403000" programName="渔岛怒潮(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渔岛怒潮(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211502000" programName="渔岛怒潮(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渔岛怒潮(19)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211557000" programName="渔岛怒潮(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">渔岛怒潮(20)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211700000" programName="文化中国" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化中国</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211728000" programName="微讲堂" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">微讲堂</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211748000" programName="帮帮团向前冲" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">帮帮团向前冲</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211805000" programName="湘潭新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湘潭新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211835000" programName="大揭秘" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大揭秘</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211900000" programName="转播中央台新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905211930000" programName="湘潭新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湘潭新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905212002000" programName="健康湘潭" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健康湘潭</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905212033000" programName="和平饭店(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">和平饭店(35)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905212137000" programName="和平饭店(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">和平饭店(36)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905212231000" programName="文化中国" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">文化中国</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905212258000" programName="湘潭新闻" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湘潭新闻</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905212339000" programName="都市日记" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">都市日记</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="4031905220020000" programName="健康湘潭" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健康湘潭</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="4031905210042000" programID="4031905210042000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 00:42:00" endTime="2019-05-21 03:36:00" catchedByOperator="" programName="大揭秘1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905210336000" programID="4031905210336000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 03:36:00" endTime="2019-05-21 06:30:00" catchedByOperator="" programName="大揭秘2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905210630000" programID="4031905210630000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 06:30:00" endTime="2019-05-21 07:01:00" catchedByOperator="" programName="都市日记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905210701000" programID="4031905210701000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 07:01:00" endTime="2019-05-21 07:41:00" catchedByOperator="" programName="湘潭新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905210741000" programID="4031905210741000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 07:41:00" endTime="2019-05-21 08:39:00" catchedByOperator="" programName="和平饭店(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905210839000" programID="4031905210839000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 08:39:00" endTime="2019-05-21 09:42:00" catchedByOperator="" programName="和平饭店(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905210942000" programID="4031905210942000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 09:42:00" endTime="2019-05-21 10:42:00" catchedByOperator="" programName="渔岛怒潮(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211042000" programID="4031905211042000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 10:42:00" endTime="2019-05-21 11:40:00" catchedByOperator="" programName="渔岛怒潮(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211140000" programID="4031905211140000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 11:40:00" endTime="2019-05-21 12:00:00" catchedByOperator="" programName="大揭秘" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211200000" programID="4031905211200000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 12:00:00" endTime="2019-05-21 12:44:00" catchedByOperator="" programName="湘潭新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211244000" programID="4031905211244000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 12:44:00" endTime="2019-05-21 13:05:00" catchedByOperator="" programName="健康湘潭" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211305000" programID="4031905211305000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 13:05:00" endTime="2019-05-21 14:03:00" catchedByOperator="" programName="渔岛怒潮(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211403000" programID="4031905211403000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 14:03:00" endTime="2019-05-21 15:02:00" catchedByOperator="" programName="渔岛怒潮(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211502000" programID="4031905211502000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 15:02:00" endTime="2019-05-21 15:57:00" catchedByOperator="" programName="渔岛怒潮(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211557000" programID="4031905211557000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 15:57:00" endTime="2019-05-21 17:00:00" catchedByOperator="" programName="渔岛怒潮(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211700000" programID="4031905211700000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 17:00:00" endTime="2019-05-21 17:28:00" catchedByOperator="" programName="文化中国" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211728000" programID="4031905211728000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 17:28:00" endTime="2019-05-21 17:48:00" catchedByOperator="" programName="微讲堂" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211748000" programID="4031905211748000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 17:48:00" endTime="2019-05-21 18:05:00" catchedByOperator="" programName="帮帮团向前冲" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211805000" programID="4031905211805000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 18:05:00" endTime="2019-05-21 18:35:00" catchedByOperator="" programName="湘潭新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211835000" programID="4031905211835000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 18:35:00" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="大揭秘" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211900000" programID="4031905211900000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:30:00" catchedByOperator="" programName="转播中央台新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905211930000" programID="4031905211930000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 19:30:00" endTime="2019-05-21 20:02:00" catchedByOperator="" programName="湘潭新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905212002000" programID="4031905212002000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 20:02:00" endTime="2019-05-21 20:33:00" catchedByOperator="" programName="健康湘潭" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905212033000" programID="4031905212033000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 20:33:00" endTime="2019-05-21 21:37:00" catchedByOperator="" programName="和平饭店(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905212137000" programID="4031905212137000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 21:37:00" endTime="2019-05-21 22:31:00" catchedByOperator="" programName="和平饭店(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905212231000" programID="4031905212231000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 22:31:00" endTime="2019-05-21 22:58:00" catchedByOperator="" programName="文化中国" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905212258000" programID="4031905212258000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 22:58:00" endTime="2019-05-21 23:39:00" catchedByOperator="" programName="湘潭新闻" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905212339000" programID="4031905212339000" channelID="403" channelName="湘潭综合" startTime="2019-05-21 23:39:00" endTime="2019-05-22 00:20:00" catchedByOperator="" programName="都市日记" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="4031905220020000" programID="4031905220020000" channelID="403" channelName="湘潭综合" startTime="2019-05-22 00:20:00" endTime="2019-05-22 00:38:00" catchedByOperator="" programName="健康湘潭" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

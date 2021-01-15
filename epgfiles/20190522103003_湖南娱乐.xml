@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:13:20" endTime="2019-05-22 01:15:02" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="103" channelName="湖南娱乐" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1031905210113200" programName="321动起来" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">321动起来</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905210202350" programName="我在北京挺好的(15)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的(15)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905210305520" programName="我在北京挺好的(16)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的(16)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905210411360" programName="我在北京挺好的(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的(17)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905210540350" programName="幸福约定" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福约定</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905210655240" programName="节目欣赏" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">节目欣赏</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905210723280" programName="我在北京挺好的" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211119260" programName="我是大赢家" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我是大赢家</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211231240" programName="幸福约定1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福约定1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211448240" programName="幸福约定2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福约定2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211707180" programName="321动起来" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">321动起来</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211737340" programName="冷暖先知" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">冷暖先知</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211740140" programName="我是大赢家" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我是大赢家</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211840590" programName="娱乐急先锋" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娱乐急先锋</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211846160" programName="321动起来" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">321动起来</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905211923260" programName="我在北京挺好的(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的(18)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905212037080" programName="我在北京挺好的(19)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的(19)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905212150570" programName="我在北京挺好的(20)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我在北京挺好的(20)</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905212318010" programName="我的1997" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的1997</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1031905220007460" programName="我的(1997)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的(1997)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1031905210113200" programID="1031905210113200" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 01:13:20" endTime="2019-05-21 02:02:35" catchedByOperator="" programName="321动起来" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905210202350" programID="1031905210202350" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 02:02:35" endTime="2019-05-21 03:05:52" catchedByOperator="" programName="我在北京挺好的(15)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905210305520" programID="1031905210305520" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 03:05:52" endTime="2019-05-21 04:11:36" catchedByOperator="" programName="我在北京挺好的(16)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905210411360" programID="1031905210411360" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 04:11:36" endTime="2019-05-21 05:40:35" catchedByOperator="" programName="我在北京挺好的(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905210540350" programID="1031905210540350" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 05:40:35" endTime="2019-05-21 06:55:24" catchedByOperator="" programName="幸福约定" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905210655240" programID="1031905210655240" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 06:55:24" endTime="2019-05-21 07:23:28" catchedByOperator="" programName="节目欣赏" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905210723280" programID="1031905210723280" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 07:23:28" endTime="2019-05-21 11:19:26" catchedByOperator="" programName="我在北京挺好的" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211119260" programID="1031905211119260" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 11:19:26" endTime="2019-05-21 12:31:24" catchedByOperator="" programName="我是大赢家" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211231240" programID="1031905211231240" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 12:31:24" endTime="2019-05-21 14:48:24" catchedByOperator="" programName="幸福约定1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211448240" programID="1031905211448240" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 14:48:24" endTime="2019-05-21 17:07:18" catchedByOperator="" programName="幸福约定2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211707180" programID="1031905211707180" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 17:07:18" endTime="2019-05-21 17:37:34" catchedByOperator="" programName="321动起来" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211737340" programID="1031905211737340" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 17:37:34" endTime="2019-05-21 17:40:14" catchedByOperator="" programName="冷暖先知" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211740140" programID="1031905211740140" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 17:40:14" endTime="2019-05-21 18:40:59" catchedByOperator="" programName="我是大赢家" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211840590" programID="1031905211840590" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 18:40:59" endTime="2019-05-21 18:46:16" catchedByOperator="" programName="娱乐急先锋" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211846160" programID="1031905211846160" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 18:46:16" endTime="2019-05-21 19:23:26" catchedByOperator="" programName="321动起来" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905211923260" programID="1031905211923260" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 19:23:26" endTime="2019-05-21 20:37:08" catchedByOperator="" programName="我在北京挺好的(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905212037080" programID="1031905212037080" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 20:37:08" endTime="2019-05-21 21:50:57" catchedByOperator="" programName="我在北京挺好的(19)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905212150570" programID="1031905212150570" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 21:50:57" endTime="2019-05-21 23:18:01" catchedByOperator="" programName="我在北京挺好的(20)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905212318010" programID="1031905212318010" channelID="103" channelName="湖南娱乐" startTime="2019-05-21 23:18:01" endTime="2019-05-22 00:07:46" catchedByOperator="" programName="我的1997" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1031905220007460" programID="1031905220007460" channelID="103" channelName="湖南娱乐" startTime="2019-05-22 00:07:46" endTime="2019-05-22 01:15:02" catchedByOperator="" programName="我的(1997)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

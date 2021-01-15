@@ -1,0 +1,27 @@
+source/fei/layer2/fcm/dune/dop_api/fei_fcm_fun.c
+18
+UINT32 FEI_PCM_RecvBoard
+source/fei/layer2/loop/np/dop_fwd/fei_dopnp_fwd_mstp.c
+34
+@@ -34,21 +34 6@@ UINT32 FEI_DOP_Set_port
+source/fei/layer2/mac/xgs/vfe_api/fei_vfexgs_mac.c
+169
+@@ -169,6 +169,21 @@ UINT32 FEI_MAC_INFO_SW_MACLimitcheck
++UINT32 FEI_VFE_Getlimit
+source/fei/layer3/arp/xgs/dop_api/fei_dopxgs_arp.c
+166
+@@ -166,6 +169,21 @@ UINT32 FEI_DOP_TRILL_Upfe
+UINT32 uiRet = VOS ;
+- UINT32 uiIfIndex =0;
+- UINT32 uipDID = 0;
+- UINT32 uipDJKD =0;
+source/fei/layer3/env/dune/dop_api/fei_dopdune_env_nhp.c
+180
+@@ -180,6 +180,12 @@ UINT32 FEI_DOPUNE_MacNhp_path
+source/fei/layer3/frm/dune/vfe_api/fei_vfe_sfe_dune.c
+43
+@@ -43 ,11 54 12 @@ UINT32 FEI_VFE_SPE
++UINT32 FEI2_VFE_INIT
++ UINT32 uiRet =VOS_OK;
+VOID FEI2_VFESFE_softPross
+UINT32 uiIfIndex=VOS_OK;

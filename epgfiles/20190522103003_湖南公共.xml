@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:56:04" endTime="2019-05-22 01:56:15" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="109" channelName="湖南公共" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1091905210156040" programName="隋唐英雄(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(31)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210236130" programName="隋唐英雄(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(32)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210316230" programName="隋唐英雄(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(33)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210356340" programName="隋唐英雄(34)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(34)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210436520" programName="神探包青天(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210559330" programName="神探包青天(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210702260" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210730040" programName="帮女郎大视野" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">帮女郎大视野</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210823080" programName="隋唐英雄(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(35)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905210908520" programName="隋唐英雄(36)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(36)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211005090" programName="隋唐英雄(37)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(37)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211101150" programName="隋唐英雄(38)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(38)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211209290" programName="隋唐英雄(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(39)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211315520" programName="神探包青天(25)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(25)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211413200" programName="神探包青天(26)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(26)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211517450" programName="神探包青天(27)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(27)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211625580" programName="神探包青天(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(28)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211730350" programName="你晓得不" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">你晓得不</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211800050" programName="帮女郎大视野" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">帮女郎大视野</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211902040" programName="公共气象" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">公共气象</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905211909290" programName="神探包青天(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(29)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212018520" programName="神探包青天(30)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(30)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212120120" programName="神探包青天(31)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神探包青天(31)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212134530" programName="神断狄仁杰(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神断狄仁杰(1)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212225040" programName="湖南新闻联播" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">湖南新闻联播</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212251460" programName="帮女郎福彩开奖" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">帮女郎福彩开奖</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212258320" programName="神雕侠侣(28)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神雕侠侣(28)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905212346510" programName="神雕侠侣(29)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">神雕侠侣(29)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1091905220052070" programName="隋唐英雄(35)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">隋唐英雄(35)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1091905210156040" programID="1091905210156040" channelID="109" channelName="湖南公共" startTime="2019-05-21 01:56:04" endTime="2019-05-21 02:36:13" catchedByOperator="" programName="隋唐英雄(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210236130" programID="1091905210236130" channelID="109" channelName="湖南公共" startTime="2019-05-21 02:36:13" endTime="2019-05-21 03:16:23" catchedByOperator="" programName="隋唐英雄(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210316230" programID="1091905210316230" channelID="109" channelName="湖南公共" startTime="2019-05-21 03:16:23" endTime="2019-05-21 03:56:34" catchedByOperator="" programName="隋唐英雄(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210356340" programID="1091905210356340" channelID="109" channelName="湖南公共" startTime="2019-05-21 03:56:34" endTime="2019-05-21 04:36:52" catchedByOperator="" programName="隋唐英雄(34)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210436520" programID="1091905210436520" channelID="109" channelName="湖南公共" startTime="2019-05-21 04:36:52" endTime="2019-05-21 05:59:33" catchedByOperator="" programName="神探包青天(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210559330" programID="1091905210559330" channelID="109" channelName="湖南公共" startTime="2019-05-21 05:59:33" endTime="2019-05-21 07:02:26" catchedByOperator="" programName="神探包青天(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210702260" programID="1091905210702260" channelID="109" channelName="湖南公共" startTime="2019-05-21 07:02:26" endTime="2019-05-21 07:30:04" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210730040" programID="1091905210730040" channelID="109" channelName="湖南公共" startTime="2019-05-21 07:30:04" endTime="2019-05-21 08:23:08" catchedByOperator="" programName="帮女郎大视野" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210823080" programID="1091905210823080" channelID="109" channelName="湖南公共" startTime="2019-05-21 08:23:08" endTime="2019-05-21 09:08:52" catchedByOperator="" programName="隋唐英雄(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905210908520" programID="1091905210908520" channelID="109" channelName="湖南公共" startTime="2019-05-21 09:08:52" endTime="2019-05-21 10:05:09" catchedByOperator="" programName="隋唐英雄(36)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211005090" programID="1091905211005090" channelID="109" channelName="湖南公共" startTime="2019-05-21 10:05:09" endTime="2019-05-21 11:01:15" catchedByOperator="" programName="隋唐英雄(37)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211101150" programID="1091905211101150" channelID="109" channelName="湖南公共" startTime="2019-05-21 11:01:15" endTime="2019-05-21 12:09:29" catchedByOperator="" programName="隋唐英雄(38)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211209290" programID="1091905211209290" channelID="109" channelName="湖南公共" startTime="2019-05-21 12:09:29" endTime="2019-05-21 13:15:52" catchedByOperator="" programName="隋唐英雄(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211315520" programID="1091905211315520" channelID="109" channelName="湖南公共" startTime="2019-05-21 13:15:52" endTime="2019-05-21 14:13:20" catchedByOperator="" programName="神探包青天(25)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211413200" programID="1091905211413200" channelID="109" channelName="湖南公共" startTime="2019-05-21 14:13:20" endTime="2019-05-21 15:17:45" catchedByOperator="" programName="神探包青天(26)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211517450" programID="1091905211517450" channelID="109" channelName="湖南公共" startTime="2019-05-21 15:17:45" endTime="2019-05-21 16:25:58" catchedByOperator="" programName="神探包青天(27)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211625580" programID="1091905211625580" channelID="109" channelName="湖南公共" startTime="2019-05-21 16:25:58" endTime="2019-05-21 17:30:35" catchedByOperator="" programName="神探包青天(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211730350" programID="1091905211730350" channelID="109" channelName="湖南公共" startTime="2019-05-21 17:30:35" endTime="2019-05-21 18:00:05" catchedByOperator="" programName="你晓得不" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211800050" programID="1091905211800050" channelID="109" channelName="湖南公共" startTime="2019-05-21 18:00:05" endTime="2019-05-21 19:02:04" catchedByOperator="" programName="帮女郎大视野" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211902040" programID="1091905211902040" channelID="109" channelName="湖南公共" startTime="2019-05-21 19:02:04" endTime="2019-05-21 19:09:29" catchedByOperator="" programName="公共气象" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905211909290" programID="1091905211909290" channelID="109" channelName="湖南公共" startTime="2019-05-21 19:09:29" endTime="2019-05-21 20:18:52" catchedByOperator="" programName="神探包青天(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212018520" programID="1091905212018520" channelID="109" channelName="湖南公共" startTime="2019-05-21 20:18:52" endTime="2019-05-21 21:20:12" catchedByOperator="" programName="神探包青天(30)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212120120" programID="1091905212120120" channelID="109" channelName="湖南公共" startTime="2019-05-21 21:20:12" endTime="2019-05-21 21:34:53" catchedByOperator="" programName="神探包青天(31)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212134530" programID="1091905212134530" channelID="109" channelName="湖南公共" startTime="2019-05-21 21:34:53" endTime="2019-05-21 22:25:04" catchedByOperator="" programName="神断狄仁杰(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212225040" programID="1091905212225040" channelID="109" channelName="湖南公共" startTime="2019-05-21 22:25:04" endTime="2019-05-21 22:51:46" catchedByOperator="" programName="湖南新闻联播" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212251460" programID="1091905212251460" channelID="109" channelName="湖南公共" startTime="2019-05-21 22:51:46" endTime="2019-05-21 22:58:32" catchedByOperator="" programName="帮女郎福彩开奖" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212258320" programID="1091905212258320" channelID="109" channelName="湖南公共" startTime="2019-05-21 22:58:32" endTime="2019-05-21 23:46:51" catchedByOperator="" programName="神雕侠侣(28)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905212346510" programID="1091905212346510" channelID="109" channelName="湖南公共" startTime="2019-05-21 23:46:51" endTime="2019-05-22 00:52:07" catchedByOperator="" programName="神雕侠侣(29)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1091905220052070" programID="1091905220052070" channelID="109" channelName="湖南公共" startTime="2019-05-22 00:52:07" endTime="2019-05-22 01:56:15" catchedByOperator="" programName="隋唐英雄(35)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

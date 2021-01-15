@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:16:02" endTime="2019-05-22 01:16:03" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="318" channelName="CCTV-10高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3181905210116020" programName="自然传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">自然传奇20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210206020" programName="真相20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真相20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210300330" programName="停机检修20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">停机检修20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210600020" programName="读书20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">读书20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210610020" programName="地理中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">地理中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210639320" programName="走近科学20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">走近科学20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210709320" programName="大真探20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大真探20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210808480" programName="探索发现20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探索发现20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210856320" programName="健康之路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健康之路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905210944010" programName="自然传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">自然传奇20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211043020" programName="真相20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">真相20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211143020" programName="读书20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">读书20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211153010" programName="百家讲坛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">百家讲坛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211240460" programName="中国影像方志:江苏卷阜宁篇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国影像方志:江苏卷阜宁篇20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211329310" programName="我爱发明20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我爱发明20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211428020" programName="走近科学20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">走近科学20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211455020" programName="地理中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">地理中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211527020" programName="自然传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">自然传奇20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211628170" programName="大真探20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大真探20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211726170" programName="地理中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">地理中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211758020" programName="健康之路20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">健康之路20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211846320" programName="我爱发明20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我爱发明20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905211945030" programName="自然传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">自然传奇20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905212045180" programName="穿越北回归线(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">穿越北回归线(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905212120030" programName="探索发现20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探索发现20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905212209030" programName="飞向月球(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">飞向月球(3)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905212239020" programName="大真探20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大真探20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905212336330" programName="百家讲坛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">百家讲坛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905220022030" programName="读书20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">读书20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3181905220032020" programName="探索发现20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探索发现20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3181905210116020" programID="3181905210116020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 01:16:02" endTime="2019-05-21 02:06:02" catchedByOperator="" programName="自然传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210206020" programID="3181905210206020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 02:06:02" endTime="2019-05-21 03:00:33" catchedByOperator="" programName="真相20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210300330" programID="3181905210300330" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 03:00:33" endTime="2019-05-21 06:00:02" catchedByOperator="" programName="停机检修20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210600020" programID="3181905210600020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 06:00:02" endTime="2019-05-21 06:10:02" catchedByOperator="" programName="读书20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210610020" programID="3181905210610020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 06:10:02" endTime="2019-05-21 06:39:32" catchedByOperator="" programName="地理中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210639320" programID="3181905210639320" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 06:39:32" endTime="2019-05-21 07:09:32" catchedByOperator="" programName="走近科学20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210709320" programID="3181905210709320" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 07:09:32" endTime="2019-05-21 08:08:48" catchedByOperator="" programName="大真探20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210808480" programID="3181905210808480" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 08:08:48" endTime="2019-05-21 08:56:32" catchedByOperator="" programName="探索发现20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210856320" programID="3181905210856320" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 08:56:32" endTime="2019-05-21 09:44:01" catchedByOperator="" programName="健康之路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905210944010" programID="3181905210944010" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 09:44:01" endTime="2019-05-21 10:43:02" catchedByOperator="" programName="自然传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211043020" programID="3181905211043020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 10:43:02" endTime="2019-05-21 11:43:02" catchedByOperator="" programName="真相20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211143020" programID="3181905211143020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 11:43:02" endTime="2019-05-21 11:53:01" catchedByOperator="" programName="读书20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211153010" programID="3181905211153010" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 11:53:01" endTime="2019-05-21 12:40:46" catchedByOperator="" programName="百家讲坛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211240460" programID="3181905211240460" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 12:40:46" endTime="2019-05-21 13:29:31" catchedByOperator="" programName="中国影像方志:江苏卷阜宁篇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211329310" programID="3181905211329310" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 13:29:31" endTime="2019-05-21 14:28:02" catchedByOperator="" programName="我爱发明20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211428020" programID="3181905211428020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 14:28:02" endTime="2019-05-21 14:55:02" catchedByOperator="" programName="走近科学20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211455020" programID="3181905211455020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 14:55:02" endTime="2019-05-21 15:27:02" catchedByOperator="" programName="地理中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211527020" programID="3181905211527020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 15:27:02" endTime="2019-05-21 16:28:17" catchedByOperator="" programName="自然传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211628170" programID="3181905211628170" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 16:28:17" endTime="2019-05-21 17:26:17" catchedByOperator="" programName="大真探20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211726170" programID="3181905211726170" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 17:26:17" endTime="2019-05-21 17:58:02" catchedByOperator="" programName="地理中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211758020" programID="3181905211758020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 17:58:02" endTime="2019-05-21 18:46:32" catchedByOperator="" programName="健康之路20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211846320" programID="3181905211846320" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 18:46:32" endTime="2019-05-21 19:45:03" catchedByOperator="" programName="我爱发明20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905211945030" programID="3181905211945030" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 19:45:03" endTime="2019-05-21 20:45:18" catchedByOperator="" programName="自然传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905212045180" programID="3181905212045180" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 20:45:18" endTime="2019-05-21 21:20:03" catchedByOperator="" programName="穿越北回归线(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905212120030" programID="3181905212120030" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 21:20:03" endTime="2019-05-21 22:09:03" catchedByOperator="" programName="探索发现20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905212209030" programID="3181905212209030" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 22:09:03" endTime="2019-05-21 22:39:02" catchedByOperator="" programName="飞向月球(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905212239020" programID="3181905212239020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 22:39:02" endTime="2019-05-21 23:36:33" catchedByOperator="" programName="大真探20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905212336330" programID="3181905212336330" channelID="318" channelName="CCTV-10高清" startTime="2019-05-21 23:36:33" endTime="2019-05-22 00:22:03" catchedByOperator="" programName="百家讲坛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905220022030" programID="3181905220022030" channelID="318" channelName="CCTV-10高清" startTime="2019-05-22 00:22:03" endTime="2019-05-22 00:32:02" catchedByOperator="" programName="读书20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3181905220032020" programID="3181905220032020" channelID="318" channelName="CCTV-10高清" startTime="2019-05-22 00:32:02" endTime="2019-05-22 01:16:03" catchedByOperator="" programName="探索发现20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

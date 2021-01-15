@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:35:15" endTime="2019-05-22 01:56:09" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="206" channelName="东南卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2061905210135150" programName="中国正在说20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">中国正在说20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210223180" programName="台湾新闻脸20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">台湾新闻脸20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210303180" programName="鲁豫有约一日行20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鲁豫有约一日行20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210349180" programName="大国质量(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大国质量(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210439110" programName="海峡艺术名家20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海峡艺术名家20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210459120" programName="食来运转20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">食来运转20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210521000" programName="尖刀20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">尖刀20190521</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210700500" programName="早安福建20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">早安福建20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210731360" programName="东南早间气象20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东南早间气象20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210735390" programName="面具20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">面具20190521</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210808080" programName="三生三世十里桃花20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">三生三世十里桃花20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210920380" programName="美丽新时代20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽新时代20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905210956480" programName="三生三世十里桃花20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">三生三世十里桃花20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211125030" programName="美丽新时代20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美丽新时代20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211200010" programName="海峡午报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海峡午报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211245400" programName="三生三世十里桃花20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">三生三世十里桃花20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211340160" programName="游击英雄20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">游击英雄20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211500460" programName="蜀山传20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">蜀山传20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211534490" programName="美如会20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">美如会20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211601160" programName="蜀山传20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">蜀山传20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211635190" programName="伊人风尚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">伊人风尚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211701410" programName="蜀山传20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">蜀山传20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211741350" programName="环球报道20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">环球报道20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211803060" programName="娱乐乐翻天20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">娱乐乐翻天20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211825100" programName="东南气象快讯20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东南气象快讯20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211830010" programName="福建卫视新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">福建卫视新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905211934560" programName="你和我的倾城时光(39)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">你和我的倾城时光(39)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905212035250" programName="你和我的倾城时光(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">你和我的倾城时光(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905212125260" programName="大国质量(2)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大国质量(2)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905212222010" programName="海峡新干线20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">海峡新干线20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905212310020" programName="东南晚报20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">东南晚报20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905212324320" programName="地球之极侣行Ⅱ20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">地球之极侣行Ⅱ20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2061905212345180" programName="蜀山传20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">蜀山传20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2061905210135150" programID="2061905210135150" channelID="206" channelName="东南卫视" startTime="2019-05-21 01:35:15" endTime="2019-05-21 02:23:18" catchedByOperator="" programName="中国正在说20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210223180" programID="2061905210223180" channelID="206" channelName="东南卫视" startTime="2019-05-21 02:23:18" endTime="2019-05-21 03:03:18" catchedByOperator="" programName="台湾新闻脸20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210303180" programID="2061905210303180" channelID="206" channelName="东南卫视" startTime="2019-05-21 03:03:18" endTime="2019-05-21 03:49:18" catchedByOperator="" programName="鲁豫有约一日行20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210349180" programID="2061905210349180" channelID="206" channelName="东南卫视" startTime="2019-05-21 03:49:18" endTime="2019-05-21 04:39:11" catchedByOperator="" programName="大国质量(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210439110" programID="2061905210439110" channelID="206" channelName="东南卫视" startTime="2019-05-21 04:39:11" endTime="2019-05-21 04:59:12" catchedByOperator="" programName="海峡艺术名家20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210459120" programID="2061905210459120" channelID="206" channelName="东南卫视" startTime="2019-05-21 04:59:12" endTime="2019-05-21 05:21:00" catchedByOperator="" programName="食来运转20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210521000" programID="2061905210521000" channelID="206" channelName="东南卫视" startTime="2019-05-21 05:21:00" endTime="2019-05-21 07:00:50" catchedByOperator="" programName="尖刀20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210700500" programID="2061905210700500" channelID="206" channelName="东南卫视" startTime="2019-05-21 07:00:50" endTime="2019-05-21 07:31:36" catchedByOperator="" programName="早安福建20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210731360" programID="2061905210731360" channelID="206" channelName="东南卫视" startTime="2019-05-21 07:31:36" endTime="2019-05-21 07:35:39" catchedByOperator="" programName="东南早间气象20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210735390" programID="2061905210735390" channelID="206" channelName="东南卫视" startTime="2019-05-21 07:35:39" endTime="2019-05-21 08:08:08" catchedByOperator="" programName="面具20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210808080" programID="2061905210808080" channelID="206" channelName="东南卫视" startTime="2019-05-21 08:08:08" endTime="2019-05-21 09:20:38" catchedByOperator="" programName="三生三世十里桃花20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210920380" programID="2061905210920380" channelID="206" channelName="东南卫视" startTime="2019-05-21 09:20:38" endTime="2019-05-21 09:56:48" catchedByOperator="" programName="美丽新时代20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905210956480" programID="2061905210956480" channelID="206" channelName="东南卫视" startTime="2019-05-21 09:56:48" endTime="2019-05-21 11:25:03" catchedByOperator="" programName="三生三世十里桃花20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211125030" programID="2061905211125030" channelID="206" channelName="东南卫视" startTime="2019-05-21 11:25:03" endTime="2019-05-21 12:00:01" catchedByOperator="" programName="美丽新时代20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211200010" programID="2061905211200010" channelID="206" channelName="东南卫视" startTime="2019-05-21 12:00:01" endTime="2019-05-21 12:45:40" catchedByOperator="" programName="海峡午报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211245400" programID="2061905211245400" channelID="206" channelName="东南卫视" startTime="2019-05-21 12:45:40" endTime="2019-05-21 13:40:16" catchedByOperator="" programName="三生三世十里桃花20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211340160" programID="2061905211340160" channelID="206" channelName="东南卫视" startTime="2019-05-21 13:40:16" endTime="2019-05-21 15:00:46" catchedByOperator="" programName="游击英雄20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211500460" programID="2061905211500460" channelID="206" channelName="东南卫视" startTime="2019-05-21 15:00:46" endTime="2019-05-21 15:34:49" catchedByOperator="" programName="蜀山传20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211534490" programID="2061905211534490" channelID="206" channelName="东南卫视" startTime="2019-05-21 15:34:49" endTime="2019-05-21 16:01:16" catchedByOperator="" programName="美如会20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211601160" programID="2061905211601160" channelID="206" channelName="东南卫视" startTime="2019-05-21 16:01:16" endTime="2019-05-21 16:35:19" catchedByOperator="" programName="蜀山传20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211635190" programID="2061905211635190" channelID="206" channelName="东南卫视" startTime="2019-05-21 16:35:19" endTime="2019-05-21 17:01:41" catchedByOperator="" programName="伊人风尚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211701410" programID="2061905211701410" channelID="206" channelName="东南卫视" startTime="2019-05-21 17:01:41" endTime="2019-05-21 17:41:35" catchedByOperator="" programName="蜀山传20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211741350" programID="2061905211741350" channelID="206" channelName="东南卫视" startTime="2019-05-21 17:41:35" endTime="2019-05-21 18:03:06" catchedByOperator="" programName="环球报道20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211803060" programID="2061905211803060" channelID="206" channelName="东南卫视" startTime="2019-05-21 18:03:06" endTime="2019-05-21 18:25:10" catchedByOperator="" programName="娱乐乐翻天20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211825100" programID="2061905211825100" channelID="206" channelName="东南卫视" startTime="2019-05-21 18:25:10" endTime="2019-05-21 18:30:01" catchedByOperator="" programName="东南气象快讯20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211830010" programID="2061905211830010" channelID="206" channelName="东南卫视" startTime="2019-05-21 18:30:01" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="福建卫视新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211900000" programID="2061905211900000" channelID="206" channelName="东南卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:34:56" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905211934560" programID="2061905211934560" channelID="206" channelName="东南卫视" startTime="2019-05-21 19:34:56" endTime="2019-05-21 20:35:25" catchedByOperator="" programName="你和我的倾城时光(39)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905212035250" programID="2061905212035250" channelID="206" channelName="东南卫视" startTime="2019-05-21 20:35:25" endTime="2019-05-21 21:25:26" catchedByOperator="" programName="你和我的倾城时光(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905212125260" programID="2061905212125260" channelID="206" channelName="东南卫视" startTime="2019-05-21 21:25:26" endTime="2019-05-21 22:22:01" catchedByOperator="" programName="大国质量(2)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905212222010" programID="2061905212222010" channelID="206" channelName="东南卫视" startTime="2019-05-21 22:22:01" endTime="2019-05-21 23:10:02" catchedByOperator="" programName="海峡新干线20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905212310020" programID="2061905212310020" channelID="206" channelName="东南卫视" startTime="2019-05-21 23:10:02" endTime="2019-05-21 23:24:32" catchedByOperator="" programName="东南晚报20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905212324320" programID="2061905212324320" channelID="206" channelName="东南卫视" startTime="2019-05-21 23:24:32" endTime="2019-05-21 23:45:18" catchedByOperator="" programName="地球之极侣行Ⅱ20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2061905212345180" programID="2061905212345180" channelID="206" channelName="东南卫视" startTime="2019-05-21 23:45:18" endTime="2019-05-22 01:56:09" catchedByOperator="" programName="蜀山传20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

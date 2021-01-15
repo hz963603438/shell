@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:01" startTime="2019-05-21 01:27:06" endTime="2019-05-22 01:39:54" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="301" channelName="CCTV-5+" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3011905210127060" programName="2019年男子冰球世锦赛顶级组小组赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年男子冰球世锦赛顶级组小组赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210252070" programName="18/19赛季意甲第37轮:萨索洛-罗马20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">18/19赛季意甲第37轮:萨索洛-罗马20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210416060" programName="2018/2019赛季CBA总决赛第一场:广东东莞银行-新疆广汇汽车20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2018/2019赛季CBA总决赛第一场:广东东莞银行-新疆广汇汽车20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210540070" programName="2019年男子冰球世锦赛顶级组小组赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年男子冰球世锦赛顶级组小组赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210705070" programName="2019年赛艇世界杯普罗夫迪夫站女子双人单浆决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年赛艇世界杯普罗夫迪夫站女子双人单浆决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210716580" programName="2019年赛艇世界杯普罗夫迪夫站女子双人双浆决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年赛艇世界杯普罗夫迪夫站女子双人双浆决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210729270" programName="2019年赛艇世界杯普罗夫迪夫站男子双人双桨决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年赛艇世界杯普罗夫迪夫站男子双人双桨决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210738310" programName="2019年赛艇世界杯普罗夫迪夫站轻量级女子双人双桨决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年赛艇世界杯普罗夫迪夫站轻量级女子双人双桨决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210748350" programName="2019年赛艇世界杯普罗夫迪夫站女子单人双浆决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年赛艇世界杯普罗夫迪夫站女子单人双浆决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210800070" programName="2019年中国平安中超联赛第10轮:北京中赫国安-天津天海20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年中国平安中超联赛第10轮:北京中赫国安-天津天海20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905210930070" programName="18/19赛季意甲第37轮:萨索洛-罗马20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">18/19赛季意甲第37轮:萨索洛-罗马20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211107180" programName="2019年苏迪曼杯羽毛球赛小组赛D组1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年苏迪曼杯羽毛球赛小组赛D组1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211332180" programName="2019年苏迪曼杯羽毛球赛小组赛D组2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年苏迪曼杯羽毛球赛小组赛D组2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211559080" programName="2019年ATP1000男子网球大师赛罗马站决赛20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年ATP1000男子网球大师赛罗马站决赛20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211725070" programName="欧冠开场哨20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">欧冠开场哨20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211757100" programName="2019年亚洲冠军联赛小组赛H组第6轮:中国上海上港-韩国蔚山20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年亚洲冠军联赛小组赛H组第6轮:中国上海上港-韩国蔚山20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211849400" programName="现场直播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">现场直播20190521</MetaData>
+                <MetaData mdUID="3">综合</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211900530" programName="2019年亚洲冠军联赛小组赛H组第6轮:中国上海上港-韩国蔚山20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年亚洲冠军联赛小组赛H组第6轮:中国上海上港-韩国蔚山20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905211959550" programName="2019年国际冰联男子冰球世界锦标赛顶级组20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年国际冰联男子冰球世界锦标赛顶级组20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905212158270" programName="2019年世界女排联赛保加利亚站:比利时-美国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年世界女排联赛保加利亚站:比利时-美国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905212328030" programName="冰球冰球20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">冰球冰球20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905220002080" programName="2019年男子冰球世锦赛顶级组小组赛20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年男子冰球世锦赛顶级组小组赛20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3011905220125080" programName="2019年攀岩世界杯中国吴江站女子抱石决赛20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">2019年攀岩世界杯中国吴江站女子抱石决赛20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3011905210127060" programID="3011905210127060" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 01:27:06" endTime="2019-05-21 02:52:07" catchedByOperator="" programName="2019年男子冰球世锦赛顶级组小组赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210252070" programID="3011905210252070" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 02:52:07" endTime="2019-05-21 04:16:06" catchedByOperator="" programName="18/19赛季意甲第37轮:萨索洛-罗马20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210416060" programID="3011905210416060" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 04:16:06" endTime="2019-05-21 05:40:07" catchedByOperator="" programName="2018/2019赛季CBA总决赛第一场:广东东莞银行-新疆广汇汽车20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210540070" programID="3011905210540070" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 05:40:07" endTime="2019-05-21 07:05:07" catchedByOperator="" programName="2019年男子冰球世锦赛顶级组小组赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210705070" programID="3011905210705070" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 07:05:07" endTime="2019-05-21 07:16:58" catchedByOperator="" programName="2019年赛艇世界杯普罗夫迪夫站女子双人单浆决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210716580" programID="3011905210716580" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 07:16:58" endTime="2019-05-21 07:29:27" catchedByOperator="" programName="2019年赛艇世界杯普罗夫迪夫站女子双人双浆决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210729270" programID="3011905210729270" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 07:29:27" endTime="2019-05-21 07:38:31" catchedByOperator="" programName="2019年赛艇世界杯普罗夫迪夫站男子双人双桨决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210738310" programID="3011905210738310" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 07:38:31" endTime="2019-05-21 07:48:35" catchedByOperator="" programName="2019年赛艇世界杯普罗夫迪夫站轻量级女子双人双桨决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210748350" programID="3011905210748350" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 07:48:35" endTime="2019-05-21 08:00:07" catchedByOperator="" programName="2019年赛艇世界杯普罗夫迪夫站女子单人双浆决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210800070" programID="3011905210800070" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 08:00:07" endTime="2019-05-21 09:30:07" catchedByOperator="" programName="2019年中国平安中超联赛第10轮:北京中赫国安-天津天海20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905210930070" programID="3011905210930070" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 09:30:07" endTime="2019-05-21 11:07:18" catchedByOperator="" programName="18/19赛季意甲第37轮:萨索洛-罗马20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211107180" programID="3011905211107180" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 11:07:18" endTime="2019-05-21 13:32:18" catchedByOperator="" programName="2019年苏迪曼杯羽毛球赛小组赛D组1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211332180" programID="3011905211332180" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 13:32:18" endTime="2019-05-21 15:59:08" catchedByOperator="" programName="2019年苏迪曼杯羽毛球赛小组赛D组2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211559080" programID="3011905211559080" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 15:59:08" endTime="2019-05-21 17:25:07" catchedByOperator="" programName="2019年ATP1000男子网球大师赛罗马站决赛20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211725070" programID="3011905211725070" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 17:25:07" endTime="2019-05-21 17:57:10" catchedByOperator="" programName="欧冠开场哨20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211757100" programID="3011905211757100" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 17:57:10" endTime="2019-05-21 18:49:40" catchedByOperator="" programName="2019年亚洲冠军联赛小组赛H组第6轮:中国上海上港-韩国蔚山20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211849400" programID="3011905211849400" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 18:49:40" endTime="2019-05-21 19:00:53" catchedByOperator="" programName="现场直播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211900530" programID="3011905211900530" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 19:00:53" endTime="2019-05-21 19:59:55" catchedByOperator="" programName="2019年亚洲冠军联赛小组赛H组第6轮:中国上海上港-韩国蔚山20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905211959550" programID="3011905211959550" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 19:59:55" endTime="2019-05-21 21:58:27" catchedByOperator="" programName="2019年国际冰联男子冰球世界锦标赛顶级组20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905212158270" programID="3011905212158270" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 21:58:27" endTime="2019-05-21 23:28:03" catchedByOperator="" programName="2019年世界女排联赛保加利亚站:比利时-美国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905212328030" programID="3011905212328030" channelID="301" channelName="CCTV-5+" startTime="2019-05-21 23:28:03" endTime="2019-05-22 00:02:08" catchedByOperator="" programName="冰球冰球20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905220002080" programID="3011905220002080" channelID="301" channelName="CCTV-5+" startTime="2019-05-22 00:02:08" endTime="2019-05-22 01:25:08" catchedByOperator="" programName="2019年男子冰球世锦赛顶级组小组赛20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3011905220125080" programID="3011905220125080" channelID="301" channelName="CCTV-5+" startTime="2019-05-22 01:25:08" endTime="2019-05-22 01:39:54" catchedByOperator="" programName="2019年攀岩世界杯中国吴江站女子抱石决赛20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

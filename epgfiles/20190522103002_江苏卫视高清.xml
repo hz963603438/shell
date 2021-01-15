@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:02:22" endTime="2019-05-22 01:01:04" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="304" channelName="江苏卫视高清" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="3041905210102220" programName="行走山河之北纬三十度1" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">行走山河之北纬三十度1</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210320220" programName="行走山河之北纬三十度2" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">行走山河之北纬三十度2</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210539520" programName="江南文脉诗词篇:枫桥夜泊20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江南文脉诗词篇:枫桥夜泊20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210544530" programName="江南文脉诗词篇:江南春20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江南文脉诗词篇:江南春20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210549530" programName="江南文脉诗词篇:题金陵渡20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江南文脉诗词篇:题金陵渡20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210554540" programName="约见名医20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">约见名医20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210622450" programName="本草中国(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">本草中国(4)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210700540" programName="江苏新时空20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江苏新时空20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210725280" programName="一场遇见爱情的旅行20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一场遇见爱情的旅行20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210810080" programName="可爱的中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">可爱的中国20190521</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905210912590" programName="父母爱情20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">父母爱情20190521</MetaData>
+                <MetaData mdUID="3">言情</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211107010" programName="非诚勿扰20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">非诚勿扰20190521</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211232130" programName="幸福今晚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福今晚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211237140" programName="新相亲大会20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新相亲大会20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211428000" programName="非诚勿扰20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">非诚勿扰20190521</MetaData>
+                <MetaData mdUID="3">喜剧</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211714190" programName="家屋室的主人20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">家屋室的主人20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211800040" programName="新闻眼20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新闻眼20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211830040" programName="江苏新时空20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">江苏新时空20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211855340" programName="幸福今晚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">幸福今晚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905211931520" programName="我要和你在一起(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我要和你在一起(6)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905212017410" programName="片花开了20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">片花开了20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905212024360" programName="我要和你在一起(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我要和你在一起(7)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905212112460" programName="一站到底英雄联盟前传20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">一站到底英雄联盟前传20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905212213300" programName="大叔小馆20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">大叔小馆20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905212325320" programName="新相亲时代20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">新相亲时代20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905212359190" programName="时代问答20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">时代问答20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905220026500" programName="晚间新闻20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间新闻20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="3041905220038050" programName="茶界中国(1)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">茶界中国(1)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="3041905210102220" programID="3041905210102220" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 01:02:22" endTime="2019-05-21 03:20:22" catchedByOperator="" programName="行走山河之北纬三十度1" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210320220" programID="3041905210320220" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 03:20:22" endTime="2019-05-21 05:39:52" catchedByOperator="" programName="行走山河之北纬三十度2" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210539520" programID="3041905210539520" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 05:39:52" endTime="2019-05-21 05:44:53" catchedByOperator="" programName="江南文脉诗词篇:枫桥夜泊20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210544530" programID="3041905210544530" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 05:44:53" endTime="2019-05-21 05:49:53" catchedByOperator="" programName="江南文脉诗词篇:江南春20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210549530" programID="3041905210549530" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 05:49:53" endTime="2019-05-21 05:54:54" catchedByOperator="" programName="江南文脉诗词篇:题金陵渡20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210554540" programID="3041905210554540" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 05:54:54" endTime="2019-05-21 06:22:45" catchedByOperator="" programName="约见名医20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210622450" programID="3041905210622450" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 06:22:45" endTime="2019-05-21 07:00:54" catchedByOperator="" programName="本草中国(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210700540" programID="3041905210700540" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 07:00:54" endTime="2019-05-21 07:25:28" catchedByOperator="" programName="江苏新时空20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210725280" programID="3041905210725280" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 07:25:28" endTime="2019-05-21 08:10:08" catchedByOperator="" programName="一场遇见爱情的旅行20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210810080" programID="3041905210810080" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 08:10:08" endTime="2019-05-21 09:12:59" catchedByOperator="" programName="可爱的中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905210912590" programID="3041905210912590" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 09:12:59" endTime="2019-05-21 11:07:01" catchedByOperator="" programName="父母爱情20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211107010" programID="3041905211107010" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 11:07:01" endTime="2019-05-21 12:32:13" catchedByOperator="" programName="非诚勿扰20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211232130" programID="3041905211232130" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 12:32:13" endTime="2019-05-21 12:37:14" catchedByOperator="" programName="幸福今晚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211237140" programID="3041905211237140" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 12:37:14" endTime="2019-05-21 14:28:00" catchedByOperator="" programName="新相亲大会20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211428000" programID="3041905211428000" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 14:28:00" endTime="2019-05-21 17:14:19" catchedByOperator="" programName="非诚勿扰20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211714190" programID="3041905211714190" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 17:14:19" endTime="2019-05-21 18:00:04" catchedByOperator="" programName="家屋室的主人20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211800040" programID="3041905211800040" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 18:00:04" endTime="2019-05-21 18:30:04" catchedByOperator="" programName="新闻眼20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211830040" programID="3041905211830040" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 18:30:04" endTime="2019-05-21 18:55:34" catchedByOperator="" programName="江苏新时空20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211855340" programID="3041905211855340" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 18:55:34" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="幸福今晚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211900000" programID="3041905211900000" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:31:52" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905211931520" programID="3041905211931520" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 19:31:52" endTime="2019-05-21 20:17:41" catchedByOperator="" programName="我要和你在一起(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905212017410" programID="3041905212017410" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 20:17:41" endTime="2019-05-21 20:24:36" catchedByOperator="" programName="片花开了20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905212024360" programID="3041905212024360" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 20:24:36" endTime="2019-05-21 21:12:46" catchedByOperator="" programName="我要和你在一起(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905212112460" programID="3041905212112460" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 21:12:46" endTime="2019-05-21 22:13:30" catchedByOperator="" programName="一站到底英雄联盟前传20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905212213300" programID="3041905212213300" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 22:13:30" endTime="2019-05-21 23:25:32" catchedByOperator="" programName="大叔小馆20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905212325320" programID="3041905212325320" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 23:25:32" endTime="2019-05-21 23:59:19" catchedByOperator="" programName="新相亲时代20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905212359190" programID="3041905212359190" channelID="304" channelName="江苏卫视高清" startTime="2019-05-21 23:59:19" endTime="2019-05-22 00:26:50" catchedByOperator="" programName="时代问答20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905220026500" programID="3041905220026500" channelID="304" channelName="江苏卫视高清" startTime="2019-05-22 00:26:50" endTime="2019-05-22 00:38:05" catchedByOperator="" programName="晚间新闻20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="3041905220038050" programID="3041905220038050" channelID="304" channelName="江苏卫视高清" startTime="2019-05-22 00:38:05" endTime="2019-05-22 01:01:04" catchedByOperator="" programName="茶界中国(1)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

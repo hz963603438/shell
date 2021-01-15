@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:02" startTime="2019-05-21 01:13:42" endTime="2019-05-22 01:12:32" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="214" channelName="云南卫视" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="2141905210113420" programName="独立纵队(3)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">独立纵队(3)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210205410" programName="独立纵队(4)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">独立纵队(4)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210245410" programName="记住乡愁第一季(60)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第一季(60)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210446180" programName="独立纵队(5)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">独立纵队(5)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210523210" programName="独立纵队(6)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">独立纵队(6)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210627520" programName="记住乡愁第二季(40)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">记住乡愁第二季(40)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210701060" programName="云南新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">云南新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210727410" programName="水浒传(97)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(97)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210822010" programName="鹿精灵(17)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鹿精灵(17)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210835020" programName="鹿精灵(18)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">鹿精灵(18)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210850370" programName="水浒传(98)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(98)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905210948210" programName="水浒传(99)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(99)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211045560" programName="水浒传(100)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(100)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211143260" programName="水浒传(101)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(101)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211216260" programName="伊人风尚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">伊人风尚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211250570" programName="水浒传(102)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">水浒传(102)</MetaData>
+                <MetaData mdUID="3">古装</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211349210" programName="战火连天(11)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战火连天(11)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211448520" programName="战火连天(12)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战火连天(12)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211547460" programName="战火连天(13)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战火连天(13)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211620460" programName="伊人风尚20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">伊人风尚20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211659010" programName="战火连天(14)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">战火连天(14)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211821210" programName="诗的远方梦的故乡20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">诗的远方梦的故乡20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211830140" programName="云南新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">云南新闻联播20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211856010" programName="关注天气20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">关注天气20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211900000" programName="转播中央台新闻联播20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">转播中央台新闻联播20190521</MetaData>
+                <MetaData mdUID="3">时政</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905211933310" programName="守婚如玉(32)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">守婚如玉(32)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905212023560" programName="守婚如玉(33)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">守婚如玉(33)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905212132160" programName="经典人文地理20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">经典人文地理20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905212220060" programName="晚间新闻20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">晚间新闻20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905212303210" programName="好在了我的家:家园20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">好在了我的家:家园20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905212314220" programName="独立纵队(7)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">独立纵队(7)</MetaData>
+                <MetaData mdUID="3">战争</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="2141905220019310" programName="独立纵队(8)" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">独立纵队(8)</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="2141905210113420" programID="2141905210113420" channelID="214" channelName="云南卫视" startTime="2019-05-21 01:13:42" endTime="2019-05-21 02:05:41" catchedByOperator="" programName="独立纵队(3)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210205410" programID="2141905210205410" channelID="214" channelName="云南卫视" startTime="2019-05-21 02:05:41" endTime="2019-05-21 02:45:41" catchedByOperator="" programName="独立纵队(4)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210245410" programID="2141905210245410" channelID="214" channelName="云南卫视" startTime="2019-05-21 02:45:41" endTime="2019-05-21 04:46:18" catchedByOperator="" programName="记住乡愁第一季(60)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210446180" programID="2141905210446180" channelID="214" channelName="云南卫视" startTime="2019-05-21 04:46:18" endTime="2019-05-21 05:23:21" catchedByOperator="" programName="独立纵队(5)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210523210" programID="2141905210523210" channelID="214" channelName="云南卫视" startTime="2019-05-21 05:23:21" endTime="2019-05-21 06:27:52" catchedByOperator="" programName="独立纵队(6)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210627520" programID="2141905210627520" channelID="214" channelName="云南卫视" startTime="2019-05-21 06:27:52" endTime="2019-05-21 07:01:06" catchedByOperator="" programName="记住乡愁第二季(40)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210701060" programID="2141905210701060" channelID="214" channelName="云南卫视" startTime="2019-05-21 07:01:06" endTime="2019-05-21 07:27:41" catchedByOperator="" programName="云南新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210727410" programID="2141905210727410" channelID="214" channelName="云南卫视" startTime="2019-05-21 07:27:41" endTime="2019-05-21 08:22:01" catchedByOperator="" programName="水浒传(97)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210822010" programID="2141905210822010" channelID="214" channelName="云南卫视" startTime="2019-05-21 08:22:01" endTime="2019-05-21 08:35:02" catchedByOperator="" programName="鹿精灵(17)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210835020" programID="2141905210835020" channelID="214" channelName="云南卫视" startTime="2019-05-21 08:35:02" endTime="2019-05-21 08:50:37" catchedByOperator="" programName="鹿精灵(18)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210850370" programID="2141905210850370" channelID="214" channelName="云南卫视" startTime="2019-05-21 08:50:37" endTime="2019-05-21 09:48:21" catchedByOperator="" programName="水浒传(98)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905210948210" programID="2141905210948210" channelID="214" channelName="云南卫视" startTime="2019-05-21 09:48:21" endTime="2019-05-21 10:45:56" catchedByOperator="" programName="水浒传(99)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211045560" programID="2141905211045560" channelID="214" channelName="云南卫视" startTime="2019-05-21 10:45:56" endTime="2019-05-21 11:43:26" catchedByOperator="" programName="水浒传(100)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211143260" programID="2141905211143260" channelID="214" channelName="云南卫视" startTime="2019-05-21 11:43:26" endTime="2019-05-21 12:16:26" catchedByOperator="" programName="水浒传(101)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211216260" programID="2141905211216260" channelID="214" channelName="云南卫视" startTime="2019-05-21 12:16:26" endTime="2019-05-21 12:50:57" catchedByOperator="" programName="伊人风尚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211250570" programID="2141905211250570" channelID="214" channelName="云南卫视" startTime="2019-05-21 12:50:57" endTime="2019-05-21 13:49:21" catchedByOperator="" programName="水浒传(102)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211349210" programID="2141905211349210" channelID="214" channelName="云南卫视" startTime="2019-05-21 13:49:21" endTime="2019-05-21 14:48:52" catchedByOperator="" programName="战火连天(11)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211448520" programID="2141905211448520" channelID="214" channelName="云南卫视" startTime="2019-05-21 14:48:52" endTime="2019-05-21 15:47:46" catchedByOperator="" programName="战火连天(12)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211547460" programID="2141905211547460" channelID="214" channelName="云南卫视" startTime="2019-05-21 15:47:46" endTime="2019-05-21 16:20:46" catchedByOperator="" programName="战火连天(13)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211620460" programID="2141905211620460" channelID="214" channelName="云南卫视" startTime="2019-05-21 16:20:46" endTime="2019-05-21 16:59:01" catchedByOperator="" programName="伊人风尚20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211659010" programID="2141905211659010" channelID="214" channelName="云南卫视" startTime="2019-05-21 16:59:01" endTime="2019-05-21 18:21:21" catchedByOperator="" programName="战火连天(14)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211821210" programID="2141905211821210" channelID="214" channelName="云南卫视" startTime="2019-05-21 18:21:21" endTime="2019-05-21 18:30:14" catchedByOperator="" programName="诗的远方梦的故乡20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211830140" programID="2141905211830140" channelID="214" channelName="云南卫视" startTime="2019-05-21 18:30:14" endTime="2019-05-21 18:56:01" catchedByOperator="" programName="云南新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211856010" programID="2141905211856010" channelID="214" channelName="云南卫视" startTime="2019-05-21 18:56:01" endTime="2019-05-21 19:00:00" catchedByOperator="" programName="关注天气20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211900000" programID="2141905211900000" channelID="214" channelName="云南卫视" startTime="2019-05-21 19:00:00" endTime="2019-05-21 19:33:31" catchedByOperator="" programName="转播中央台新闻联播20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905211933310" programID="2141905211933310" channelID="214" channelName="云南卫视" startTime="2019-05-21 19:33:31" endTime="2019-05-21 20:23:56" catchedByOperator="" programName="守婚如玉(32)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905212023560" programID="2141905212023560" channelID="214" channelName="云南卫视" startTime="2019-05-21 20:23:56" endTime="2019-05-21 21:32:16" catchedByOperator="" programName="守婚如玉(33)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905212132160" programID="2141905212132160" channelID="214" channelName="云南卫视" startTime="2019-05-21 21:32:16" endTime="2019-05-21 22:20:06" catchedByOperator="" programName="经典人文地理20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905212220060" programID="2141905212220060" channelID="214" channelName="云南卫视" startTime="2019-05-21 22:20:06" endTime="2019-05-21 23:03:21" catchedByOperator="" programName="晚间新闻20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905212303210" programID="2141905212303210" channelID="214" channelName="云南卫视" startTime="2019-05-21 23:03:21" endTime="2019-05-21 23:14:22" catchedByOperator="" programName="好在了我的家:家园20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905212314220" programID="2141905212314220" channelID="214" channelName="云南卫视" startTime="2019-05-21 23:14:22" endTime="2019-05-22 00:19:31" catchedByOperator="" programName="独立纵队(7)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="2141905220019310" programID="2141905220019310" channelID="214" channelName="云南卫视" startTime="2019-05-22 00:19:31" endTime="2019-05-22 01:12:32" catchedByOperator="" programName="独立纵队(8)" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>

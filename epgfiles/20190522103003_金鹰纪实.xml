@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="GBK"?>
+<ListOfModel exportTime="2019-05-22 10:30:03" startTime="2019-05-21 01:12:57" endTime="2019-05-22 01:19:11" mode="replace">
+    <ListOfChannel>
+        <Channel channelID="110" channelName="金鹰纪实" />
+    </ListOfChannel>
+    <ListOfProgram>
+        <Program programID="1101905210112570" programName="动物星球20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动物星球20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210204460" programName="纪实真好看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实真好看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210302480" programName="传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">传奇20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210335530" programName="历史片场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">历史片场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210439550" programName="点赞中国20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">点赞中国20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210551490" programName="寰宇地理20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寰宇地理20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210642280" programName="探索20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探索20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210736390" programName="动物星球20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动物星球20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210846110" programName="传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">传奇20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905210934100" programName="纪实真好看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实真好看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211048460" programName="历史片场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">历史片场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211150490" programName="青春湖南20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青春湖南20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211158080" programName="我的纪录片20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的纪录片20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211225480" programName="纪实风云20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实风云20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211230030" programName="历史片场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">历史片场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211340190" programName="纪实真好看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实真好看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211454500" programName="动物星球20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动物星球20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211603190" programName="探索20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探索20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211647490" programName="传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">传奇20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211736100" programName="寰宇地理20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寰宇地理20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211828040" programName="动物星球20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">动物星球20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211914410" programName="纪实风云20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实风云20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905211918510" programName="我的纪录片20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">我的纪录片20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212011340" programName="寰宇地理20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寰宇地理20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212100040" programName="纪实真好看20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实真好看20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212152190" programName="纪实风云20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">纪实风云20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212157220" programName="历史片场20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">历史片场20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212241300" programName="探索20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">探索20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212332510" programName="传奇20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">传奇20190521</MetaData>
+                <MetaData mdUID="3">动作</MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905212359550" programName="青春湖南20190521" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">青春湖南20190521</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+        <Program programID="1101905220006590" programName="寰宇地理20190522" isLastProgram="0">
+            <ListOfMetaData>
+                <MetaData mdUID="1">寰宇地理20190522</MetaData>
+                <MetaData mdUID="3"></MetaData>
+                <MetaData mdUID="29"></MetaData>
+                <MetaData mdUID="30"></MetaData>
+                <MetaData mdUID="15">中国</MetaData>
+            </ListOfMetaData>
+        </Program>
+    </ListOfProgram>
+    <ListOfSchedule>
+        <Schedule scheduleID="1101905210112570" programID="1101905210112570" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 01:12:57" endTime="2019-05-21 02:04:46" catchedByOperator="" programName="动物星球20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210204460" programID="1101905210204460" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 02:04:46" endTime="2019-05-21 03:02:48" catchedByOperator="" programName="纪实真好看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210302480" programID="1101905210302480" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 03:02:48" endTime="2019-05-21 03:35:53" catchedByOperator="" programName="传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210335530" programID="1101905210335530" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 03:35:53" endTime="2019-05-21 04:39:55" catchedByOperator="" programName="历史片场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210439550" programID="1101905210439550" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 04:39:55" endTime="2019-05-21 05:51:49" catchedByOperator="" programName="点赞中国20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210551490" programID="1101905210551490" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 05:51:49" endTime="2019-05-21 06:42:28" catchedByOperator="" programName="寰宇地理20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210642280" programID="1101905210642280" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 06:42:28" endTime="2019-05-21 07:36:39" catchedByOperator="" programName="探索20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210736390" programID="1101905210736390" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 07:36:39" endTime="2019-05-21 08:46:11" catchedByOperator="" programName="动物星球20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210846110" programID="1101905210846110" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 08:46:11" endTime="2019-05-21 09:34:10" catchedByOperator="" programName="传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905210934100" programID="1101905210934100" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 09:34:10" endTime="2019-05-21 10:48:46" catchedByOperator="" programName="纪实真好看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211048460" programID="1101905211048460" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 10:48:46" endTime="2019-05-21 11:50:49" catchedByOperator="" programName="历史片场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211150490" programID="1101905211150490" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 11:50:49" endTime="2019-05-21 11:58:08" catchedByOperator="" programName="青春湖南20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211158080" programID="1101905211158080" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 11:58:08" endTime="2019-05-21 12:25:48" catchedByOperator="" programName="我的纪录片20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211225480" programID="1101905211225480" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 12:25:48" endTime="2019-05-21 12:30:03" catchedByOperator="" programName="纪实风云20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211230030" programID="1101905211230030" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 12:30:03" endTime="2019-05-21 13:40:19" catchedByOperator="" programName="历史片场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211340190" programID="1101905211340190" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 13:40:19" endTime="2019-05-21 14:54:50" catchedByOperator="" programName="纪实真好看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211454500" programID="1101905211454500" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 14:54:50" endTime="2019-05-21 16:03:19" catchedByOperator="" programName="动物星球20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211603190" programID="1101905211603190" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 16:03:19" endTime="2019-05-21 16:47:49" catchedByOperator="" programName="探索20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211647490" programID="1101905211647490" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 16:47:49" endTime="2019-05-21 17:36:10" catchedByOperator="" programName="传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211736100" programID="1101905211736100" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 17:36:10" endTime="2019-05-21 18:28:04" catchedByOperator="" programName="寰宇地理20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211828040" programID="1101905211828040" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 18:28:04" endTime="2019-05-21 19:14:41" catchedByOperator="" programName="动物星球20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211914410" programID="1101905211914410" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 19:14:41" endTime="2019-05-21 19:18:51" catchedByOperator="" programName="纪实风云20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905211918510" programID="1101905211918510" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 19:18:51" endTime="2019-05-21 20:11:34" catchedByOperator="" programName="我的纪录片20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212011340" programID="1101905212011340" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 20:11:34" endTime="2019-05-21 21:00:04" catchedByOperator="" programName="寰宇地理20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212100040" programID="1101905212100040" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 21:00:04" endTime="2019-05-21 21:52:19" catchedByOperator="" programName="纪实真好看20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212152190" programID="1101905212152190" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 21:52:19" endTime="2019-05-21 21:57:22" catchedByOperator="" programName="纪实风云20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212157220" programID="1101905212157220" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 21:57:22" endTime="2019-05-21 22:41:30" catchedByOperator="" programName="历史片场20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212241300" programID="1101905212241300" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 22:41:30" endTime="2019-05-21 23:32:51" catchedByOperator="" programName="探索20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212332510" programID="1101905212332510" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 23:32:51" endTime="2019-05-21 23:59:55" catchedByOperator="" programName="传奇20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905212359550" programID="1101905212359550" channelID="110" channelName="金鹰纪实" startTime="2019-05-21 23:59:55" endTime="2019-05-22 00:06:59" catchedByOperator="" programName="青春湖南20190521" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+        <Schedule scheduleID="1101905220006590" programID="1101905220006590" channelID="110" channelName="金鹰纪实" startTime="2019-05-22 00:06:59" endTime="2019-05-22 01:19:11" catchedByOperator="" programName="寰宇地理20190522" providerID="" providerName="" providerAssetID="" canBeRecorded="1" />
+    </ListOfSchedule>
+</ListOfModel>
