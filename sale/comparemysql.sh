@@ -1,5 +1,6 @@
 #!/bin/bash
 
+###
 dbs="ApolloConfigDB ApolloPortalDB activemq adaptor au contract hub jumpserver mysql performance_schema qingshan risk risk_client seafile semaphore stargaze sys tianxun xxljob"
 selectsql1="mysql -P13306 -udump -p123zrt"
 selectsql2="mysql -h10.10.106.221 -P13306 -uroot -pQAZwsx123456"
