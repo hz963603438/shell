@@ -13,8 +13,8 @@ FTPPWD='123456'
 #open $FTPIP                     
 #user $FTPUSER $FTPPWD           
 #binary			
-#cd $FTPDIR		
-#lcd $DOWNLOADDIR
+#cd $FTPDIR	               #ftp服务器目录	   ftp远端目录
+#lcd $DOWNLOADDIR	       #要数据下载的目录   本地目录
 #prompt			
 #mget *.txt	
 #close		
@@ -28,8 +28,8 @@ ftp -n <<!
 open $FTPIP
 user $FTPUSER $FTPPWD
 binary                          #二进制传输
-cd $FTPDIR			#ftp服务器目录
-lcd $UPLOADDIR 		    	#数据要上传的目录
+cd $FTPDIR			#ftp服务器目录      ftp远端目录
+lcd $UPLOADDIR 		    	#数据要上传的目录   本地目录
 prompt				#切换交互式提示
 put -r ./		
 close
