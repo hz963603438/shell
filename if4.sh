@@ -9,7 +9,7 @@ if [ $# -ne 2 ] ;then
 exit
 fi
  
-#以上判断后，输入的两个参数将传递到如下指令判断
+##以上判断后，输入的两个参数将传递到如下指令判断
 if [ $num1 -gt $num2 ] ; then
    echo $num1 great than $num2
  
