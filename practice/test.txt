@@ -1,0 +1,23 @@
+cat > test.txt <<EOF
+I am oldboy teacher!
+I teach linux.
+
+I like badminton ball ,billiard ball and chinese chess!
+my blog is http://oldboy.blog.51cto.com
+our site is http://www.etiantian.org
+my qq num is 49000448.
+
+not 4900000448.
+my god ,i am not oldbey,but OLDBOY!
+afms
+<<<<<<< HEAD
+=======
+
+66666666
+88888888
+
+yyyyyyyyy
+ttttttttt
+ajsafkas
+afgfhg
+>>>>>>> 182e9369a951c001b738b11e7dd2ded35b348bb1
